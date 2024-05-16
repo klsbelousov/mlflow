@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ca38380cc3dc4385b27ff853aec10f4c/artifacts
+end_time: 1715883811385
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ca38380cc3dc4385b27ff853aec10f4c
+run_name: sincere-cat-439
+run_uuid: ca38380cc3dc4385b27ff853aec10f4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883811288
+status: 3
+tags: []
+user_id: klimbelousov

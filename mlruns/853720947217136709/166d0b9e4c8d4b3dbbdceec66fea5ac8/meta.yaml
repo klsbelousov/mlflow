@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/166d0b9e4c8d4b3dbbdceec66fea5ac8/artifacts
+end_time: 1715883626584
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 166d0b9e4c8d4b3dbbdceec66fea5ac8
+run_name: bald-mink-568
+run_uuid: 166d0b9e4c8d4b3dbbdceec66fea5ac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883626433
+status: 3
+tags: []
+user_id: klimbelousov

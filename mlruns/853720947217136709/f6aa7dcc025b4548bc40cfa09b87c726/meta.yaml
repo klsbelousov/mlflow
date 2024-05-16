@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f6aa7dcc025b4548bc40cfa09b87c726/artifacts
+end_time: 1715884340930
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f6aa7dcc025b4548bc40cfa09b87c726
+run_name: carefree-horse-995
+run_uuid: f6aa7dcc025b4548bc40cfa09b87c726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884340848
+status: 3
+tags: []
+user_id: klimbelousov

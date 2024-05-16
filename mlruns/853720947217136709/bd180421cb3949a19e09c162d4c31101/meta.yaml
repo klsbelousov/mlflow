@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/bd180421cb3949a19e09c162d4c31101/artifacts
+end_time: 1715883665844
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: bd180421cb3949a19e09c162d4c31101
+run_name: languid-fox-676
+run_uuid: bd180421cb3949a19e09c162d4c31101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883665752
+status: 3
+tags: []
+user_id: klimbelousov

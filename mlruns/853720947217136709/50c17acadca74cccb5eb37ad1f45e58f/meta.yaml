@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/50c17acadca74cccb5eb37ad1f45e58f/artifacts
+end_time: 1715884343771
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 50c17acadca74cccb5eb37ad1f45e58f
+run_name: intrigued-rook-612
+run_uuid: 50c17acadca74cccb5eb37ad1f45e58f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884343680
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a2a76056d6db4b5b9a861c0d2c5299c1/artifacts
+end_time: 1715883670023
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a2a76056d6db4b5b9a861c0d2c5299c1
+run_name: learned-goose-955
+run_uuid: a2a76056d6db4b5b9a861c0d2c5299c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883669907
+status: 3
+tags: []
+user_id: klimbelousov

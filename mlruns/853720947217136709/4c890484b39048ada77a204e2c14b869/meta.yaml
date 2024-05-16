@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4c890484b39048ada77a204e2c14b869/artifacts
+end_time: 1715884339489
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4c890484b39048ada77a204e2c14b869
+run_name: ambitious-ram-791
+run_uuid: 4c890484b39048ada77a204e2c14b869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884339410
+status: 3
+tags: []
+user_id: klimbelousov

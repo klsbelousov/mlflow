@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/158994a9bc1c4a95945df8b1526bb921/artifacts
+end_time: 1715884354611
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 158994a9bc1c4a95945df8b1526bb921
+run_name: masked-zebra-118
+run_uuid: 158994a9bc1c4a95945df8b1526bb921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884354530
+status: 3
+tags: []
+user_id: klimbelousov

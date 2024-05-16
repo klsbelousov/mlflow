@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d1cf78e50481405ab0d5bb294f3ff49c/artifacts
+end_time: 1715883636712
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d1cf78e50481405ab0d5bb294f3ff49c
+run_name: honorable-ram-346
+run_uuid: d1cf78e50481405ab0d5bb294f3ff49c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883636576
+status: 3
+tags: []
+user_id: klimbelousov

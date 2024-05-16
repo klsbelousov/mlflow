@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/50da7519b2ae431fb1c0577ce998475b/artifacts
+end_time: 1715883836834
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 50da7519b2ae431fb1c0577ce998475b
+run_name: fearless-squid-215
+run_uuid: 50da7519b2ae431fb1c0577ce998475b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883836731
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c46ff20e27904b05a198be9709916800/artifacts
+end_time: 1715883912401
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c46ff20e27904b05a198be9709916800
+run_name: righteous-mink-142
+run_uuid: c46ff20e27904b05a198be9709916800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883912276
+status: 3
+tags: []
+user_id: klimbelousov

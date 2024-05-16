@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/590aa66657a843d5bd2f513f8dd17aa4/artifacts
+end_time: 1715884361994
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 590aa66657a843d5bd2f513f8dd17aa4
+run_name: crawling-sloth-126
+run_uuid: 590aa66657a843d5bd2f513f8dd17aa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884361897
+status: 3
+tags: []
+user_id: klimbelousov

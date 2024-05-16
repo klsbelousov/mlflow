@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/685d8562dc6546309bca53f727f44019/artifacts
+end_time: 1715883818378
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 685d8562dc6546309bca53f727f44019
+run_name: kindly-swan-252
+run_uuid: 685d8562dc6546309bca53f727f44019
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883818269
+status: 3
+tags: []
+user_id: klimbelousov

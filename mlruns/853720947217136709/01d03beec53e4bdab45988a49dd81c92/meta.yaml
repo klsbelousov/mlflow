@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/01d03beec53e4bdab45988a49dd81c92/artifacts
+end_time: 1715883907079
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 01d03beec53e4bdab45988a49dd81c92
+run_name: magnificent-grub-813
+run_uuid: 01d03beec53e4bdab45988a49dd81c92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883906990
+status: 3
+tags: []
+user_id: klimbelousov

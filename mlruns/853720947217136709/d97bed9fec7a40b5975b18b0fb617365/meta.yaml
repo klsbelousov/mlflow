@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d97bed9fec7a40b5975b18b0fb617365/artifacts
+end_time: 1715883913108
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d97bed9fec7a40b5975b18b0fb617365
+run_name: selective-turtle-638
+run_uuid: d97bed9fec7a40b5975b18b0fb617365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883913014
+status: 3
+tags: []
+user_id: klimbelousov

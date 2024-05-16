@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/cf9b265c9c3641e9b2f1a7800bacf4cc/artifacts
+end_time: 1715883821801
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: cf9b265c9c3641e9b2f1a7800bacf4cc
+run_name: thoughtful-snail-154
+run_uuid: cf9b265c9c3641e9b2f1a7800bacf4cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883821656
+status: 3
+tags: []
+user_id: klimbelousov

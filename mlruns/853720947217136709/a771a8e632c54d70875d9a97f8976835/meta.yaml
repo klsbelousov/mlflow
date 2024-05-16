@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a771a8e632c54d70875d9a97f8976835/artifacts
+end_time: 1715884350350
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a771a8e632c54d70875d9a97f8976835
+run_name: burly-yak-985
+run_uuid: a771a8e632c54d70875d9a97f8976835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884350260
+status: 3
+tags: []
+user_id: klimbelousov

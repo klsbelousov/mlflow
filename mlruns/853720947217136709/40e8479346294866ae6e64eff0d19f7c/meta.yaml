@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/40e8479346294866ae6e64eff0d19f7c/artifacts
+end_time: 1715883629574
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 40e8479346294866ae6e64eff0d19f7c
+run_name: melodic-fowl-774
+run_uuid: 40e8479346294866ae6e64eff0d19f7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883629424
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/74939d2bc5994f51bdc6917798880d41/artifacts
+end_time: 1715883897009
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 74939d2bc5994f51bdc6917798880d41
+run_name: sincere-zebra-668
+run_uuid: 74939d2bc5994f51bdc6917798880d41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883896772
+status: 3
+tags: []
+user_id: klimbelousov

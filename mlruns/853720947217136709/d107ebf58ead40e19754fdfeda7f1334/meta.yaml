@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d107ebf58ead40e19754fdfeda7f1334/artifacts
+end_time: 1715884331229
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d107ebf58ead40e19754fdfeda7f1334
+run_name: adventurous-moth-99
+run_uuid: d107ebf58ead40e19754fdfeda7f1334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884331134
+status: 3
+tags: []
+user_id: klimbelousov

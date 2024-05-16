@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1928e9c4c8d94c249a6f4badef93a290/artifacts
+end_time: 1715883826208
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1928e9c4c8d94c249a6f4badef93a290
+run_name: merciful-panda-862
+run_uuid: 1928e9c4c8d94c249a6f4badef93a290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883826129
+status: 3
+tags: []
+user_id: klimbelousov

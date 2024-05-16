@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b2b4973ea1304474896418e83ac998fb/artifacts
+end_time: 1715883941626
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b2b4973ea1304474896418e83ac998fb
+run_name: rumbling-shark-491
+run_uuid: b2b4973ea1304474896418e83ac998fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883941481
+status: 3
+tags: []
+user_id: klimbelousov

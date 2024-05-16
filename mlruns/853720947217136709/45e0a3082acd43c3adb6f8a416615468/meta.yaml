@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/45e0a3082acd43c3adb6f8a416615468/artifacts
+end_time: 1715884348751
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 45e0a3082acd43c3adb6f8a416615468
+run_name: rebellious-shark-752
+run_uuid: 45e0a3082acd43c3adb6f8a416615468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884348660
+status: 3
+tags: []
+user_id: klimbelousov

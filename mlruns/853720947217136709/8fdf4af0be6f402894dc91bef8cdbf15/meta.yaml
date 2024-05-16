@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8fdf4af0be6f402894dc91bef8cdbf15/artifacts
+end_time: 1715883828966
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8fdf4af0be6f402894dc91bef8cdbf15
+run_name: vaunted-gnu-538
+run_uuid: 8fdf4af0be6f402894dc91bef8cdbf15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883828899
+status: 3
+tags: []
+user_id: klimbelousov

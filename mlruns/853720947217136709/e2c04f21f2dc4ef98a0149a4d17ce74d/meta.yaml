@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e2c04f21f2dc4ef98a0149a4d17ce74d/artifacts
+end_time: 1715884340357
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e2c04f21f2dc4ef98a0149a4d17ce74d
+run_name: bright-shrike-695
+run_uuid: e2c04f21f2dc4ef98a0149a4d17ce74d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884340267
+status: 3
+tags: []
+user_id: klimbelousov

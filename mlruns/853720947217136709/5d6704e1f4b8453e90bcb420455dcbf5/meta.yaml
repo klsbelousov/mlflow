@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5d6704e1f4b8453e90bcb420455dcbf5/artifacts
+end_time: 1715883810363
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5d6704e1f4b8453e90bcb420455dcbf5
+run_name: magnificent-crab-224
+run_uuid: 5d6704e1f4b8453e90bcb420455dcbf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883810254
+status: 3
+tags: []
+user_id: klimbelousov

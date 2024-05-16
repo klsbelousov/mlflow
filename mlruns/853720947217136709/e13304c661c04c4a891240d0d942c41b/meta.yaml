@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e13304c661c04c4a891240d0d942c41b/artifacts
+end_time: 1715883666122
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e13304c661c04c4a891240d0d942c41b
+run_name: worried-chimp-835
+run_uuid: e13304c661c04c4a891240d0d942c41b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883665991
+status: 3
+tags: []
+user_id: klimbelousov

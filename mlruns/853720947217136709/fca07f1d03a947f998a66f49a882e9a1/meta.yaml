@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fca07f1d03a947f998a66f49a882e9a1/artifacts
+end_time: 1715883658106
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fca07f1d03a947f998a66f49a882e9a1
+run_name: adorable-swan-0
+run_uuid: fca07f1d03a947f998a66f49a882e9a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883658012
+status: 3
+tags: []
+user_id: klimbelousov

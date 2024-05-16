@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a6ae367c5ba9424ab7778b368a144d90/artifacts
+end_time: 1715883861677
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a6ae367c5ba9424ab7778b368a144d90
+run_name: judicious-shrike-556
+run_uuid: a6ae367c5ba9424ab7778b368a144d90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883861601
+status: 3
+tags: []
+user_id: klimbelousov

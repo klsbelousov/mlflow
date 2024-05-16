@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8acbbdf14f7b4367bb04c05bceb98eac/artifacts
+end_time: 1715883675112
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8acbbdf14f7b4367bb04c05bceb98eac
+run_name: vaunted-ray-97
+run_uuid: 8acbbdf14f7b4367bb04c05bceb98eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883674992
+status: 3
+tags: []
+user_id: klimbelousov

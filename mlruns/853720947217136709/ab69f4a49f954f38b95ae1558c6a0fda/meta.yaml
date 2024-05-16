@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ab69f4a49f954f38b95ae1558c6a0fda/artifacts
+end_time: 1715883949550
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ab69f4a49f954f38b95ae1558c6a0fda
+run_name: nebulous-shrimp-316
+run_uuid: ab69f4a49f954f38b95ae1558c6a0fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883949419
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/3565b9461df740049efe3ec3b171b435/artifacts
+end_time: 1715884367518
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 3565b9461df740049efe3ec3b171b435
+run_name: gentle-lamb-173
+run_uuid: 3565b9461df740049efe3ec3b171b435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884367364
+status: 3
+tags: []
+user_id: klimbelousov

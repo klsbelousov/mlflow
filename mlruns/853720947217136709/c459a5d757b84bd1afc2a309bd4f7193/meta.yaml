@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c459a5d757b84bd1afc2a309bd4f7193/artifacts
+end_time: 1715883630163
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c459a5d757b84bd1afc2a309bd4f7193
+run_name: tasteful-goose-803
+run_uuid: c459a5d757b84bd1afc2a309bd4f7193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883629988
+status: 3
+tags: []
+user_id: klimbelousov

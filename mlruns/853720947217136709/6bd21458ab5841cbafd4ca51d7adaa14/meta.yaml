@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/6bd21458ab5841cbafd4ca51d7adaa14/artifacts
+end_time: 1715883624960
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 6bd21458ab5841cbafd4ca51d7adaa14
+run_name: brawny-kit-278
+run_uuid: 6bd21458ab5841cbafd4ca51d7adaa14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883624778
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ef16bf3cfb484e85b59ffb5bde1c0d3e/artifacts
+end_time: 1715883662428
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ef16bf3cfb484e85b59ffb5bde1c0d3e
+run_name: shivering-skunk-722
+run_uuid: ef16bf3cfb484e85b59ffb5bde1c0d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883662291
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a1860410cdfb497aa3169b4408e59b6d/artifacts
+end_time: 1715883670192
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a1860410cdfb497aa3169b4408e59b6d
+run_name: adventurous-rat-539
+run_uuid: a1860410cdfb497aa3169b4408e59b6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883670037
+status: 3
+tags: []
+user_id: klimbelousov

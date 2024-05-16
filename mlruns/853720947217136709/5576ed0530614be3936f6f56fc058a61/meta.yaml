@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5576ed0530614be3936f6f56fc058a61/artifacts
+end_time: 1715884362551
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5576ed0530614be3936f6f56fc058a61
+run_name: dazzling-moose-911
+run_uuid: 5576ed0530614be3936f6f56fc058a61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884362463
+status: 3
+tags: []
+user_id: klimbelousov

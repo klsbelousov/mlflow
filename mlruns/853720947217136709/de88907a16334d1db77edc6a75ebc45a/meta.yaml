@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/de88907a16334d1db77edc6a75ebc45a/artifacts
+end_time: 1715883927116
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: de88907a16334d1db77edc6a75ebc45a
+run_name: placid-foal-146
+run_uuid: de88907a16334d1db77edc6a75ebc45a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883926997
+status: 3
+tags: []
+user_id: klimbelousov

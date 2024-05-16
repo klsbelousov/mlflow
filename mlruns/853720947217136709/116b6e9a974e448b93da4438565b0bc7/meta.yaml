@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/116b6e9a974e448b93da4438565b0bc7/artifacts
+end_time: 1715884373385
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 116b6e9a974e448b93da4438565b0bc7
+run_name: efficient-mole-632
+run_uuid: 116b6e9a974e448b93da4438565b0bc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884373303
+status: 3
+tags: []
+user_id: klimbelousov

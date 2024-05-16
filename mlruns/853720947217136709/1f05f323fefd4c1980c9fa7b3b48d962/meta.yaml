@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1f05f323fefd4c1980c9fa7b3b48d962/artifacts
+end_time: 1715883662566
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1f05f323fefd4c1980c9fa7b3b48d962
+run_name: clumsy-bird-936
+run_uuid: 1f05f323fefd4c1980c9fa7b3b48d962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883662440
+status: 3
+tags: []
+user_id: klimbelousov

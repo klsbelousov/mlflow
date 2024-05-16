@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/621cae6b4212422aa2046690c4be80a2/artifacts
+end_time: 1715883947645
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 621cae6b4212422aa2046690c4be80a2
+run_name: traveling-hog-843
+run_uuid: 621cae6b4212422aa2046690c4be80a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883947509
+status: 3
+tags: []
+user_id: klimbelousov

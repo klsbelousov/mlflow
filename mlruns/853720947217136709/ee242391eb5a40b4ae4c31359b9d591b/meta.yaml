@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ee242391eb5a40b4ae4c31359b9d591b/artifacts
+end_time: 1715883821983
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ee242391eb5a40b4ae4c31359b9d591b
+run_name: youthful-ram-33
+run_uuid: ee242391eb5a40b4ae4c31359b9d591b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883821815
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a4f7c841e6414bbcbc1fe059f59e4aba/artifacts
+end_time: 1715883926567
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a4f7c841e6414bbcbc1fe059f59e4aba
+run_name: luxuriant-fish-372
+run_uuid: a4f7c841e6414bbcbc1fe059f59e4aba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883926471
+status: 3
+tags: []
+user_id: klimbelousov

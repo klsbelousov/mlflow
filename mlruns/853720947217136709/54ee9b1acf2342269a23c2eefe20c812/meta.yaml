@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/54ee9b1acf2342269a23c2eefe20c812/artifacts
+end_time: 1715883622827
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 54ee9b1acf2342269a23c2eefe20c812
+run_name: bemused-finch-985
+run_uuid: 54ee9b1acf2342269a23c2eefe20c812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883622675
+status: 3
+tags: []
+user_id: klimbelousov

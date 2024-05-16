@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1d54d7763cd9431084d7f3d08f6b9886/artifacts
+end_time: 1715883820475
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1d54d7763cd9431084d7f3d08f6b9886
+run_name: beautiful-hare-757
+run_uuid: 1d54d7763cd9431084d7f3d08f6b9886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883820336
+status: 3
+tags: []
+user_id: klimbelousov

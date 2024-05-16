@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a1feea8f9027424e807ba8dfa370ab17/artifacts
+end_time: 1715883863935
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a1feea8f9027424e807ba8dfa370ab17
+run_name: burly-conch-668
+run_uuid: a1feea8f9027424e807ba8dfa370ab17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883863824
+status: 3
+tags: []
+user_id: klimbelousov

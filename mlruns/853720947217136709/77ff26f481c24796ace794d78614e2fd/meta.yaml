@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/77ff26f481c24796ace794d78614e2fd/artifacts
+end_time: 1715883917994
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 77ff26f481c24796ace794d78614e2fd
+run_name: delightful-fowl-374
+run_uuid: 77ff26f481c24796ace794d78614e2fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883917913
+status: 3
+tags: []
+user_id: klimbelousov

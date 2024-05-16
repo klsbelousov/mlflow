@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5a39aeffd8074236b54fa88c96dd664e/artifacts
+end_time: 1715884357984
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5a39aeffd8074236b54fa88c96dd664e
+run_name: dazzling-ram-39
+run_uuid: 5a39aeffd8074236b54fa88c96dd664e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884357889
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d07f0a65c10448a4aeed54d5844867dc/artifacts
+end_time: 1715884377144
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d07f0a65c10448a4aeed54d5844867dc
+run_name: stylish-calf-886
+run_uuid: d07f0a65c10448a4aeed54d5844867dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884377032
+status: 3
+tags: []
+user_id: klimbelousov

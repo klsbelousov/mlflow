@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c9dd28503fd8449c90bdfdddaa4d2169/artifacts
+end_time: 1715884341795
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c9dd28503fd8449c90bdfdddaa4d2169
+run_name: enthused-shoat-36
+run_uuid: c9dd28503fd8449c90bdfdddaa4d2169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884341704
+status: 3
+tags: []
+user_id: klimbelousov

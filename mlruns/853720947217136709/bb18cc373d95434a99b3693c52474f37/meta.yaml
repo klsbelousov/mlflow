@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/bb18cc373d95434a99b3693c52474f37/artifacts
+end_time: 1715884368288
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: bb18cc373d95434a99b3693c52474f37
+run_name: abundant-wasp-555
+run_uuid: bb18cc373d95434a99b3693c52474f37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884368204
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1a245de1899044028b74891c8c6ac8e7/artifacts
+end_time: 1715883628513
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1a245de1899044028b74891c8c6ac8e7
+run_name: zealous-grub-535
+run_uuid: 1a245de1899044028b74891c8c6ac8e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883628353
+status: 3
+tags: []
+user_id: klimbelousov

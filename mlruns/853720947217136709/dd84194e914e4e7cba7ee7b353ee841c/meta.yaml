@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/dd84194e914e4e7cba7ee7b353ee841c/artifacts
+end_time: 1715883870281
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: dd84194e914e4e7cba7ee7b353ee841c
+run_name: gifted-crane-519
+run_uuid: dd84194e914e4e7cba7ee7b353ee841c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883870187
+status: 3
+tags: []
+user_id: klimbelousov

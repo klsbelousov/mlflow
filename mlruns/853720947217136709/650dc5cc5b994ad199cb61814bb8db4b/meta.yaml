@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/650dc5cc5b994ad199cb61814bb8db4b/artifacts
+end_time: 1715883675681
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 650dc5cc5b994ad199cb61814bb8db4b
+run_name: rogue-donkey-676
+run_uuid: 650dc5cc5b994ad199cb61814bb8db4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883675570
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/3ffa0c19715a4c6e883fe3f9cb81249b/artifacts
+end_time: 1715884358604
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 3ffa0c19715a4c6e883fe3f9cb81249b
+run_name: lyrical-crow-357
+run_uuid: 3ffa0c19715a4c6e883fe3f9cb81249b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884358518
+status: 3
+tags: []
+user_id: klimbelousov

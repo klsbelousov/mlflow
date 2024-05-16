@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/cb28392041d0459ca134139418bbf08b/artifacts
+end_time: 1715884360767
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: cb28392041d0459ca134139418bbf08b
+run_name: valuable-mare-858
+run_uuid: cb28392041d0459ca134139418bbf08b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884360665
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ea52ee3f0d8e4ac5a00360b7ccd2121b/artifacts
+end_time: 1715883649463
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ea52ee3f0d8e4ac5a00360b7ccd2121b
+run_name: glamorous-steed-991
+run_uuid: ea52ee3f0d8e4ac5a00360b7ccd2121b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883649325
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/3a53e3fc96cc4ba68e8eafedaf28681f/artifacts
+end_time: 1715883634841
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 3a53e3fc96cc4ba68e8eafedaf28681f
+run_name: sassy-fish-664
+run_uuid: 3a53e3fc96cc4ba68e8eafedaf28681f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883634750
+status: 3
+tags: []
+user_id: klimbelousov

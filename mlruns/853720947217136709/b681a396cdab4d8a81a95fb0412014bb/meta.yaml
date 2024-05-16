@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b681a396cdab4d8a81a95fb0412014bb/artifacts
+end_time: 1715884352960
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b681a396cdab4d8a81a95fb0412014bb
+run_name: receptive-hound-134
+run_uuid: b681a396cdab4d8a81a95fb0412014bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884352859
+status: 3
+tags: []
+user_id: klimbelousov

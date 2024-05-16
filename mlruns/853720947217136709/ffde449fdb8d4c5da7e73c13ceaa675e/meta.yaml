@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ffde449fdb8d4c5da7e73c13ceaa675e/artifacts
+end_time: 1715884338026
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ffde449fdb8d4c5da7e73c13ceaa675e
+run_name: clumsy-mole-778
+run_uuid: ffde449fdb8d4c5da7e73c13ceaa675e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884337950
+status: 3
+tags: []
+user_id: klimbelousov

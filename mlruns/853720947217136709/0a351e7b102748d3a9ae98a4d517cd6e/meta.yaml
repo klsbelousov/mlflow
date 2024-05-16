@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0a351e7b102748d3a9ae98a4d517cd6e/artifacts
+end_time: 1715883828892
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0a351e7b102748d3a9ae98a4d517cd6e
+run_name: rebellious-moose-239
+run_uuid: 0a351e7b102748d3a9ae98a4d517cd6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883828827
+status: 3
+tags: []
+user_id: klimbelousov

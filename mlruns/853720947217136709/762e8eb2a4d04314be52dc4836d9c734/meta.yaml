@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/762e8eb2a4d04314be52dc4836d9c734/artifacts
+end_time: 1715883851774
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 762e8eb2a4d04314be52dc4836d9c734
+run_name: enthused-worm-356
+run_uuid: 762e8eb2a4d04314be52dc4836d9c734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883851682
+status: 3
+tags: []
+user_id: klimbelousov

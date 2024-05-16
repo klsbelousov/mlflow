@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/17a5f4bce8ef4df8a7feedeb967df587/artifacts
+end_time: 1715883640549
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 17a5f4bce8ef4df8a7feedeb967df587
+run_name: dashing-loon-556
+run_uuid: 17a5f4bce8ef4df8a7feedeb967df587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883640471
+status: 3
+tags: []
+user_id: klimbelousov

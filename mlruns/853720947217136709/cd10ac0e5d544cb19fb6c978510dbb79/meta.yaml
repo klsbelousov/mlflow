@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/cd10ac0e5d544cb19fb6c978510dbb79/artifacts
+end_time: 1715883829655
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: cd10ac0e5d544cb19fb6c978510dbb79
+run_name: honorable-rat-392
+run_uuid: cd10ac0e5d544cb19fb6c978510dbb79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883829528
+status: 3
+tags: []
+user_id: klimbelousov

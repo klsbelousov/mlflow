@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/bf5ec2d646f443e68c9710736510c5f7/artifacts
+end_time: 1715883901925
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: bf5ec2d646f443e68c9710736510c5f7
+run_name: stately-stork-57
+run_uuid: bf5ec2d646f443e68c9710736510c5f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883901816
+status: 3
+tags: []
+user_id: klimbelousov

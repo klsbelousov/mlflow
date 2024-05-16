@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/09458297dcfa41b0ab236e6101d17bd3/artifacts
+end_time: 1715883910155
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 09458297dcfa41b0ab236e6101d17bd3
+run_name: capricious-smelt-384
+run_uuid: 09458297dcfa41b0ab236e6101d17bd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883910070
+status: 3
+tags: []
+user_id: klimbelousov

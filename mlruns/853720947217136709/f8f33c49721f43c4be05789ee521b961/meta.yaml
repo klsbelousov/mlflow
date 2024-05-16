@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f8f33c49721f43c4be05789ee521b961/artifacts
+end_time: 1715883666678
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f8f33c49721f43c4be05789ee521b961
+run_name: worried-lark-151
+run_uuid: f8f33c49721f43c4be05789ee521b961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883666565
+status: 3
+tags: []
+user_id: klimbelousov

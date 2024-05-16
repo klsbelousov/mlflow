@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/de4e2645ca874ca3af0dc661763797c9/artifacts
+end_time: 1715883818114
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: de4e2645ca874ca3af0dc661763797c9
+run_name: glamorous-shrike-284
+run_uuid: de4e2645ca874ca3af0dc661763797c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883817992
+status: 3
+tags: []
+user_id: klimbelousov

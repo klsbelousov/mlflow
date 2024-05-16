@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4ba9428708a9499899b0af74b808edf0/artifacts
+end_time: 1715883897593
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4ba9428708a9499899b0af74b808edf0
+run_name: abundant-wren-395
+run_uuid: 4ba9428708a9499899b0af74b808edf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883897367
+status: 3
+tags: []
+user_id: klimbelousov

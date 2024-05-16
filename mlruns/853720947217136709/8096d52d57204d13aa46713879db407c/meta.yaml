@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8096d52d57204d13aa46713879db407c/artifacts
+end_time: 1715883832903
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8096d52d57204d13aa46713879db407c
+run_name: abundant-crow-441
+run_uuid: 8096d52d57204d13aa46713879db407c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883832767
+status: 3
+tags: []
+user_id: klimbelousov

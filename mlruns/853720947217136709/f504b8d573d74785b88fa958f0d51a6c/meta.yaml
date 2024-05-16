@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f504b8d573d74785b88fa958f0d51a6c/artifacts
+end_time: 1715883668465
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f504b8d573d74785b88fa958f0d51a6c
+run_name: beautiful-fawn-325
+run_uuid: f504b8d573d74785b88fa958f0d51a6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883668375
+status: 3
+tags: []
+user_id: klimbelousov

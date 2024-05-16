@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e44d1b8dd75640d0a8c5127e28b4922d/artifacts
+end_time: 1715883934919
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e44d1b8dd75640d0a8c5127e28b4922d
+run_name: bedecked-snail-563
+run_uuid: e44d1b8dd75640d0a8c5127e28b4922d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883934791
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5a98183fd52c4f1bba028210c3884939/artifacts
+end_time: 1715883927910
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5a98183fd52c4f1bba028210c3884939
+run_name: gregarious-newt-169
+run_uuid: 5a98183fd52c4f1bba028210c3884939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883927780
+status: 3
+tags: []
+user_id: klimbelousov

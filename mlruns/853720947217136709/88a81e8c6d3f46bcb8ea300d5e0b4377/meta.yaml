@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/88a81e8c6d3f46bcb8ea300d5e0b4377/artifacts
+end_time: 1715883937857
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 88a81e8c6d3f46bcb8ea300d5e0b4377
+run_name: overjoyed-fly-759
+run_uuid: 88a81e8c6d3f46bcb8ea300d5e0b4377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883937718
+status: 3
+tags: []
+user_id: klimbelousov

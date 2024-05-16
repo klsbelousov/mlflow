@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1efd8eada09f4ec8a8cae372f061e220/artifacts
+end_time: 1715883955906
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1efd8eada09f4ec8a8cae372f061e220
+run_name: invincible-shad-749
+run_uuid: 1efd8eada09f4ec8a8cae372f061e220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883955802
+status: 3
+tags: []
+user_id: klimbelousov

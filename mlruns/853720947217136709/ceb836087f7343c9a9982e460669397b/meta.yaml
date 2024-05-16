@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ceb836087f7343c9a9982e460669397b/artifacts
+end_time: 1715884379551
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ceb836087f7343c9a9982e460669397b
+run_name: nebulous-cow-187
+run_uuid: ceb836087f7343c9a9982e460669397b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884379432
+status: 3
+tags: []
+user_id: klimbelousov

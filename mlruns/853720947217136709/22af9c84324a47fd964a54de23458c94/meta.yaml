@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/22af9c84324a47fd964a54de23458c94/artifacts
+end_time: 1715883858906
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 22af9c84324a47fd964a54de23458c94
+run_name: rare-sloth-139
+run_uuid: 22af9c84324a47fd964a54de23458c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883858760
+status: 3
+tags: []
+user_id: klimbelousov

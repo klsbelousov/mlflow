@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/150fa3978c914dd6a5078fd870970161/artifacts
+end_time: 1715883940470
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 150fa3978c914dd6a5078fd870970161
+run_name: overjoyed-gnat-774
+run_uuid: 150fa3978c914dd6a5078fd870970161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883940326
+status: 3
+tags: []
+user_id: klimbelousov

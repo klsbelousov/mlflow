@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/6ec720a2903446458a21951dc10f0f0b/artifacts
+end_time: 1715883867997
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 6ec720a2903446458a21951dc10f0f0b
+run_name: carefree-snake-901
+run_uuid: 6ec720a2903446458a21951dc10f0f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883867905
+status: 3
+tags: []
+user_id: klimbelousov

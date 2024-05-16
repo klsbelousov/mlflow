@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/83148b06f35b4832876254f1eaa11989/artifacts
+end_time: 1715883633840
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 83148b06f35b4832876254f1eaa11989
+run_name: receptive-snipe-826
+run_uuid: 83148b06f35b4832876254f1eaa11989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883633723
+status: 3
+tags: []
+user_id: klimbelousov

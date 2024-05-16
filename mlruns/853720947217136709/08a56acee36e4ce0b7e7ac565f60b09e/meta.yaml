@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/08a56acee36e4ce0b7e7ac565f60b09e/artifacts
+end_time: 1715883917433
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 08a56acee36e4ce0b7e7ac565f60b09e
+run_name: adaptable-steed-428
+run_uuid: 08a56acee36e4ce0b7e7ac565f60b09e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883917327
+status: 3
+tags: []
+user_id: klimbelousov

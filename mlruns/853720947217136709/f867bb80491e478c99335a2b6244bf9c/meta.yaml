@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f867bb80491e478c99335a2b6244bf9c/artifacts
+end_time: 1715883902716
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f867bb80491e478c99335a2b6244bf9c
+run_name: unruly-eel-161
+run_uuid: f867bb80491e478c99335a2b6244bf9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883902613
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/971228e564ab4bf78f46294d1155fcdb/artifacts
+end_time: 1715883945472
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 971228e564ab4bf78f46294d1155fcdb
+run_name: receptive-yak-213
+run_uuid: 971228e564ab4bf78f46294d1155fcdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883945336
+status: 3
+tags: []
+user_id: klimbelousov

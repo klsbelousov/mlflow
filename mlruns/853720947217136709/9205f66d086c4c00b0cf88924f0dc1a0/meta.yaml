@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9205f66d086c4c00b0cf88924f0dc1a0/artifacts
+end_time: 1715884351290
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9205f66d086c4c00b0cf88924f0dc1a0
+run_name: omniscient-shad-618
+run_uuid: 9205f66d086c4c00b0cf88924f0dc1a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884351203
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9bc3687434ef4e97ab2517f9d433cefb/artifacts
+end_time: 1715883810825
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9bc3687434ef4e97ab2517f9d433cefb
+run_name: delightful-snipe-68
+run_uuid: 9bc3687434ef4e97ab2517f9d433cefb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883810729
+status: 3
+tags: []
+user_id: klimbelousov

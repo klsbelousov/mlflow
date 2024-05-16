@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/cfc5e6186df646dfa0b868e506f93fb2/artifacts
+end_time: 1715883629243
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: cfc5e6186df646dfa0b868e506f93fb2
+run_name: unruly-stag-610
+run_uuid: cfc5e6186df646dfa0b868e506f93fb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883629077
+status: 3
+tags: []
+user_id: klimbelousov

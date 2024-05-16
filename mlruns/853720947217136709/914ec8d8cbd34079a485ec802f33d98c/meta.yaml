@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/914ec8d8cbd34079a485ec802f33d98c/artifacts
+end_time: 1715883835581
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 914ec8d8cbd34079a485ec802f33d98c
+run_name: blushing-shrike-851
+run_uuid: 914ec8d8cbd34079a485ec802f33d98c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883835433
+status: 3
+tags: []
+user_id: klimbelousov

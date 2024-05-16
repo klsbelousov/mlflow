@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5c29d5b386234eff830e7f3657f4ca9d/artifacts
+end_time: 1715883632004
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5c29d5b386234eff830e7f3657f4ca9d
+run_name: abundant-grouse-62
+run_uuid: 5c29d5b386234eff830e7f3657f4ca9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883631807
+status: 3
+tags: []
+user_id: klimbelousov

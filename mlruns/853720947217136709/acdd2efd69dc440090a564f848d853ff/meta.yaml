@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/acdd2efd69dc440090a564f848d853ff/artifacts
+end_time: 1715883826025
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: acdd2efd69dc440090a564f848d853ff
+run_name: mysterious-sheep-221
+run_uuid: acdd2efd69dc440090a564f848d853ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883825914
+status: 3
+tags: []
+user_id: klimbelousov

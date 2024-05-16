@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ea04ed088dff483793651b7fbfdb534d/artifacts
+end_time: 1715883841051
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ea04ed088dff483793651b7fbfdb534d
+run_name: thundering-wren-418
+run_uuid: ea04ed088dff483793651b7fbfdb534d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883840943
+status: 3
+tags: []
+user_id: klimbelousov

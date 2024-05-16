@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c2e53745d942450294e9173eaec6131f/artifacts
+end_time: 1715883628165
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c2e53745d942450294e9173eaec6131f
+run_name: defiant-jay-203
+run_uuid: c2e53745d942450294e9173eaec6131f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883628015
+status: 3
+tags: []
+user_id: klimbelousov

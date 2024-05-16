@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d3460065fd1e4a819783bb1760ba98da/artifacts
+end_time: 1715883632390
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d3460065fd1e4a819783bb1760ba98da
+run_name: luminous-jay-699
+run_uuid: d3460065fd1e4a819783bb1760ba98da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883632313
+status: 3
+tags: []
+user_id: klimbelousov

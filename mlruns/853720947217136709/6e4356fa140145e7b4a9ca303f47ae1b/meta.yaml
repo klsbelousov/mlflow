@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/6e4356fa140145e7b4a9ca303f47ae1b/artifacts
+end_time: 1715883946585
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 6e4356fa140145e7b4a9ca303f47ae1b
+run_name: sneaky-stag-943
+run_uuid: 6e4356fa140145e7b4a9ca303f47ae1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883946432
+status: 3
+tags: []
+user_id: klimbelousov

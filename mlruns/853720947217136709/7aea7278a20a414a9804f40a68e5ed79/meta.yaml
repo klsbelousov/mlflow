@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7aea7278a20a414a9804f40a68e5ed79/artifacts
+end_time: 1715883904610
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7aea7278a20a414a9804f40a68e5ed79
+run_name: puzzled-tern-395
+run_uuid: 7aea7278a20a414a9804f40a68e5ed79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883904491
+status: 3
+tags: []
+user_id: klimbelousov

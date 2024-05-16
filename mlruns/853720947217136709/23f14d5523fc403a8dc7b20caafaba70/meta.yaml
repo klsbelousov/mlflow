@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/23f14d5523fc403a8dc7b20caafaba70/artifacts
+end_time: 1715883655191
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 23f14d5523fc403a8dc7b20caafaba70
+run_name: sneaky-hog-38
+run_uuid: 23f14d5523fc403a8dc7b20caafaba70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883655060
+status: 3
+tags: []
+user_id: klimbelousov

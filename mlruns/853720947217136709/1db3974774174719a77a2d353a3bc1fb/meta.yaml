@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1db3974774174719a77a2d353a3bc1fb/artifacts
+end_time: 1715884367250
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1db3974774174719a77a2d353a3bc1fb
+run_name: learned-cub-884
+run_uuid: 1db3974774174719a77a2d353a3bc1fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884367151
+status: 3
+tags: []
+user_id: klimbelousov

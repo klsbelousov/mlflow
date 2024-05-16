@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/42954d89cfb34d91909405b59bd6874d/artifacts
+end_time: 1715883911562
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 42954d89cfb34d91909405b59bd6874d
+run_name: abrasive-wasp-323
+run_uuid: 42954d89cfb34d91909405b59bd6874d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883911479
+status: 3
+tags: []
+user_id: klimbelousov

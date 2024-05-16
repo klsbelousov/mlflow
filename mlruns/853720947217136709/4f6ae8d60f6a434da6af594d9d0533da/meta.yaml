@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4f6ae8d60f6a434da6af594d9d0533da/artifacts
+end_time: 1715883855074
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4f6ae8d60f6a434da6af594d9d0533da
+run_name: omniscient-fowl-60
+run_uuid: 4f6ae8d60f6a434da6af594d9d0533da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883854911
+status: 3
+tags: []
+user_id: klimbelousov

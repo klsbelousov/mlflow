@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f43ba42a53d445aea8ff49b97010ef67/artifacts
+end_time: 1715883827069
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f43ba42a53d445aea8ff49b97010ef67
+run_name: chill-turtle-374
+run_uuid: f43ba42a53d445aea8ff49b97010ef67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883826941
+status: 3
+tags: []
+user_id: klimbelousov

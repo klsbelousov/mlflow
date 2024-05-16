@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ae41ec607e8e46ff944c1ef69f3cac0c/artifacts
+end_time: 1715883915346
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ae41ec607e8e46ff944c1ef69f3cac0c
+run_name: dashing-moose-90
+run_uuid: ae41ec607e8e46ff944c1ef69f3cac0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883915245
+status: 3
+tags: []
+user_id: klimbelousov

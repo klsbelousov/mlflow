@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/eba0f1c986a14659b2f48f4d2b1a1be0/artifacts
+end_time: 1715883815918
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: eba0f1c986a14659b2f48f4d2b1a1be0
+run_name: spiffy-bass-901
+run_uuid: eba0f1c986a14659b2f48f4d2b1a1be0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883815859
+status: 3
+tags: []
+user_id: klimbelousov

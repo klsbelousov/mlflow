@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/56284d1cf3c34b34abc0fed99ee7a498/artifacts
+end_time: 1715883850266
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 56284d1cf3c34b34abc0fed99ee7a498
+run_name: charming-lamb-824
+run_uuid: 56284d1cf3c34b34abc0fed99ee7a498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883850157
+status: 3
+tags: []
+user_id: klimbelousov

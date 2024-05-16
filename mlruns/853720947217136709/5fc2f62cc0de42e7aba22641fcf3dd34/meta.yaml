@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5fc2f62cc0de42e7aba22641fcf3dd34/artifacts
+end_time: 1715884336363
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5fc2f62cc0de42e7aba22641fcf3dd34
+run_name: polite-shrew-436
+run_uuid: 5fc2f62cc0de42e7aba22641fcf3dd34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884336261
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ba746d9794f94f8f86435c53f4b5c6ab/artifacts
+end_time: 1715883827480
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ba746d9794f94f8f86435c53f4b5c6ab
+run_name: stately-stoat-207
+run_uuid: ba746d9794f94f8f86435c53f4b5c6ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883827411
+status: 3
+tags: []
+user_id: klimbelousov

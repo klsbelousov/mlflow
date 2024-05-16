@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/63666b65e3894ec5b016b9f03f120948/artifacts
+end_time: 1715883933525
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 63666b65e3894ec5b016b9f03f120948
+run_name: crawling-midge-263
+run_uuid: 63666b65e3894ec5b016b9f03f120948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883933376
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1119ce2c4abe410ca74176593febe213/artifacts
+end_time: 1715883905647
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1119ce2c4abe410ca74176593febe213
+run_name: enchanting-mule-315
+run_uuid: 1119ce2c4abe410ca74176593febe213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883905512
+status: 3
+tags: []
+user_id: klimbelousov

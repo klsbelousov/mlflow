@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8a68f4eb731e403aab8a0d89d901d8f7/artifacts
+end_time: 1715883850475
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8a68f4eb731e403aab8a0d89d901d8f7
+run_name: upbeat-hen-219
+run_uuid: 8a68f4eb731e403aab8a0d89d901d8f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883850375
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/535651b274e04cf796ec0d9d12bb829d/artifacts
+end_time: 1715883935085
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 535651b274e04cf796ec0d9d12bb829d
+run_name: auspicious-crab-947
+run_uuid: 535651b274e04cf796ec0d9d12bb829d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883934934
+status: 3
+tags: []
+user_id: klimbelousov

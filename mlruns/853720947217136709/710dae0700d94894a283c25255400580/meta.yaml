@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/710dae0700d94894a283c25255400580/artifacts
+end_time: 1715883832400
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 710dae0700d94894a283c25255400580
+run_name: loud-finch-291
+run_uuid: 710dae0700d94894a283c25255400580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883832332
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4d83aa70a6904c3c93d83b61fc270d0e/artifacts
+end_time: 1715883657094
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4d83aa70a6904c3c93d83b61fc270d0e
+run_name: sassy-ant-776
+run_uuid: 4d83aa70a6904c3c93d83b61fc270d0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883657010
+status: 3
+tags: []
+user_id: klimbelousov

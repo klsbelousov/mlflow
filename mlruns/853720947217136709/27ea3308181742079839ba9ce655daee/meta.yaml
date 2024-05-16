@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/27ea3308181742079839ba9ce655daee/artifacts
+end_time: 1715883665350
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 27ea3308181742079839ba9ce655daee
+run_name: bouncy-mole-406
+run_uuid: 27ea3308181742079839ba9ce655daee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883665208
+status: 3
+tags: []
+user_id: klimbelousov

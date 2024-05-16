@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/606dfacb8b29495f98088b7a2d7a7344/artifacts
+end_time: 1715883857399
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 606dfacb8b29495f98088b7a2d7a7344
+run_name: gifted-ape-362
+run_uuid: 606dfacb8b29495f98088b7a2d7a7344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883857259
+status: 3
+tags: []
+user_id: klimbelousov

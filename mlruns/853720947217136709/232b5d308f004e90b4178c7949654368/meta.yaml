@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/232b5d308f004e90b4178c7949654368/artifacts
+end_time: 1715883932692
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 232b5d308f004e90b4178c7949654368
+run_name: victorious-kit-825
+run_uuid: 232b5d308f004e90b4178c7949654368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883932561
+status: 3
+tags: []
+user_id: klimbelousov

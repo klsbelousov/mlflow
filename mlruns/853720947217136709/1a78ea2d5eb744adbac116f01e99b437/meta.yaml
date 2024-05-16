@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1a78ea2d5eb744adbac116f01e99b437/artifacts
+end_time: 1715884351116
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1a78ea2d5eb744adbac116f01e99b437
+run_name: zealous-kit-167
+run_uuid: 1a78ea2d5eb744adbac116f01e99b437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884351056
+status: 3
+tags: []
+user_id: klimbelousov

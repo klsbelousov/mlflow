@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c407d735255b4892bf4450a53a10dc0b/artifacts
+end_time: 1715883624365
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c407d735255b4892bf4450a53a10dc0b
+run_name: merciful-eel-732
+run_uuid: c407d735255b4892bf4450a53a10dc0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883624182
+status: 3
+tags: []
+user_id: klimbelousov

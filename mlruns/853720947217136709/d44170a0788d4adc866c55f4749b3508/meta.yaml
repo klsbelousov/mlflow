@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d44170a0788d4adc866c55f4749b3508/artifacts
+end_time: 1715884374695
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d44170a0788d4adc866c55f4749b3508
+run_name: invincible-colt-442
+run_uuid: d44170a0788d4adc866c55f4749b3508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884374608
+status: 3
+tags: []
+user_id: klimbelousov

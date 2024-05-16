@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9aba6c21fadc4e14ba1943c81ec00d9c/artifacts
+end_time: 1715884360986
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9aba6c21fadc4e14ba1943c81ec00d9c
+run_name: abrasive-conch-416
+run_uuid: 9aba6c21fadc4e14ba1943c81ec00d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884360886
+status: 3
+tags: []
+user_id: klimbelousov

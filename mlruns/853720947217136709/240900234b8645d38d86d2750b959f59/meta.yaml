@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/240900234b8645d38d86d2750b959f59/artifacts
+end_time: 1715883942946
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 240900234b8645d38d86d2750b959f59
+run_name: illustrious-frog-527
+run_uuid: 240900234b8645d38d86d2750b959f59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883942828
+status: 3
+tags: []
+user_id: klimbelousov

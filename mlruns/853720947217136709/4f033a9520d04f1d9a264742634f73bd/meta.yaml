@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4f033a9520d04f1d9a264742634f73bd/artifacts
+end_time: 1715883946938
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4f033a9520d04f1d9a264742634f73bd
+run_name: monumental-stag-760
+run_uuid: 4f033a9520d04f1d9a264742634f73bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883946792
+status: 3
+tags: []
+user_id: klimbelousov

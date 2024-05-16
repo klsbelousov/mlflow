@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b7fe73480dd64814bb6009d004d69be7/artifacts
+end_time: 1715883648388
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b7fe73480dd64814bb6009d004d69be7
+run_name: powerful-robin-295
+run_uuid: b7fe73480dd64814bb6009d004d69be7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883648285
+status: 3
+tags: []
+user_id: klimbelousov

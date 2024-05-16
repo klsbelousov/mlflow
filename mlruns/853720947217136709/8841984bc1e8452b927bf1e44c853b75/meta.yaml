@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8841984bc1e8452b927bf1e44c853b75/artifacts
+end_time: 1715883648481
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8841984bc1e8452b927bf1e44c853b75
+run_name: smiling-fox-783
+run_uuid: 8841984bc1e8452b927bf1e44c853b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883648400
+status: 3
+tags: []
+user_id: klimbelousov

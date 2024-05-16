@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/789d318896df45ee9094b7e26251f141/artifacts
+end_time: 1715884363211
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 789d318896df45ee9094b7e26251f141
+run_name: gentle-whale-471
+run_uuid: 789d318896df45ee9094b7e26251f141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884363112
+status: 3
+tags: []
+user_id: klimbelousov

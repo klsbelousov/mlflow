@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8846ebf0c5db4bd6b1e55c3cd4463f12/artifacts
+end_time: 1715884335893
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8846ebf0c5db4bd6b1e55c3cd4463f12
+run_name: nervous-wolf-134
+run_uuid: 8846ebf0c5db4bd6b1e55c3cd4463f12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884335788
+status: 3
+tags: []
+user_id: klimbelousov

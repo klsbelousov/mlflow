@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/42cbe0214f464b3ca919922b2b60af67/artifacts
+end_time: 1715883830492
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 42cbe0214f464b3ca919922b2b60af67
+run_name: masked-seal-157
+run_uuid: 42cbe0214f464b3ca919922b2b60af67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883830363
+status: 3
+tags: []
+user_id: klimbelousov

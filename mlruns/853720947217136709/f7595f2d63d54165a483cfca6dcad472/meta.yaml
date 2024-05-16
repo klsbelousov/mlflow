@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f7595f2d63d54165a483cfca6dcad472/artifacts
+end_time: 1715883831369
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f7595f2d63d54165a483cfca6dcad472
+run_name: selective-mole-111
+run_uuid: f7595f2d63d54165a483cfca6dcad472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883831287
+status: 3
+tags: []
+user_id: klimbelousov

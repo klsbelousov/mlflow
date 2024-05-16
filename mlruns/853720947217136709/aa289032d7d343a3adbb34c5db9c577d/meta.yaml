@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/aa289032d7d343a3adbb34c5db9c577d/artifacts
+end_time: 1715883818946
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: aa289032d7d343a3adbb34c5db9c577d
+run_name: handsome-pig-231
+run_uuid: aa289032d7d343a3adbb34c5db9c577d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883818816
+status: 3
+tags: []
+user_id: klimbelousov

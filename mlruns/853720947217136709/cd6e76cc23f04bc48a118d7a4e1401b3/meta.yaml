@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/cd6e76cc23f04bc48a118d7a4e1401b3/artifacts
+end_time: 1715883656651
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: cd6e76cc23f04bc48a118d7a4e1401b3
+run_name: caring-conch-547
+run_uuid: cd6e76cc23f04bc48a118d7a4e1401b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883656525
+status: 3
+tags: []
+user_id: klimbelousov

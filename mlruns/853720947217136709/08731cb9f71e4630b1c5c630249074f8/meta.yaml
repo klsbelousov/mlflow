@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/08731cb9f71e4630b1c5c630249074f8/artifacts
+end_time: 1715884330670
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 08731cb9f71e4630b1c5c630249074f8
+run_name: monumental-eel-706
+run_uuid: 08731cb9f71e4630b1c5c630249074f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884330572
+status: 3
+tags: []
+user_id: klimbelousov

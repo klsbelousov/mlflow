@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7adcea5881cd4853a7fdf57757416596/artifacts
+end_time: 1715884364487
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7adcea5881cd4853a7fdf57757416596
+run_name: orderly-finch-241
+run_uuid: 7adcea5881cd4853a7fdf57757416596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884364389
+status: 3
+tags: []
+user_id: klimbelousov

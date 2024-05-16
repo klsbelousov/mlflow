@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/29d2baf010bb4891b8ef4d36955dc2e2/artifacts
+end_time: 1715883956643
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 29d2baf010bb4891b8ef4d36955dc2e2
+run_name: debonair-shrew-905
+run_uuid: 29d2baf010bb4891b8ef4d36955dc2e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883956506
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/783cf9c3a58e4d6c95f7226b2f292b75/artifacts
+end_time: 1715884342237
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 783cf9c3a58e4d6c95f7226b2f292b75
+run_name: nosy-quail-846
+run_uuid: 783cf9c3a58e4d6c95f7226b2f292b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884342147
+status: 3
+tags: []
+user_id: klimbelousov

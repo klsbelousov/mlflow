@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c74113601fa442b7b4236be23a969dc2/artifacts
+end_time: 1715883648858
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c74113601fa442b7b4236be23a969dc2
+run_name: unequaled-jay-484
+run_uuid: c74113601fa442b7b4236be23a969dc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883648751
+status: 3
+tags: []
+user_id: klimbelousov

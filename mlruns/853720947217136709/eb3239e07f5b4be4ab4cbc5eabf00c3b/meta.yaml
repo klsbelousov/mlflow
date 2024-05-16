@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/eb3239e07f5b4be4ab4cbc5eabf00c3b/artifacts
+end_time: 1715883929164
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: eb3239e07f5b4be4ab4cbc5eabf00c3b
+run_name: dashing-carp-919
+run_uuid: eb3239e07f5b4be4ab4cbc5eabf00c3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883929063
+status: 3
+tags: []
+user_id: klimbelousov

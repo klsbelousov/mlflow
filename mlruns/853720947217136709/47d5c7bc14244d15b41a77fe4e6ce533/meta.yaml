@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/47d5c7bc14244d15b41a77fe4e6ce533/artifacts
+end_time: 1715883912261
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 47d5c7bc14244d15b41a77fe4e6ce533
+run_name: persistent-flea-818
+run_uuid: 47d5c7bc14244d15b41a77fe4e6ce533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883912148
+status: 3
+tags: []
+user_id: klimbelousov

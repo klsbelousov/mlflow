@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c2fcdcfd94d84b4091a33284023b36e7/artifacts
+end_time: 1715884343052
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c2fcdcfd94d84b4091a33284023b36e7
+run_name: glamorous-whale-533
+run_uuid: c2fcdcfd94d84b4091a33284023b36e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884342962
+status: 3
+tags: []
+user_id: klimbelousov

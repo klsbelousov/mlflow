@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b939e102f92a426986efdffb2a504656/artifacts
+end_time: 1715883911900
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b939e102f92a426986efdffb2a504656
+run_name: marvelous-cat-19
+run_uuid: b939e102f92a426986efdffb2a504656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883911812
+status: 3
+tags: []
+user_id: klimbelousov

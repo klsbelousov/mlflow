@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c8be05daf5ea47df892d63441c1bbf8c/artifacts
+end_time: 1715884354521
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c8be05daf5ea47df892d63441c1bbf8c
+run_name: casual-shrew-879
+run_uuid: c8be05daf5ea47df892d63441c1bbf8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884354443
+status: 3
+tags: []
+user_id: klimbelousov

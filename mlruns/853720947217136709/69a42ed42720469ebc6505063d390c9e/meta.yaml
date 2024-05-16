@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/69a42ed42720469ebc6505063d390c9e/artifacts
+end_time: 1715883669750
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 69a42ed42720469ebc6505063d390c9e
+run_name: melodic-sponge-432
+run_uuid: 69a42ed42720469ebc6505063d390c9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883669664
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/154b287ddc9143498571465b21840dde/artifacts
+end_time: 1715883657191
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 154b287ddc9143498571465b21840dde
+run_name: receptive-calf-883
+run_uuid: 154b287ddc9143498571465b21840dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883657103
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/dda4428081d6457a8b0fa262f2a8213c/artifacts
+end_time: 1715883933940
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: dda4428081d6457a8b0fa262f2a8213c
+run_name: rebellious-yak-618
+run_uuid: dda4428081d6457a8b0fa262f2a8213c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883933811
+status: 3
+tags: []
+user_id: klimbelousov

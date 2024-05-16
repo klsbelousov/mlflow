@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c36f9f12d4ac4f5dbe10787abb097324/artifacts
+end_time: 1715883868503
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c36f9f12d4ac4f5dbe10787abb097324
+run_name: carefree-pug-940
+run_uuid: c36f9f12d4ac4f5dbe10787abb097324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883868353
+status: 3
+tags: []
+user_id: klimbelousov

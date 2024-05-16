@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/69c8ffc519e741508de08e7faef87598/artifacts
+end_time: 1715883617976
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 69c8ffc519e741508de08e7faef87598
+run_name: gifted-rook-409
+run_uuid: 69c8ffc519e741508de08e7faef87598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883617871
+status: 3
+tags: []
+user_id: klimbelousov

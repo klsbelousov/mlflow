@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1abebf9318904c4bb457b1f696e4059c/artifacts
+end_time: 1715884365815
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1abebf9318904c4bb457b1f696e4059c
+run_name: bright-perch-110
+run_uuid: 1abebf9318904c4bb457b1f696e4059c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884365715
+status: 3
+tags: []
+user_id: klimbelousov

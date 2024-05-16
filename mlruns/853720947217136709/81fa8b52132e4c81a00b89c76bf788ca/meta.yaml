@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/81fa8b52132e4c81a00b89c76bf788ca/artifacts
+end_time: 1715883811510
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 81fa8b52132e4c81a00b89c76bf788ca
+run_name: powerful-mink-853
+run_uuid: 81fa8b52132e4c81a00b89c76bf788ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883811399
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/3eec818d235a457b978b7ddabdc52133/artifacts
+end_time: 1715884378135
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 3eec818d235a457b978b7ddabdc52133
+run_name: rare-stoat-907
+run_uuid: 3eec818d235a457b978b7ddabdc52133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884378025
+status: 3
+tags: []
+user_id: klimbelousov

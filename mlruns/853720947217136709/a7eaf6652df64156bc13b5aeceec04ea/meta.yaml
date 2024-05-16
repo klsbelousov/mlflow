@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a7eaf6652df64156bc13b5aeceec04ea/artifacts
+end_time: 1715883898574
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a7eaf6652df64156bc13b5aeceec04ea
+run_name: secretive-deer-788
+run_uuid: a7eaf6652df64156bc13b5aeceec04ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883898427
+status: 3
+tags: []
+user_id: klimbelousov

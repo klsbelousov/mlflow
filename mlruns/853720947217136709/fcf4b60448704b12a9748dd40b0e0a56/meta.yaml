@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fcf4b60448704b12a9748dd40b0e0a56/artifacts
+end_time: 1715883822512
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fcf4b60448704b12a9748dd40b0e0a56
+run_name: powerful-ox-324
+run_uuid: fcf4b60448704b12a9748dd40b0e0a56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883822374
+status: 3
+tags: []
+user_id: klimbelousov

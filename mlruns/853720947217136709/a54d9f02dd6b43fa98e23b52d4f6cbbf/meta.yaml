@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a54d9f02dd6b43fa98e23b52d4f6cbbf/artifacts
+end_time: 1715883851906
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a54d9f02dd6b43fa98e23b52d4f6cbbf
+run_name: dazzling-trout-99
+run_uuid: a54d9f02dd6b43fa98e23b52d4f6cbbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883851787
+status: 3
+tags: []
+user_id: klimbelousov

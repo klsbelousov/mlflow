@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9a329be56c25465c8dbc5fda00b33aca/artifacts
+end_time: 1715884365045
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9a329be56c25465c8dbc5fda00b33aca
+run_name: polite-fawn-408
+run_uuid: 9a329be56c25465c8dbc5fda00b33aca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884364942
+status: 3
+tags: []
+user_id: klimbelousov

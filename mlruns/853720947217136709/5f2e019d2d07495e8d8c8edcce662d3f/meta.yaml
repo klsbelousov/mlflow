@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5f2e019d2d07495e8d8c8edcce662d3f/artifacts
+end_time: 1715883915890
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5f2e019d2d07495e8d8c8edcce662d3f
+run_name: luxuriant-eel-585
+run_uuid: 5f2e019d2d07495e8d8c8edcce662d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883915775
+status: 3
+tags: []
+user_id: klimbelousov

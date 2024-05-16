@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a8832f0d2dd1478383c4477a94046d97/artifacts
+end_time: 1715883624566
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a8832f0d2dd1478383c4477a94046d97
+run_name: bright-squirrel-419
+run_uuid: a8832f0d2dd1478383c4477a94046d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883624383
+status: 3
+tags: []
+user_id: klimbelousov

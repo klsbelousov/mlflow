@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4f0e6f477dd7475ca29ee53eb651c646/artifacts
+end_time: 1715883923016
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4f0e6f477dd7475ca29ee53eb651c646
+run_name: casual-tern-217
+run_uuid: 4f0e6f477dd7475ca29ee53eb651c646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883922931
+status: 3
+tags: []
+user_id: klimbelousov

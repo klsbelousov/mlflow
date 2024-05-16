@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/21972e6c84dd40288c38e6fffde0a11c/artifacts
+end_time: 1715884341194
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 21972e6c84dd40288c38e6fffde0a11c
+run_name: angry-conch-139
+run_uuid: 21972e6c84dd40288c38e6fffde0a11c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884341117
+status: 3
+tags: []
+user_id: klimbelousov

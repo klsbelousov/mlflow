@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/27c609e56e5d4c78b20f9a2f82581e5c/artifacts
+end_time: 1715883864131
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 27c609e56e5d4c78b20f9a2f82581e5c
+run_name: wise-chimp-640
+run_uuid: 27c609e56e5d4c78b20f9a2f82581e5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883864043
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/78c65d5f0f044b6c87e28e6c8f370df2/artifacts
+end_time: 1715883817581
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 78c65d5f0f044b6c87e28e6c8f370df2
+run_name: bittersweet-grub-356
+run_uuid: 78c65d5f0f044b6c87e28e6c8f370df2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883817449
+status: 3
+tags: []
+user_id: klimbelousov

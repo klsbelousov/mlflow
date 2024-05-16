@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1a04fce725264902a96ba01555ab0e65/artifacts
+end_time: 1715883808937
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1a04fce725264902a96ba01555ab0e65
+run_name: valuable-shoat-156
+run_uuid: 1a04fce725264902a96ba01555ab0e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883808879
+status: 3
+tags: []
+user_id: klimbelousov

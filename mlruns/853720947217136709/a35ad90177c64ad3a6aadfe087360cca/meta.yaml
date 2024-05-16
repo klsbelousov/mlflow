@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a35ad90177c64ad3a6aadfe087360cca/artifacts
+end_time: 1715883649169
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a35ad90177c64ad3a6aadfe087360cca
+run_name: delightful-shrew-152
+run_uuid: a35ad90177c64ad3a6aadfe087360cca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883649025
+status: 3
+tags: []
+user_id: klimbelousov

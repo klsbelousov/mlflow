@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ad5387504c834a8aa2316166ebad9eb0/artifacts
+end_time: 1715883624765
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ad5387504c834a8aa2316166ebad9eb0
+run_name: wistful-hawk-726
+run_uuid: ad5387504c834a8aa2316166ebad9eb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883624580
+status: 3
+tags: []
+user_id: klimbelousov

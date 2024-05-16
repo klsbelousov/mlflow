@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d7b087e4e13b4705a8fc9239241537ef/artifacts
+end_time: 1715883953760
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d7b087e4e13b4705a8fc9239241537ef
+run_name: zealous-gull-262
+run_uuid: d7b087e4e13b4705a8fc9239241537ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883953666
+status: 3
+tags: []
+user_id: klimbelousov

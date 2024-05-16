@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/88555a1f669e40eb954728fbfe36871b/artifacts
+end_time: 1715883638077
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 88555a1f669e40eb954728fbfe36871b
+run_name: smiling-gnu-235
+run_uuid: 88555a1f669e40eb954728fbfe36871b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883637980
+status: 3
+tags: []
+user_id: klimbelousov

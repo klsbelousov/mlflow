@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f18f25a95adf496da8531540959b0601/artifacts
+end_time: 1715883865933
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f18f25a95adf496da8531540959b0601
+run_name: melodic-jay-716
+run_uuid: f18f25a95adf496da8531540959b0601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883865788
+status: 3
+tags: []
+user_id: klimbelousov

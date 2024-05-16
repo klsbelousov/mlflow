@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/24af005490b14ea592721d743f44d82e/artifacts
+end_time: 1715883939413
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 24af005490b14ea592721d743f44d82e
+run_name: illustrious-panda-40
+run_uuid: 24af005490b14ea592721d743f44d82e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883939306
+status: 3
+tags: []
+user_id: klimbelousov

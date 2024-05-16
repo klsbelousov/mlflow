@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/902bb292186c4f08b6fa4ac0f4bff89a/artifacts
+end_time: 1715884353179
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 902bb292186c4f08b6fa4ac0f4bff89a
+run_name: adaptable-fawn-33
+run_uuid: 902bb292186c4f08b6fa4ac0f4bff89a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884353080
+status: 3
+tags: []
+user_id: klimbelousov

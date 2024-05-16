@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0ec89c80d88b4bf8ab982067efb9df3f/artifacts
+end_time: 1715884333212
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0ec89c80d88b4bf8ab982067efb9df3f
+run_name: rebellious-grub-433
+run_uuid: 0ec89c80d88b4bf8ab982067efb9df3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884333124
+status: 3
+tags: []
+user_id: klimbelousov

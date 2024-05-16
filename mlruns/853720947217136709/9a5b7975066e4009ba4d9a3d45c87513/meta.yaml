@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9a5b7975066e4009ba4d9a3d45c87513/artifacts
+end_time: 1715883676256
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9a5b7975066e4009ba4d9a3d45c87513
+run_name: dapper-eel-454
+run_uuid: 9a5b7975066e4009ba4d9a3d45c87513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883676145
+status: 3
+tags: []
+user_id: klimbelousov

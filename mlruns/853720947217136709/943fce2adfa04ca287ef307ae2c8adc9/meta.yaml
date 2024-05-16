@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/943fce2adfa04ca287ef307ae2c8adc9/artifacts
+end_time: 1715883900142
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 943fce2adfa04ca287ef307ae2c8adc9
+run_name: sincere-ram-304
+run_uuid: 943fce2adfa04ca287ef307ae2c8adc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883900012
+status: 3
+tags: []
+user_id: klimbelousov

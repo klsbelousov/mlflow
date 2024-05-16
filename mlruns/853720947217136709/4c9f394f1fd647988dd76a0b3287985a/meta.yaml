@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4c9f394f1fd647988dd76a0b3287985a/artifacts
+end_time: 1715883648003
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4c9f394f1fd647988dd76a0b3287985a
+run_name: kindly-trout-943
+run_uuid: 4c9f394f1fd647988dd76a0b3287985a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883647851
+status: 3
+tags: []
+user_id: klimbelousov

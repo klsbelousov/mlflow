@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0b7060bd7b2f4c70a0cf099eee8117b1/artifacts
+end_time: 1715884354946
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0b7060bd7b2f4c70a0cf099eee8117b1
+run_name: welcoming-flea-1000
+run_uuid: 0b7060bd7b2f4c70a0cf099eee8117b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884354870
+status: 3
+tags: []
+user_id: klimbelousov

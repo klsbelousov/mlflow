@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d8f4065d319d420abaeb770ce6bb749a/artifacts
+end_time: 1715884331726
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d8f4065d319d420abaeb770ce6bb749a
+run_name: treasured-carp-766
+run_uuid: d8f4065d319d420abaeb770ce6bb749a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884331636
+status: 3
+tags: []
+user_id: klimbelousov

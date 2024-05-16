@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b51cdbe164e048928850e04b2b368210/artifacts
+end_time: 1715883809140
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b51cdbe164e048928850e04b2b368210
+run_name: unequaled-robin-282
+run_uuid: b51cdbe164e048928850e04b2b368210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883809027
+status: 3
+tags: []
+user_id: klimbelousov

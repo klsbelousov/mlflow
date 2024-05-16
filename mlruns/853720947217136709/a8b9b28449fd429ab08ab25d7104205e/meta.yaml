@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a8b9b28449fd429ab08ab25d7104205e/artifacts
+end_time: 1715883830656
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a8b9b28449fd429ab08ab25d7104205e
+run_name: delicate-sloth-797
+run_uuid: a8b9b28449fd429ab08ab25d7104205e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883830505
+status: 3
+tags: []
+user_id: klimbelousov

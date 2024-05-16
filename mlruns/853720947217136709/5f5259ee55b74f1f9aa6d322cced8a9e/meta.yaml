@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5f5259ee55b74f1f9aa6d322cced8a9e/artifacts
+end_time: 1715883673946
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5f5259ee55b74f1f9aa6d322cced8a9e
+run_name: exultant-carp-562
+run_uuid: 5f5259ee55b74f1f9aa6d322cced8a9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883673806
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a7133e2899ed40ebb1081cc4afa72743/artifacts
+end_time: 1715883933365
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a7133e2899ed40ebb1081cc4afa72743
+run_name: capable-loon-42
+run_uuid: a7133e2899ed40ebb1081cc4afa72743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883933267
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/29f2e279a9b04937a52ae54f53b6d972/artifacts
+end_time: 1715883922105
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 29f2e279a9b04937a52ae54f53b6d972
+run_name: stylish-wren-99
+run_uuid: 29f2e279a9b04937a52ae54f53b6d972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883921966
+status: 3
+tags: []
+user_id: klimbelousov

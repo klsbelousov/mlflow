@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0e03c2166d954f40926cf2a2706638db/artifacts
+end_time: 1715883838232
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0e03c2166d954f40926cf2a2706638db
+run_name: efficient-jay-157
+run_uuid: 0e03c2166d954f40926cf2a2706638db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883838089
+status: 3
+tags: []
+user_id: klimbelousov

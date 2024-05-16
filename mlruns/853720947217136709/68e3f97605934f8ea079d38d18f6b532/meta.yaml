@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/68e3f97605934f8ea079d38d18f6b532/artifacts
+end_time: 1715883634304
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 68e3f97605934f8ea079d38d18f6b532
+run_name: clean-midge-262
+run_uuid: 68e3f97605934f8ea079d38d18f6b532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883634162
+status: 3
+tags: []
+user_id: klimbelousov

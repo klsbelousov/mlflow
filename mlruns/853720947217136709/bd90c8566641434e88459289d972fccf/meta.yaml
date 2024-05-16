@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/bd90c8566641434e88459289d972fccf/artifacts
+end_time: 1715884368396
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: bd90c8566641434e88459289d972fccf
+run_name: amusing-shark-729
+run_uuid: bd90c8566641434e88459289d972fccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884368298
+status: 3
+tags: []
+user_id: klimbelousov

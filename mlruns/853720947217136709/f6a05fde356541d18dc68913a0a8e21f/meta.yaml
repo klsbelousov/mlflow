@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f6a05fde356541d18dc68913a0a8e21f/artifacts
+end_time: 1715883663728
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f6a05fde356541d18dc68913a0a8e21f
+run_name: monumental-frog-193
+run_uuid: f6a05fde356541d18dc68913a0a8e21f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883663587
+status: 3
+tags: []
+user_id: klimbelousov

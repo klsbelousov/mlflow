@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fa3601bbcbf94ef5b4a3d2b5415492ad/artifacts
+end_time: 1715883948090
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fa3601bbcbf94ef5b4a3d2b5415492ad
+run_name: hilarious-chimp-766
+run_uuid: fa3601bbcbf94ef5b4a3d2b5415492ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883947956
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0d7e472420954d6185b503d05aefd7dd/artifacts
+end_time: 1715884329568
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0d7e472420954d6185b503d05aefd7dd
+run_name: entertaining-eel-420
+run_uuid: 0d7e472420954d6185b503d05aefd7dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884329460
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/59dcfc07096441bb8a42bd6f0f05f671/artifacts
+end_time: 1715884350892
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 59dcfc07096441bb8a42bd6f0f05f671
+run_name: marvelous-deer-684
+run_uuid: 59dcfc07096441bb8a42bd6f0f05f671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884350760
+status: 3
+tags: []
+user_id: klimbelousov

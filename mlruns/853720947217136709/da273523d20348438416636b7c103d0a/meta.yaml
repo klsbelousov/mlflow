@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/da273523d20348438416636b7c103d0a/artifacts
+end_time: 1715883908135
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: da273523d20348438416636b7c103d0a
+run_name: nervous-stork-473
+run_uuid: da273523d20348438416636b7c103d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883908061
+status: 3
+tags: []
+user_id: klimbelousov

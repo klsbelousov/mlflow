@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/60fb4cf80c184328a8f283ba9b510482/artifacts
+end_time: 1715883824011
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 60fb4cf80c184328a8f283ba9b510482
+run_name: nervous-cod-724
+run_uuid: 60fb4cf80c184328a8f283ba9b510482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883823937
+status: 3
+tags: []
+user_id: klimbelousov

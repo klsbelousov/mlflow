@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/23d061aeefe24b7da40d2e2d9953382e/artifacts
+end_time: 1715883899411
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 23d061aeefe24b7da40d2e2d9953382e
+run_name: blushing-rook-214
+run_uuid: 23d061aeefe24b7da40d2e2d9953382e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883899268
+status: 3
+tags: []
+user_id: klimbelousov

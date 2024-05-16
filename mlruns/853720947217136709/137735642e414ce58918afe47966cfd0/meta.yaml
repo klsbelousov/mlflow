@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/137735642e414ce58918afe47966cfd0/artifacts
+end_time: 1715883856694
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 137735642e414ce58918afe47966cfd0
+run_name: dazzling-mink-311
+run_uuid: 137735642e414ce58918afe47966cfd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883856609
+status: 3
+tags: []
+user_id: klimbelousov

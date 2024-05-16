@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/81b3a267ad7040f4a89957e33aa2cf2a/artifacts
+end_time: 1715883626924
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 81b3a267ad7040f4a89957e33aa2cf2a
+run_name: persistent-vole-813
+run_uuid: 81b3a267ad7040f4a89957e33aa2cf2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883626763
+status: 3
+tags: []
+user_id: klimbelousov

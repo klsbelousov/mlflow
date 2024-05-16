@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/6f500af825aa4f6395afb1406dbf82d3/artifacts
+end_time: 1715883943544
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 6f500af825aa4f6395afb1406dbf82d3
+run_name: defiant-bird-256
+run_uuid: 6f500af825aa4f6395afb1406dbf82d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883943453
+status: 3
+tags: []
+user_id: klimbelousov

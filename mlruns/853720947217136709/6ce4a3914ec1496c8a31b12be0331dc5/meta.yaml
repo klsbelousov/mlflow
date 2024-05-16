@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/6ce4a3914ec1496c8a31b12be0331dc5/artifacts
+end_time: 1715884335450
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 6ce4a3914ec1496c8a31b12be0331dc5
+run_name: unleashed-yak-868
+run_uuid: 6ce4a3914ec1496c8a31b12be0331dc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884335351
+status: 3
+tags: []
+user_id: klimbelousov

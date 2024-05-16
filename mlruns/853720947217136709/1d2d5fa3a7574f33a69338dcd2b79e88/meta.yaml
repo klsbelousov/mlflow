@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1d2d5fa3a7574f33a69338dcd2b79e88/artifacts
+end_time: 1715883648563
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1d2d5fa3a7574f33a69338dcd2b79e88
+run_name: chill-newt-414
+run_uuid: 1d2d5fa3a7574f33a69338dcd2b79e88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883648489
+status: 3
+tags: []
+user_id: klimbelousov

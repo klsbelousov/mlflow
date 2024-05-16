@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/33380dd7c69740a295cbd5fdf62d7f93/artifacts
+end_time: 1715883939526
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 33380dd7c69740a295cbd5fdf62d7f93
+run_name: burly-sheep-215
+run_uuid: 33380dd7c69740a295cbd5fdf62d7f93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883939423
+status: 3
+tags: []
+user_id: klimbelousov

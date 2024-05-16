@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d7c968117e3d40efb89e21138d22b4ed/artifacts
+end_time: 1715884351195
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d7c968117e3d40efb89e21138d22b4ed
+run_name: rare-jay-981
+run_uuid: d7c968117e3d40efb89e21138d22b4ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884351123
+status: 3
+tags: []
+user_id: klimbelousov

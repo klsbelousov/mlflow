@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/efcab23a835441a28e4c31689f58c5da/artifacts
+end_time: 1715884362897
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: efcab23a835441a28e4c31689f58c5da
+run_name: secretive-chimp-283
+run_uuid: efcab23a835441a28e4c31689f58c5da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884362819
+status: 3
+tags: []
+user_id: klimbelousov

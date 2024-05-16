@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b47b6142f36f4f8b81081584f623ff6f/artifacts
+end_time: 1715883950426
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b47b6142f36f4f8b81081584f623ff6f
+run_name: skittish-sloth-729
+run_uuid: b47b6142f36f4f8b81081584f623ff6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883950290
+status: 3
+tags: []
+user_id: klimbelousov

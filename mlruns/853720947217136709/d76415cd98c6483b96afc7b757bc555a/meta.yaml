@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d76415cd98c6483b96afc7b757bc555a/artifacts
+end_time: 1715883930669
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d76415cd98c6483b96afc7b757bc555a
+run_name: likeable-fox-208
+run_uuid: d76415cd98c6483b96afc7b757bc555a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883930581
+status: 3
+tags: []
+user_id: klimbelousov

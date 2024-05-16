@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/dfc0a625f2224109b72e9e1ffaeade3b/artifacts
+end_time: 1715883830916
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: dfc0a625f2224109b72e9e1ffaeade3b
+run_name: spiffy-sponge-286
+run_uuid: dfc0a625f2224109b72e9e1ffaeade3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883830824
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0cdae37995a04513be37d87454604d90/artifacts
+end_time: 1715884333428
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0cdae37995a04513be37d87454604d90
+run_name: flawless-snail-384
+run_uuid: 0cdae37995a04513be37d87454604d90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884333329
+status: 3
+tags: []
+user_id: klimbelousov

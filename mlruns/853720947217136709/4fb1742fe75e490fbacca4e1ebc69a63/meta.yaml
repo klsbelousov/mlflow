@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4fb1742fe75e490fbacca4e1ebc69a63/artifacts
+end_time: 1715883902270
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4fb1742fe75e490fbacca4e1ebc69a63
+run_name: overjoyed-panda-691
+run_uuid: 4fb1742fe75e490fbacca4e1ebc69a63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883902175
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/433473d992b04014aceb7d9280341ee4/artifacts
+end_time: 1715883620644
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 433473d992b04014aceb7d9280341ee4
+run_name: melodic-midge-982
+run_uuid: 433473d992b04014aceb7d9280341ee4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883620530
+status: 3
+tags: []
+user_id: klimbelousov

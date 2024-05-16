@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/94ad35ba7f8d4835a0a3985a702f2527/artifacts
+end_time: 1715883647680
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 94ad35ba7f8d4835a0a3985a702f2527
+run_name: worried-crab-962
+run_uuid: 94ad35ba7f8d4835a0a3985a702f2527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883647546
+status: 3
+tags: []
+user_id: klimbelousov

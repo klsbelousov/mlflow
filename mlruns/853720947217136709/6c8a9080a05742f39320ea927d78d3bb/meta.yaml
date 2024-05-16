@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/6c8a9080a05742f39320ea927d78d3bb/artifacts
+end_time: 1715883621319
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 6c8a9080a05742f39320ea927d78d3bb
+run_name: worried-flea-47
+run_uuid: 6c8a9080a05742f39320ea927d78d3bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883621166
+status: 3
+tags: []
+user_id: klimbelousov

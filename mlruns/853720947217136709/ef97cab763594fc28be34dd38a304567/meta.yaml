@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ef97cab763594fc28be34dd38a304567/artifacts
+end_time: 1715884370403
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ef97cab763594fc28be34dd38a304567
+run_name: exultant-gnat-98
+run_uuid: ef97cab763594fc28be34dd38a304567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884370309
+status: 3
+tags: []
+user_id: klimbelousov

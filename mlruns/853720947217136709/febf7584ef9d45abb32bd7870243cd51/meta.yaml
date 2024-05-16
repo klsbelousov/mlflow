@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/febf7584ef9d45abb32bd7870243cd51/artifacts
+end_time: 1715884363916
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: febf7584ef9d45abb32bd7870243cd51
+run_name: sneaky-rat-8
+run_uuid: febf7584ef9d45abb32bd7870243cd51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884363846
+status: 3
+tags: []
+user_id: klimbelousov

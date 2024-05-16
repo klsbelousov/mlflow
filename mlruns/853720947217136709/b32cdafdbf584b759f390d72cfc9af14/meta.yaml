@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b32cdafdbf584b759f390d72cfc9af14/artifacts
+end_time: 1715883834901
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b32cdafdbf584b759f390d72cfc9af14
+run_name: calm-lamb-877
+run_uuid: b32cdafdbf584b759f390d72cfc9af14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883834820
+status: 3
+tags: []
+user_id: klimbelousov

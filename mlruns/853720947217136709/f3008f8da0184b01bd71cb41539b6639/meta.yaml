@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f3008f8da0184b01bd71cb41539b6639/artifacts
+end_time: 1715884377656
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f3008f8da0184b01bd71cb41539b6639
+run_name: receptive-whale-125
+run_uuid: f3008f8da0184b01bd71cb41539b6639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884377553
+status: 3
+tags: []
+user_id: klimbelousov

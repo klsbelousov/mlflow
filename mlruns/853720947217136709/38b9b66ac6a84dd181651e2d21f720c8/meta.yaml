@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/38b9b66ac6a84dd181651e2d21f720c8/artifacts
+end_time: 1715883851574
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 38b9b66ac6a84dd181651e2d21f720c8
+run_name: gaudy-shrimp-951
+run_uuid: 38b9b66ac6a84dd181651e2d21f720c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883851480
+status: 3
+tags: []
+user_id: klimbelousov

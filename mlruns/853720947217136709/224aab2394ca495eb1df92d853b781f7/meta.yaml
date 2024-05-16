@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/224aab2394ca495eb1df92d853b781f7/artifacts
+end_time: 1715883821128
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 224aab2394ca495eb1df92d853b781f7
+run_name: rogue-doe-497
+run_uuid: 224aab2394ca495eb1df92d853b781f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883820967
+status: 3
+tags: []
+user_id: klimbelousov

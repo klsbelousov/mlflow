@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2102c460bb93434c8cdbfc90936f0e0c/artifacts
+end_time: 1715884374995
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2102c460bb93434c8cdbfc90936f0e0c
+run_name: bedecked-worm-240
+run_uuid: 2102c460bb93434c8cdbfc90936f0e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884374895
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1d80a55ae2ff4f869e8407429c66ac0a/artifacts
+end_time: 1715883651831
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1d80a55ae2ff4f869e8407429c66ac0a
+run_name: orderly-kite-469
+run_uuid: 1d80a55ae2ff4f869e8407429c66ac0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883651725
+status: 3
+tags: []
+user_id: klimbelousov

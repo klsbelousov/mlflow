@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5030bb8228d9460a8a8d9470d83fdb03/artifacts
+end_time: 1715883865038
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5030bb8228d9460a8a8d9470d83fdb03
+run_name: bright-colt-968
+run_uuid: 5030bb8228d9460a8a8d9470d83fdb03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883864933
+status: 3
+tags: []
+user_id: klimbelousov

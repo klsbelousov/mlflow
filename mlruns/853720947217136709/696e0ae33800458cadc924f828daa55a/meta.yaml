@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/696e0ae33800458cadc924f828daa55a/artifacts
+end_time: 1715883956340
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 696e0ae33800458cadc924f828daa55a
+run_name: placid-shrew-311
+run_uuid: 696e0ae33800458cadc924f828daa55a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883956229
+status: 3
+tags: []
+user_id: klimbelousov

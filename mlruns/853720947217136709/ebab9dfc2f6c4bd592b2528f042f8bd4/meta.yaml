@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ebab9dfc2f6c4bd592b2528f042f8bd4/artifacts
+end_time: 1715883916152
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ebab9dfc2f6c4bd592b2528f042f8bd4
+run_name: traveling-duck-866
+run_uuid: ebab9dfc2f6c4bd592b2528f042f8bd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883916032
+status: 3
+tags: []
+user_id: klimbelousov

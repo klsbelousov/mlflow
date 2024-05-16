@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8d681a4140484dbfb5e19e3d166879cf/artifacts
+end_time: 1715883863621
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8d681a4140484dbfb5e19e3d166879cf
+run_name: sincere-boar-478
+run_uuid: 8d681a4140484dbfb5e19e3d166879cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883863491
+status: 3
+tags: []
+user_id: klimbelousov

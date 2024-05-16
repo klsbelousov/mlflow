@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4c527b1f30a34f78a24bf4679e7a4405/artifacts
+end_time: 1715883926982
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4c527b1f30a34f78a24bf4679e7a4405
+run_name: redolent-ram-368
+run_uuid: 4c527b1f30a34f78a24bf4679e7a4405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883926867
+status: 3
+tags: []
+user_id: klimbelousov

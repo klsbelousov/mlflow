@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0cc0d7a3816b42519f7b792e8ea97c2e/artifacts
+end_time: 1715883639479
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0cc0d7a3816b42519f7b792e8ea97c2e
+run_name: ambitious-steed-835
+run_uuid: 0cc0d7a3816b42519f7b792e8ea97c2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883639383
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0c9a37568da84110b5ec906bd7de6e7f/artifacts
+end_time: 1715883828045
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0c9a37568da84110b5ec906bd7de6e7f
+run_name: dashing-bird-700
+run_uuid: 0c9a37568da84110b5ec906bd7de6e7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883827935
+status: 3
+tags: []
+user_id: klimbelousov

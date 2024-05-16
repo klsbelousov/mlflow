@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/df537d125efa4b75b5e885bd3bdc0d21/artifacts
+end_time: 1715883814108
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: df537d125efa4b75b5e885bd3bdc0d21
+run_name: fearless-panda-360
+run_uuid: df537d125efa4b75b5e885bd3bdc0d21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883813971
+status: 3
+tags: []
+user_id: klimbelousov

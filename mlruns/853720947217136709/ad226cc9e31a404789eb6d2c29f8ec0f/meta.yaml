@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ad226cc9e31a404789eb6d2c29f8ec0f/artifacts
+end_time: 1715883672604
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ad226cc9e31a404789eb6d2c29f8ec0f
+run_name: spiffy-cow-998
+run_uuid: ad226cc9e31a404789eb6d2c29f8ec0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883672470
+status: 3
+tags: []
+user_id: klimbelousov

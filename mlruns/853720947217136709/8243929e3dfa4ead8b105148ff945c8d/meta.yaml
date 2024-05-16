@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8243929e3dfa4ead8b105148ff945c8d/artifacts
+end_time: 1715884373188
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8243929e3dfa4ead8b105148ff945c8d
+run_name: honorable-fish-691
+run_uuid: 8243929e3dfa4ead8b105148ff945c8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884373093
+status: 3
+tags: []
+user_id: klimbelousov

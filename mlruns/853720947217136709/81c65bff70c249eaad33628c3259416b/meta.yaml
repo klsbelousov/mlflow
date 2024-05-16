@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/81c65bff70c249eaad33628c3259416b/artifacts
+end_time: 1715883810239
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 81c65bff70c249eaad33628c3259416b
+run_name: efficient-vole-804
+run_uuid: 81c65bff70c249eaad33628c3259416b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883810126
+status: 3
+tags: []
+user_id: klimbelousov

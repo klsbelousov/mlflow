@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7634a42b968b413cba76ee9fc0697143/artifacts
+end_time: 1715883911470
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7634a42b968b413cba76ee9fc0697143
+run_name: bedecked-shark-714
+run_uuid: 7634a42b968b413cba76ee9fc0697143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883911388
+status: 3
+tags: []
+user_id: klimbelousov

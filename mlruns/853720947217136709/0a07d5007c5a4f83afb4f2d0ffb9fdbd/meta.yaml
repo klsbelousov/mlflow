@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0a07d5007c5a4f83afb4f2d0ffb9fdbd/artifacts
+end_time: 1715883629880
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0a07d5007c5a4f83afb4f2d0ffb9fdbd
+run_name: amusing-sow-235
+run_uuid: 0a07d5007c5a4f83afb4f2d0ffb9fdbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883629747
+status: 3
+tags: []
+user_id: klimbelousov

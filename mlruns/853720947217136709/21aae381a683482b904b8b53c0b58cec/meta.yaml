@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/21aae381a683482b904b8b53c0b58cec/artifacts
+end_time: 1715883919491
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 21aae381a683482b904b8b53c0b58cec
+run_name: able-robin-174
+run_uuid: 21aae381a683482b904b8b53c0b58cec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883919370
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/bda6b4a2231a40388cca06c7e5b5bb90/artifacts
+end_time: 1715883661541
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: bda6b4a2231a40388cca06c7e5b5bb90
+run_name: aged-newt-112
+run_uuid: bda6b4a2231a40388cca06c7e5b5bb90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883661408
+status: 3
+tags: []
+user_id: klimbelousov

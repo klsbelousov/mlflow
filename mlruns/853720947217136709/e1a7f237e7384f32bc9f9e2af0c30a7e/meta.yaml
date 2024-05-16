@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e1a7f237e7384f32bc9f9e2af0c30a7e/artifacts
+end_time: 1715883815242
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e1a7f237e7384f32bc9f9e2af0c30a7e
+run_name: nosy-panda-313
+run_uuid: e1a7f237e7384f32bc9f9e2af0c30a7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883815116
+status: 3
+tags: []
+user_id: klimbelousov

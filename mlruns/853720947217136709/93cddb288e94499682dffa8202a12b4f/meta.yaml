@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/93cddb288e94499682dffa8202a12b4f/artifacts
+end_time: 1715884355773
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 93cddb288e94499682dffa8202a12b4f
+run_name: clumsy-seal-513
+run_uuid: 93cddb288e94499682dffa8202a12b4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884355677
+status: 3
+tags: []
+user_id: klimbelousov

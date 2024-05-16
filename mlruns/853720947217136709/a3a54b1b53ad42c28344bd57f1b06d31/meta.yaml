@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a3a54b1b53ad42c28344bd57f1b06d31/artifacts
+end_time: 1715883846119
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a3a54b1b53ad42c28344bd57f1b06d31
+run_name: upbeat-rook-42
+run_uuid: a3a54b1b53ad42c28344bd57f1b06d31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883845964
+status: 3
+tags: []
+user_id: klimbelousov

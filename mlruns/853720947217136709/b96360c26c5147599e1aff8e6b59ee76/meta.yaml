@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b96360c26c5147599e1aff8e6b59ee76/artifacts
+end_time: 1715883659977
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b96360c26c5147599e1aff8e6b59ee76
+run_name: charming-flea-560
+run_uuid: b96360c26c5147599e1aff8e6b59ee76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883659855
+status: 3
+tags: []
+user_id: klimbelousov

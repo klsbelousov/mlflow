@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/3948613683c94dd7a235b6cd0cd1fca9/artifacts
+end_time: 1715884339195
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 3948613683c94dd7a235b6cd0cd1fca9
+run_name: abrasive-moose-31
+run_uuid: 3948613683c94dd7a235b6cd0cd1fca9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884339042
+status: 3
+tags: []
+user_id: klimbelousov

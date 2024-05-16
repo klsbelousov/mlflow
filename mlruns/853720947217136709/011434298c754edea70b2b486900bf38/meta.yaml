@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/011434298c754edea70b2b486900bf38/artifacts
+end_time: 1715883635693
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 011434298c754edea70b2b486900bf38
+run_name: exultant-dolphin-983
+run_uuid: 011434298c754edea70b2b486900bf38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883635589
+status: 3
+tags: []
+user_id: klimbelousov

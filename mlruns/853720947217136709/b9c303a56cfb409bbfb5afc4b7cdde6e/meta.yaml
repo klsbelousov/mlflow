@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b9c303a56cfb409bbfb5afc4b7cdde6e/artifacts
+end_time: 1715883634741
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b9c303a56cfb409bbfb5afc4b7cdde6e
+run_name: loud-cub-346
+run_uuid: b9c303a56cfb409bbfb5afc4b7cdde6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883634663
+status: 3
+tags: []
+user_id: klimbelousov

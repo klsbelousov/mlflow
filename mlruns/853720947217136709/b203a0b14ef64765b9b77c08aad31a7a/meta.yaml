@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b203a0b14ef64765b9b77c08aad31a7a/artifacts
+end_time: 1715883643684
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b203a0b14ef64765b9b77c08aad31a7a
+run_name: redolent-skunk-791
+run_uuid: b203a0b14ef64765b9b77c08aad31a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883643544
+status: 3
+tags: []
+user_id: klimbelousov

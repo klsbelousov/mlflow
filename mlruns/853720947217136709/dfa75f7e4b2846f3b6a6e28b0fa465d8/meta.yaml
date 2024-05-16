@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/dfa75f7e4b2846f3b6a6e28b0fa465d8/artifacts
+end_time: 1715883849041
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: dfa75f7e4b2846f3b6a6e28b0fa465d8
+run_name: gaudy-moth-930
+run_uuid: dfa75f7e4b2846f3b6a6e28b0fa465d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883848953
+status: 3
+tags: []
+user_id: klimbelousov

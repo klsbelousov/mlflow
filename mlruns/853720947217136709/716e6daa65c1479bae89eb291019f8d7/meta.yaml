@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/716e6daa65c1479bae89eb291019f8d7/artifacts
+end_time: 1715883633479
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 716e6daa65c1479bae89eb291019f8d7
+run_name: sedate-grouse-115
+run_uuid: 716e6daa65c1479bae89eb291019f8d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883633394
+status: 3
+tags: []
+user_id: klimbelousov

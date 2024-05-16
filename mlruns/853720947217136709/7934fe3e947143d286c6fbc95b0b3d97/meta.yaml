@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7934fe3e947143d286c6fbc95b0b3d97/artifacts
+end_time: 1715883857245
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7934fe3e947143d286c6fbc95b0b3d97
+run_name: chill-trout-140
+run_uuid: 7934fe3e947143d286c6fbc95b0b3d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883857117
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/58cddca2a9c142a385c6cc9787e2b595/artifacts
+end_time: 1715884338516
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 58cddca2a9c142a385c6cc9787e2b595
+run_name: unique-pig-135
+run_uuid: 58cddca2a9c142a385c6cc9787e2b595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884338448
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9951943516d44a519935bf0c1ddcaed5/artifacts
+end_time: 1715883669654
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9951943516d44a519935bf0c1ddcaed5
+run_name: bright-wren-173
+run_uuid: 9951943516d44a519935bf0c1ddcaed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883669565
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/490369db9ccd4d62817f73a7c03446fb/artifacts
+end_time: 1715883940017
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 490369db9ccd4d62817f73a7c03446fb
+run_name: invincible-kit-854
+run_uuid: 490369db9ccd4d62817f73a7c03446fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883939879
+status: 3
+tags: []
+user_id: klimbelousov

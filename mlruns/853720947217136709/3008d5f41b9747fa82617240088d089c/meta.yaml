@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/3008d5f41b9747fa82617240088d089c/artifacts
+end_time: 1715883927661
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 3008d5f41b9747fa82617240088d089c
+run_name: unleashed-ant-215
+run_uuid: 3008d5f41b9747fa82617240088d089c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883927566
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/22968dc27bce4d1bb56893ddbc78a8c7/artifacts
+end_time: 1715883551938
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 22968dc27bce4d1bb56893ddbc78a8c7
+run_name: mercurial-stork-331
+run_uuid: 22968dc27bce4d1bb56893ddbc78a8c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883551815
+status: 3
+tags: []
+user_id: klimbelousov

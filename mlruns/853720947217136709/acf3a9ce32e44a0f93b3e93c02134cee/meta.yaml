@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/acf3a9ce32e44a0f93b3e93c02134cee/artifacts
+end_time: 1715883613613
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: acf3a9ce32e44a0f93b3e93c02134cee
+run_name: placid-bass-783
+run_uuid: acf3a9ce32e44a0f93b3e93c02134cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883613514
+status: 3
+tags: []
+user_id: klimbelousov

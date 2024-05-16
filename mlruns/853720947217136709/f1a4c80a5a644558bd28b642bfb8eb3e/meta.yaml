@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f1a4c80a5a644558bd28b642bfb8eb3e/artifacts
+end_time: 1715883843172
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f1a4c80a5a644558bd28b642bfb8eb3e
+run_name: enchanting-pug-756
+run_uuid: f1a4c80a5a644558bd28b642bfb8eb3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883843053
+status: 3
+tags: []
+user_id: klimbelousov

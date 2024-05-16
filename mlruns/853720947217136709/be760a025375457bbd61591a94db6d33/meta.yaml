@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/be760a025375457bbd61591a94db6d33/artifacts
+end_time: 1715884372099
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: be760a025375457bbd61591a94db6d33
+run_name: suave-croc-616
+run_uuid: be760a025375457bbd61591a94db6d33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884372013
+status: 3
+tags: []
+user_id: klimbelousov

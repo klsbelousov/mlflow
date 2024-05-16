@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8e607f1d6fc943038f94b6fbd9995caa/artifacts
+end_time: 1715883610813
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8e607f1d6fc943038f94b6fbd9995caa
+run_name: auspicious-perch-459
+run_uuid: 8e607f1d6fc943038f94b6fbd9995caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883610676
+status: 3
+tags: []
+user_id: klimbelousov

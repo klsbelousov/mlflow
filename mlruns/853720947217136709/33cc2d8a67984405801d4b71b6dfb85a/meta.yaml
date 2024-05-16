@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/33cc2d8a67984405801d4b71b6dfb85a/artifacts
+end_time: 1715883647237
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 33cc2d8a67984405801d4b71b6dfb85a
+run_name: unique-toad-802
+run_uuid: 33cc2d8a67984405801d4b71b6dfb85a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883647140
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/061a357d83ba42fcaf84c62a2b270b46/artifacts
+end_time: 1715883811623
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 061a357d83ba42fcaf84c62a2b270b46
+run_name: crawling-hare-623
+run_uuid: 061a357d83ba42fcaf84c62a2b270b46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883811525
+status: 3
+tags: []
+user_id: klimbelousov

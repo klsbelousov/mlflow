@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fa858975b7b041478c85d8b7914bf4dd/artifacts
+end_time: 1715883863477
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fa858975b7b041478c85d8b7914bf4dd
+run_name: sedate-tern-61
+run_uuid: fa858975b7b041478c85d8b7914bf4dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883863323
+status: 3
+tags: []
+user_id: klimbelousov

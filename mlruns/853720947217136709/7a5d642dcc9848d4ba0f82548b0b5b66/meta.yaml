@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7a5d642dcc9848d4ba0f82548b0b5b66/artifacts
+end_time: 1715884362363
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7a5d642dcc9848d4ba0f82548b0b5b66
+run_name: luxuriant-donkey-434
+run_uuid: 7a5d642dcc9848d4ba0f82548b0b5b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884362280
+status: 3
+tags: []
+user_id: klimbelousov

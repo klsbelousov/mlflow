@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/83fdd16f506940ecaeeae26fbf63aea3/artifacts
+end_time: 1715884333514
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 83fdd16f506940ecaeeae26fbf63aea3
+run_name: colorful-shark-425
+run_uuid: 83fdd16f506940ecaeeae26fbf63aea3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884333439
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ad5fa0e71a2b47c4816a9311b708d5a9/artifacts
+end_time: 1715883832552
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ad5fa0e71a2b47c4816a9311b708d5a9
+run_name: gentle-fox-480
+run_uuid: ad5fa0e71a2b47c4816a9311b708d5a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883832486
+status: 3
+tags: []
+user_id: klimbelousov

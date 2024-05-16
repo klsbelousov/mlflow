@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d823923fcfca4d16922818239b6fab93/artifacts
+end_time: 1715884370806
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d823923fcfca4d16922818239b6fab93
+run_name: valuable-hog-906
+run_uuid: d823923fcfca4d16922818239b6fab93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884370719
+status: 3
+tags: []
+user_id: klimbelousov

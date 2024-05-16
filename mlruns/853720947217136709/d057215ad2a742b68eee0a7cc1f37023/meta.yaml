@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d057215ad2a742b68eee0a7cc1f37023/artifacts
+end_time: 1715883921278
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d057215ad2a742b68eee0a7cc1f37023
+run_name: skillful-moose-253
+run_uuid: d057215ad2a742b68eee0a7cc1f37023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883921156
+status: 3
+tags: []
+user_id: klimbelousov

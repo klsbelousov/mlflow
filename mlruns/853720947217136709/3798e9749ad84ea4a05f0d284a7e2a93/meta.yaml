@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/3798e9749ad84ea4a05f0d284a7e2a93/artifacts
+end_time: 1715883952109
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 3798e9749ad84ea4a05f0d284a7e2a93
+run_name: bouncy-fish-902
+run_uuid: 3798e9749ad84ea4a05f0d284a7e2a93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883951998
+status: 3
+tags: []
+user_id: klimbelousov

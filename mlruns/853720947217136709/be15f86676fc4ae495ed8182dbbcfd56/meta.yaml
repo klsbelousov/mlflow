@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/be15f86676fc4ae495ed8182dbbcfd56/artifacts
+end_time: 1715883905778
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: be15f86676fc4ae495ed8182dbbcfd56
+run_name: burly-crab-702
+run_uuid: be15f86676fc4ae495ed8182dbbcfd56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883905661
+status: 3
+tags: []
+user_id: klimbelousov

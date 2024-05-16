@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5cb6beec066a4798811d6c1bded21e9c/artifacts
+end_time: 1715884371039
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5cb6beec066a4798811d6c1bded21e9c
+run_name: skittish-carp-41
+run_uuid: 5cb6beec066a4798811d6c1bded21e9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884370913
+status: 3
+tags: []
+user_id: klimbelousov

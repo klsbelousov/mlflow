@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/87718a9c24da4c1cbb3ecb4bf3830c3b/artifacts
+end_time: 1715884349787
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 87718a9c24da4c1cbb3ecb4bf3830c3b
+run_name: suave-mole-638
+run_uuid: 87718a9c24da4c1cbb3ecb4bf3830c3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884349715
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b486ba4538054f768e06de6bb7be8510/artifacts
+end_time: 1715883651034
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b486ba4538054f768e06de6bb7be8510
+run_name: omniscient-goose-516
+run_uuid: b486ba4538054f768e06de6bb7be8510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883650959
+status: 3
+tags: []
+user_id: klimbelousov

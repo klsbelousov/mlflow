@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1c2dc58047b24948aa1627e2d4785093/artifacts
+end_time: 1715884335235
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1c2dc58047b24948aa1627e2d4785093
+run_name: bouncy-stag-52
+run_uuid: 1c2dc58047b24948aa1627e2d4785093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884335127
+status: 3
+tags: []
+user_id: klimbelousov

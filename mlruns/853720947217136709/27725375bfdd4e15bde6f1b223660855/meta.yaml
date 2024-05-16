@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/27725375bfdd4e15bde6f1b223660855/artifacts
+end_time: 1715884351495
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 27725375bfdd4e15bde6f1b223660855
+run_name: resilient-frog-992
+run_uuid: 27725375bfdd4e15bde6f1b223660855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884351403
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c5bd3ec31c84486d9ff5c5f0d162be51/artifacts
+end_time: 1715883823596
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c5bd3ec31c84486d9ff5c5f0d162be51
+run_name: bright-dove-133
+run_uuid: c5bd3ec31c84486d9ff5c5f0d162be51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883823473
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/05a57804b37641278443384b0d3443e5/artifacts
+end_time: 1715883817308
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 05a57804b37641278443384b0d3443e5
+run_name: merciful-rat-13
+run_uuid: 05a57804b37641278443384b0d3443e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883817183
+status: 3
+tags: []
+user_id: klimbelousov

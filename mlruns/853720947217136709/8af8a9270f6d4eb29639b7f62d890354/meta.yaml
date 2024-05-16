@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8af8a9270f6d4eb29639b7f62d890354/artifacts
+end_time: 1715884370071
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8af8a9270f6d4eb29639b7f62d890354
+run_name: masked-midge-935
+run_uuid: 8af8a9270f6d4eb29639b7f62d890354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884369963
+status: 3
+tags: []
+user_id: klimbelousov

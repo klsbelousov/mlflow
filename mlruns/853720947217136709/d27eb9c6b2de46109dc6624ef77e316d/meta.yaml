@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d27eb9c6b2de46109dc6624ef77e316d/artifacts
+end_time: 1715883658822
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d27eb9c6b2de46109dc6624ef77e316d
+run_name: omniscient-chimp-711
+run_uuid: d27eb9c6b2de46109dc6624ef77e316d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883658697
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b74a6d7eb92f4f608e13864aba9b26fe/artifacts
+end_time: 1715884352281
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b74a6d7eb92f4f608e13864aba9b26fe
+run_name: mercurial-gull-118
+run_uuid: b74a6d7eb92f4f608e13864aba9b26fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884352208
+status: 3
+tags: []
+user_id: klimbelousov

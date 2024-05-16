@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/99f110c401ca4b418ebd83016a43a0fe/artifacts
+end_time: 1715883611190
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 99f110c401ca4b418ebd83016a43a0fe
+run_name: silent-fowl-977
+run_uuid: 99f110c401ca4b418ebd83016a43a0fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883611092
+status: 3
+tags: []
+user_id: klimbelousov

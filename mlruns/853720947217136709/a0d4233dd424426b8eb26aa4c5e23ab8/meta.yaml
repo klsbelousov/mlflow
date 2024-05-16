@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a0d4233dd424426b8eb26aa4c5e23ab8/artifacts
+end_time: 1715884349875
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a0d4233dd424426b8eb26aa4c5e23ab8
+run_name: defiant-boar-985
+run_uuid: a0d4233dd424426b8eb26aa4c5e23ab8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884349795
+status: 3
+tags: []
+user_id: klimbelousov

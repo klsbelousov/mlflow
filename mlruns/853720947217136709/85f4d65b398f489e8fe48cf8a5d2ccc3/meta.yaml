@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/85f4d65b398f489e8fe48cf8a5d2ccc3/artifacts
+end_time: 1715883652762
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 85f4d65b398f489e8fe48cf8a5d2ccc3
+run_name: polite-mink-953
+run_uuid: 85f4d65b398f489e8fe48cf8a5d2ccc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883652643
+status: 3
+tags: []
+user_id: klimbelousov

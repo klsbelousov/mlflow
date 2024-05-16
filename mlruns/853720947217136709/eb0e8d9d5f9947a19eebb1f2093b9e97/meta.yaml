@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/eb0e8d9d5f9947a19eebb1f2093b9e97/artifacts
+end_time: 1715883925117
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: eb0e8d9d5f9947a19eebb1f2093b9e97
+run_name: handsome-penguin-822
+run_uuid: eb0e8d9d5f9947a19eebb1f2093b9e97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883924979
+status: 3
+tags: []
+user_id: klimbelousov

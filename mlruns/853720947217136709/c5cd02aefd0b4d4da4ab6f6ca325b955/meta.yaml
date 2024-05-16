@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c5cd02aefd0b4d4da4ab6f6ca325b955/artifacts
+end_time: 1715883921802
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c5cd02aefd0b4d4da4ab6f6ca325b955
+run_name: secretive-lark-191
+run_uuid: c5cd02aefd0b4d4da4ab6f6ca325b955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883921700
+status: 3
+tags: []
+user_id: klimbelousov

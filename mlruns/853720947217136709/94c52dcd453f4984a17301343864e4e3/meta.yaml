@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/94c52dcd453f4984a17301343864e4e3/artifacts
+end_time: 1715884355451
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 94c52dcd453f4984a17301343864e4e3
+run_name: treasured-bass-858
+run_uuid: 94c52dcd453f4984a17301343864e4e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884355358
+status: 3
+tags: []
+user_id: klimbelousov

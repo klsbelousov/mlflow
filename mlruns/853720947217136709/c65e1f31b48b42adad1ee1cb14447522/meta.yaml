@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c65e1f31b48b42adad1ee1cb14447522/artifacts
+end_time: 1715883633269
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c65e1f31b48b42adad1ee1cb14447522
+run_name: intrigued-hog-357
+run_uuid: c65e1f31b48b42adad1ee1cb14447522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883633127
+status: 3
+tags: []
+user_id: klimbelousov

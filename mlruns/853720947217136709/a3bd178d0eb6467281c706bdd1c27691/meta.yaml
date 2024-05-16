@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a3bd178d0eb6467281c706bdd1c27691/artifacts
+end_time: 1715884337477
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a3bd178d0eb6467281c706bdd1c27691
+run_name: adventurous-calf-866
+run_uuid: a3bd178d0eb6467281c706bdd1c27691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884337204
+status: 3
+tags: []
+user_id: klimbelousov

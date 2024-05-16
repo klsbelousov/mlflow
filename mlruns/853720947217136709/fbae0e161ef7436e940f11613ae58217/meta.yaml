@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fbae0e161ef7436e940f11613ae58217/artifacts
+end_time: 1715883662137
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fbae0e161ef7436e940f11613ae58217
+run_name: fearless-ray-431
+run_uuid: fbae0e161ef7436e940f11613ae58217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883662045
+status: 3
+tags: []
+user_id: klimbelousov

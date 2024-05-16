@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/79d04cc76d174cdca110417775b1995c/artifacts
+end_time: 1715883643527
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 79d04cc76d174cdca110417775b1995c
+run_name: fearless-loon-469
+run_uuid: 79d04cc76d174cdca110417775b1995c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883643375
+status: 3
+tags: []
+user_id: klimbelousov

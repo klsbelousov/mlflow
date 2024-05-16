@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/6737b6923bcd4ef8a82cda09cf91142a/artifacts
+end_time: 1715883659526
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 6737b6923bcd4ef8a82cda09cf91142a
+run_name: orderly-squid-538
+run_uuid: 6737b6923bcd4ef8a82cda09cf91142a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883659446
+status: 3
+tags: []
+user_id: klimbelousov

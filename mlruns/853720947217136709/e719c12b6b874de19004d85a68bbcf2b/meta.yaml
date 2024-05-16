@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e719c12b6b874de19004d85a68bbcf2b/artifacts
+end_time: 1715883637381
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e719c12b6b874de19004d85a68bbcf2b
+run_name: abrasive-newt-922
+run_uuid: e719c12b6b874de19004d85a68bbcf2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883637240
+status: 3
+tags: []
+user_id: klimbelousov

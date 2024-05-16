@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fb63d0c9871a4902a688550a9476c56e/artifacts
+end_time: 1715883637539
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fb63d0c9871a4902a688550a9476c56e
+run_name: judicious-stag-225
+run_uuid: fb63d0c9871a4902a688550a9476c56e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883637395
+status: 3
+tags: []
+user_id: klimbelousov

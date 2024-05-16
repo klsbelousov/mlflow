@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/28b59714dacb43159e3097c781283905/artifacts
+end_time: 1715883619319
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 28b59714dacb43159e3097c781283905
+run_name: tasteful-deer-838
+run_uuid: 28b59714dacb43159e3097c781283905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883619167
+status: 3
+tags: []
+user_id: klimbelousov

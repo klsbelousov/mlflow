@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/86056225f93b4708841e2dee253f588c/artifacts
+end_time: 1715884357879
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 86056225f93b4708841e2dee253f588c
+run_name: luminous-bird-639
+run_uuid: 86056225f93b4708841e2dee253f588c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884357788
+status: 3
+tags: []
+user_id: klimbelousov

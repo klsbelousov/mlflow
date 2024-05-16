@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9d3548e8754345e2a3eb77b9c7a58031/artifacts
+end_time: 1715883675559
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9d3548e8754345e2a3eb77b9c7a58031
+run_name: skittish-mare-683
+run_uuid: 9d3548e8754345e2a3eb77b9c7a58031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883675432
+status: 3
+tags: []
+user_id: klimbelousov

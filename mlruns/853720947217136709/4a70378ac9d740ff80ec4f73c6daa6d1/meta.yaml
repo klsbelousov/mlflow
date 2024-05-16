@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4a70378ac9d740ff80ec4f73c6daa6d1/artifacts
+end_time: 1715883668585
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4a70378ac9d740ff80ec4f73c6daa6d1
+run_name: legendary-wren-862
+run_uuid: 4a70378ac9d740ff80ec4f73c6daa6d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883668478
+status: 3
+tags: []
+user_id: klimbelousov

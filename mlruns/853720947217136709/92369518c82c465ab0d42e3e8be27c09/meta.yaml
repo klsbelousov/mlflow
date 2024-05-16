@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/92369518c82c465ab0d42e3e8be27c09/artifacts
+end_time: 1715883844558
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 92369518c82c465ab0d42e3e8be27c09
+run_name: nimble-ray-133
+run_uuid: 92369518c82c465ab0d42e3e8be27c09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883844418
+status: 3
+tags: []
+user_id: klimbelousov

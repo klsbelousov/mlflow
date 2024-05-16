@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fc4c2a36592f445680a49e5b00282078/artifacts
+end_time: 1715883842335
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fc4c2a36592f445680a49e5b00282078
+run_name: capricious-cub-457
+run_uuid: fc4c2a36592f445680a49e5b00282078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883842240
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0388bc945fd74ef59d23def8be72029c/artifacts
+end_time: 1715883922826
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0388bc945fd74ef59d23def8be72029c
+run_name: whimsical-mink-323
+run_uuid: 0388bc945fd74ef59d23def8be72029c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883922741
+status: 3
+tags: []
+user_id: klimbelousov

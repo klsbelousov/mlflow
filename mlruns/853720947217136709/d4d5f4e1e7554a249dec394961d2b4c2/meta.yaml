@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d4d5f4e1e7554a249dec394961d2b4c2/artifacts
+end_time: 1715884334232
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d4d5f4e1e7554a249dec394961d2b4c2
+run_name: placid-tern-841
+run_uuid: d4d5f4e1e7554a249dec394961d2b4c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884334116
+status: 3
+tags: []
+user_id: klimbelousov

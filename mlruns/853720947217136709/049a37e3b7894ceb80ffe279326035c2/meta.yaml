@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/049a37e3b7894ceb80ffe279326035c2/artifacts
+end_time: 1715883673636
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 049a37e3b7894ceb80ffe279326035c2
+run_name: invincible-squid-861
+run_uuid: 049a37e3b7894ceb80ffe279326035c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883673508
+status: 3
+tags: []
+user_id: klimbelousov

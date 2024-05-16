@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/35cec6cdf44948aabd2e567d7cf7c651/artifacts
+end_time: 1715883649886
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 35cec6cdf44948aabd2e567d7cf7c651
+run_name: kindly-bear-305
+run_uuid: 35cec6cdf44948aabd2e567d7cf7c651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883649802
+status: 3
+tags: []
+user_id: klimbelousov

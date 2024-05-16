@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/bb242486123b44edb30e3f6932b0d20a/artifacts
+end_time: 1715883945785
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: bb242486123b44edb30e3f6932b0d20a
+run_name: charming-swan-889
+run_uuid: bb242486123b44edb30e3f6932b0d20a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883945650
+status: 3
+tags: []
+user_id: klimbelousov

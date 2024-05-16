@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/606dc1a7542845e685f266a83a5cd654/artifacts
+end_time: 1715883655618
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 606dc1a7542845e685f266a83a5cd654
+run_name: charming-crab-718
+run_uuid: 606dc1a7542845e685f266a83a5cd654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883655492
+status: 3
+tags: []
+user_id: klimbelousov

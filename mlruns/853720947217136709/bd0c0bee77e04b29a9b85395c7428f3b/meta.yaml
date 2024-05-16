@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/bd0c0bee77e04b29a9b85395c7428f3b/artifacts
+end_time: 1715883865646
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: bd0c0bee77e04b29a9b85395c7428f3b
+run_name: big-wolf-475
+run_uuid: bd0c0bee77e04b29a9b85395c7428f3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883865512
+status: 3
+tags: []
+user_id: klimbelousov

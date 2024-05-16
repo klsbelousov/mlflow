@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8aa0cdad3137447ba53a3777bd6b769d/artifacts
+end_time: 1715884376314
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8aa0cdad3137447ba53a3777bd6b769d
+run_name: dazzling-fowl-375
+run_uuid: 8aa0cdad3137447ba53a3777bd6b769d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884376216
+status: 3
+tags: []
+user_id: klimbelousov

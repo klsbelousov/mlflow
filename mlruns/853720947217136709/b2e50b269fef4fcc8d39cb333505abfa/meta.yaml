@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b2e50b269fef4fcc8d39cb333505abfa/artifacts
+end_time: 1715883810013
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b2e50b269fef4fcc8d39cb333505abfa
+run_name: handsome-hound-383
+run_uuid: b2e50b269fef4fcc8d39cb333505abfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883809901
+status: 3
+tags: []
+user_id: klimbelousov

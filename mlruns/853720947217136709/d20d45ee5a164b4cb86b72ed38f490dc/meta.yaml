@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d20d45ee5a164b4cb86b72ed38f490dc/artifacts
+end_time: 1715883872811
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d20d45ee5a164b4cb86b72ed38f490dc
+run_name: charming-perch-554
+run_uuid: d20d45ee5a164b4cb86b72ed38f490dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883872740
+status: 3
+tags: []
+user_id: klimbelousov

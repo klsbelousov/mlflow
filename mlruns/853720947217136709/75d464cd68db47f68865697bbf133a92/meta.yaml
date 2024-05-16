@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/75d464cd68db47f68865697bbf133a92/artifacts
+end_time: 1715883612244
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 75d464cd68db47f68865697bbf133a92
+run_name: nervous-gull-144
+run_uuid: 75d464cd68db47f68865697bbf133a92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883612090
+status: 3
+tags: []
+user_id: klimbelousov

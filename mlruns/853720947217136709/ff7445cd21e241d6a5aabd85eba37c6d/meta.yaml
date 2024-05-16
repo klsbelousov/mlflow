@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ff7445cd21e241d6a5aabd85eba37c6d/artifacts
+end_time: 1715883657710
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ff7445cd21e241d6a5aabd85eba37c6d
+run_name: welcoming-rook-262
+run_uuid: ff7445cd21e241d6a5aabd85eba37c6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883657572
+status: 3
+tags: []
+user_id: klimbelousov

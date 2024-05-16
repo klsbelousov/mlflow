@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2529d63e0e1342efaf1a71ec0024e011/artifacts
+end_time: 1715883858744
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2529d63e0e1342efaf1a71ec0024e011
+run_name: puzzled-eel-848
+run_uuid: 2529d63e0e1342efaf1a71ec0024e011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883858572
+status: 3
+tags: []
+user_id: klimbelousov

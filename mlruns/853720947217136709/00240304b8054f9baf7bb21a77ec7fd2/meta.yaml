@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/00240304b8054f9baf7bb21a77ec7fd2/artifacts
+end_time: 1715883863309
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 00240304b8054f9baf7bb21a77ec7fd2
+run_name: rumbling-lark-423
+run_uuid: 00240304b8054f9baf7bb21a77ec7fd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883863140
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/67a4da6fa68a4679bd3b2660e80a3a43/artifacts
+end_time: 1715883656368
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 67a4da6fa68a4679bd3b2660e80a3a43
+run_name: bald-hound-513
+run_uuid: 67a4da6fa68a4679bd3b2660e80a3a43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883656225
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/3cb5f5b2e3634a44bbaa2e641238c37a/artifacts
+end_time: 1715884366153
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 3cb5f5b2e3634a44bbaa2e641238c37a
+run_name: redolent-kite-243
+run_uuid: 3cb5f5b2e3634a44bbaa2e641238c37a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884366051
+status: 3
+tags: []
+user_id: klimbelousov

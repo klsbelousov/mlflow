@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/32bedb2b501b44aba4517c520dfd7e79/artifacts
+end_time: 1715884357138
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 32bedb2b501b44aba4517c520dfd7e79
+run_name: victorious-ram-652
+run_uuid: 32bedb2b501b44aba4517c520dfd7e79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884357041
+status: 3
+tags: []
+user_id: klimbelousov

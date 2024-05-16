@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/88644f38677b44c792600b5f4d3a84d7/artifacts
+end_time: 1715883956218
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 88644f38677b44c792600b5f4d3a84d7
+run_name: bedecked-duck-165
+run_uuid: 88644f38677b44c792600b5f4d3a84d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883956120
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/39924c37c25a4c5ab90f9f4837f7b438/artifacts
+end_time: 1715884331940
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 39924c37c25a4c5ab90f9f4837f7b438
+run_name: colorful-bird-529
+run_uuid: 39924c37c25a4c5ab90f9f4837f7b438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884331845
+status: 3
+tags: []
+user_id: klimbelousov

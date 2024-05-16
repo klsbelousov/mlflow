@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5fd704e25ff64be6a65346b7b4a11184/artifacts
+end_time: 1715883643198
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5fd704e25ff64be6a65346b7b4a11184
+run_name: overjoyed-tern-157
+run_uuid: 5fd704e25ff64be6a65346b7b4a11184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883643034
+status: 3
+tags: []
+user_id: klimbelousov

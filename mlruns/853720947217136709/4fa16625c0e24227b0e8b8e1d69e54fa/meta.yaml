@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4fa16625c0e24227b0e8b8e1d69e54fa/artifacts
+end_time: 1715884344870
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4fa16625c0e24227b0e8b8e1d69e54fa
+run_name: beautiful-squid-287
+run_uuid: 4fa16625c0e24227b0e8b8e1d69e54fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884344785
+status: 3
+tags: []
+user_id: klimbelousov

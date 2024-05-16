@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ca1202ed9acf4fba84dab8ef432211d5/artifacts
+end_time: 1715883855228
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ca1202ed9acf4fba84dab8ef432211d5
+run_name: debonair-wren-640
+run_uuid: ca1202ed9acf4fba84dab8ef432211d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883855091
+status: 3
+tags: []
+user_id: klimbelousov

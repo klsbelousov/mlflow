@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/da8ee5a57aef412192b13dfbf1712904/artifacts
+end_time: 1715883829747
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: da8ee5a57aef412192b13dfbf1712904
+run_name: big-fly-275
+run_uuid: da8ee5a57aef412192b13dfbf1712904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883829667
+status: 3
+tags: []
+user_id: klimbelousov

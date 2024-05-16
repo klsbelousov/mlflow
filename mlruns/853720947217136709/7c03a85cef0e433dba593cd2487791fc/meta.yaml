@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7c03a85cef0e433dba593cd2487791fc/artifacts
+end_time: 1715883939296
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7c03a85cef0e433dba593cd2487791fc
+run_name: indecisive-shoat-730
+run_uuid: 7c03a85cef0e433dba593cd2487791fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883939173
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0bed176dcf014b98b9ca9788b3c059e7/artifacts
+end_time: 1715883858244
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0bed176dcf014b98b9ca9788b3c059e7
+run_name: popular-moth-101
+run_uuid: 0bed176dcf014b98b9ca9788b3c059e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883858119
+status: 3
+tags: []
+user_id: klimbelousov

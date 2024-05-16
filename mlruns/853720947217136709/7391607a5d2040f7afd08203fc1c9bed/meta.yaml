@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7391607a5d2040f7afd08203fc1c9bed/artifacts
+end_time: 1715884337196
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7391607a5d2040f7afd08203fc1c9bed
+run_name: bouncy-midge-919
+run_uuid: 7391607a5d2040f7afd08203fc1c9bed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884337104
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c9babf47e8f54b3798b67cc6738dd81f/artifacts
+end_time: 1715883552941
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c9babf47e8f54b3798b67cc6738dd81f
+run_name: unleashed-lamb-80
+run_uuid: c9babf47e8f54b3798b67cc6738dd81f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883552775
+status: 3
+tags: []
+user_id: klimbelousov

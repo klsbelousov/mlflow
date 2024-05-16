@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/73537a248c7e4859aa25421008bd94e9/artifacts
+end_time: 1715883946138
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 73537a248c7e4859aa25421008bd94e9
+run_name: nimble-sow-965
+run_uuid: 73537a248c7e4859aa25421008bd94e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883946021
+status: 3
+tags: []
+user_id: klimbelousov

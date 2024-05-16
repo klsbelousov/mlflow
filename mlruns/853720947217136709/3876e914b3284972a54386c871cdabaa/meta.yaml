@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/3876e914b3284972a54386c871cdabaa/artifacts
+end_time: 1715884370187
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 3876e914b3284972a54386c871cdabaa
+run_name: learned-rook-693
+run_uuid: 3876e914b3284972a54386c871cdabaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884370081
+status: 3
+tags: []
+user_id: klimbelousov

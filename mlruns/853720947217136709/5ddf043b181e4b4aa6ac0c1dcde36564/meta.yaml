@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5ddf043b181e4b4aa6ac0c1dcde36564/artifacts
+end_time: 1715883868683
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5ddf043b181e4b4aa6ac0c1dcde36564
+run_name: resilient-bee-62
+run_uuid: 5ddf043b181e4b4aa6ac0c1dcde36564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883868519
+status: 3
+tags: []
+user_id: klimbelousov

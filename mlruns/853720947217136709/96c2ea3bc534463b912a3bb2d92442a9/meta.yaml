@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/96c2ea3bc534463b912a3bb2d92442a9/artifacts
+end_time: 1715883853566
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 96c2ea3bc534463b912a3bb2d92442a9
+run_name: victorious-horse-940
+run_uuid: 96c2ea3bc534463b912a3bb2d92442a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883853419
+status: 3
+tags: []
+user_id: klimbelousov

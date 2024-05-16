@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a34aa34b55e747a8ae9149941c373716/artifacts
+end_time: 1715883824264
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a34aa34b55e747a8ae9149941c373716
+run_name: amusing-lark-300
+run_uuid: a34aa34b55e747a8ae9149941c373716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883824136
+status: 3
+tags: []
+user_id: klimbelousov

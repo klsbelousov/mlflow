@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/62908f59eb05423fa4afff6af9b8d7e2/artifacts
+end_time: 1715883915237
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 62908f59eb05423fa4afff6af9b8d7e2
+run_name: beautiful-turtle-755
+run_uuid: 62908f59eb05423fa4afff6af9b8d7e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883915130
+status: 3
+tags: []
+user_id: klimbelousov

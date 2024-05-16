@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/27b25ba23bb74592966937cdec3ccc2f/artifacts
+end_time: 1715884336469
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 27b25ba23bb74592966937cdec3ccc2f
+run_name: delicate-skink-211
+run_uuid: 27b25ba23bb74592966937cdec3ccc2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884336374
+status: 3
+tags: []
+user_id: klimbelousov

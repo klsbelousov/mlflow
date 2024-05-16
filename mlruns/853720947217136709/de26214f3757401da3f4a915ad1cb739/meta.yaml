@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/de26214f3757401da3f4a915ad1cb739/artifacts
+end_time: 1715883937494
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: de26214f3757401da3f4a915ad1cb739
+run_name: judicious-doe-336
+run_uuid: de26214f3757401da3f4a915ad1cb739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883937371
+status: 3
+tags: []
+user_id: klimbelousov

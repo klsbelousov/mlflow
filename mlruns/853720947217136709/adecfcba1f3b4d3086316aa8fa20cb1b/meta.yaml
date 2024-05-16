@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/adecfcba1f3b4d3086316aa8fa20cb1b/artifacts
+end_time: 1715884353067
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: adecfcba1f3b4d3086316aa8fa20cb1b
+run_name: debonair-conch-870
+run_uuid: adecfcba1f3b4d3086316aa8fa20cb1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884352970
+status: 3
+tags: []
+user_id: klimbelousov

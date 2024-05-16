@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/540383de2b964e3c8b1d7d12385bf233/artifacts
+end_time: 1715883636562
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 540383de2b964e3c8b1d7d12385bf233
+run_name: angry-grub-704
+run_uuid: 540383de2b964e3c8b1d7d12385bf233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883636415
+status: 3
+tags: []
+user_id: klimbelousov

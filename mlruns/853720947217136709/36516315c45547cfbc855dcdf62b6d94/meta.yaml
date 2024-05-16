@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/36516315c45547cfbc855dcdf62b6d94/artifacts
+end_time: 1715883831776
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 36516315c45547cfbc855dcdf62b6d94
+run_name: loud-yak-609
+run_uuid: 36516315c45547cfbc855dcdf62b6d94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883831634
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/045b73985e544b4fbd00bde2ad0013ba/artifacts
+end_time: 1715884343525
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 045b73985e544b4fbd00bde2ad0013ba
+run_name: delicate-moth-399
+run_uuid: 045b73985e544b4fbd00bde2ad0013ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884343440
+status: 3
+tags: []
+user_id: klimbelousov

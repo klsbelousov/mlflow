@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f7ab9ab12af043498f881d5746f81566/artifacts
+end_time: 1715883651125
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f7ab9ab12af043498f881d5746f81566
+run_name: casual-sloth-892
+run_uuid: f7ab9ab12af043498f881d5746f81566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883651045
+status: 3
+tags: []
+user_id: klimbelousov

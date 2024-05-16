@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/04bc12b3a0294a6ea1a10884d6ddc21b/artifacts
+end_time: 1715883653816
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 04bc12b3a0294a6ea1a10884d6ddc21b
+run_name: wise-dolphin-292
+run_uuid: 04bc12b3a0294a6ea1a10884d6ddc21b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883653692
+status: 3
+tags: []
+user_id: klimbelousov

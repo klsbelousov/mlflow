@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/63459bc3791c4f2aafb0eefa9c622b28/artifacts
+end_time: 1715883642596
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 63459bc3791c4f2aafb0eefa9c622b28
+run_name: delightful-calf-174
+run_uuid: 63459bc3791c4f2aafb0eefa9c622b28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883642497
+status: 3
+tags: []
+user_id: klimbelousov

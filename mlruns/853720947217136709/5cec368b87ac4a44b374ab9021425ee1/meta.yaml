@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5cec368b87ac4a44b374ab9021425ee1/artifacts
+end_time: 1715883957895
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5cec368b87ac4a44b374ab9021425ee1
+run_name: traveling-roo-950
+run_uuid: 5cec368b87ac4a44b374ab9021425ee1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883957766
+status: 3
+tags: []
+user_id: klimbelousov

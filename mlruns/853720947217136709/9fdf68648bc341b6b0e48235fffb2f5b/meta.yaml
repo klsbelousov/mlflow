@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9fdf68648bc341b6b0e48235fffb2f5b/artifacts
+end_time: 1715884338207
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9fdf68648bc341b6b0e48235fffb2f5b
+run_name: rare-wasp-669
+run_uuid: 9fdf68648bc341b6b0e48235fffb2f5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884338127
+status: 3
+tags: []
+user_id: klimbelousov

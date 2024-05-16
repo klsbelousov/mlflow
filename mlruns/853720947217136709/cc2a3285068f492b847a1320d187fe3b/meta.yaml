@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/cc2a3285068f492b847a1320d187fe3b/artifacts
+end_time: 1715884370512
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: cc2a3285068f492b847a1320d187fe3b
+run_name: industrious-mole-621
+run_uuid: cc2a3285068f492b847a1320d187fe3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884370416
+status: 3
+tags: []
+user_id: klimbelousov

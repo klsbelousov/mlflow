@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/aa51c259a84f41149ad70aa12e3a5c83/artifacts
+end_time: 1715884331328
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: aa51c259a84f41149ad70aa12e3a5c83
+run_name: abundant-boar-504
+run_uuid: aa51c259a84f41149ad70aa12e3a5c83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884331239
+status: 3
+tags: []
+user_id: klimbelousov

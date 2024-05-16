@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0bd8ce7bf7144e06a6bec56f2c8f0164/artifacts
+end_time: 1715883614469
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0bd8ce7bf7144e06a6bec56f2c8f0164
+run_name: smiling-moth-779
+run_uuid: 0bd8ce7bf7144e06a6bec56f2c8f0164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883614362
+status: 3
+tags: []
+user_id: klimbelousov

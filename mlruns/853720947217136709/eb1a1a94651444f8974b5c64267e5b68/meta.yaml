@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/eb1a1a94651444f8974b5c64267e5b68/artifacts
+end_time: 1715883918959
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: eb1a1a94651444f8974b5c64267e5b68
+run_name: puzzled-stag-420
+run_uuid: eb1a1a94651444f8974b5c64267e5b68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883918878
+status: 3
+tags: []
+user_id: klimbelousov

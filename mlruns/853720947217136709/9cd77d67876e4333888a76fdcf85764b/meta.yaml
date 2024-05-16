@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9cd77d67876e4333888a76fdcf85764b/artifacts
+end_time: 1715884347648
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9cd77d67876e4333888a76fdcf85764b
+run_name: adventurous-flea-782
+run_uuid: 9cd77d67876e4333888a76fdcf85764b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884347548
+status: 3
+tags: []
+user_id: klimbelousov

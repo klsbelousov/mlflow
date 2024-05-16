@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a1a5599302fa45a4a2ee5c4189131847/artifacts
+end_time: 1715883861772
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a1a5599302fa45a4a2ee5c4189131847
+run_name: redolent-gnat-427
+run_uuid: a1a5599302fa45a4a2ee5c4189131847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883861685
+status: 3
+tags: []
+user_id: klimbelousov

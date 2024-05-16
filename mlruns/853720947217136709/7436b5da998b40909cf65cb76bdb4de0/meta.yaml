@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7436b5da998b40909cf65cb76bdb4de0/artifacts
+end_time: 1715883909124
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7436b5da998b40909cf65cb76bdb4de0
+run_name: burly-skunk-429
+run_uuid: 7436b5da998b40909cf65cb76bdb4de0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883909037
+status: 3
+tags: []
+user_id: klimbelousov

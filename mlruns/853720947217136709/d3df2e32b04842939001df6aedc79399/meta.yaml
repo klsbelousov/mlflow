@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d3df2e32b04842939001df6aedc79399/artifacts
+end_time: 1715883828820
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d3df2e32b04842939001df6aedc79399
+run_name: polite-sponge-144
+run_uuid: d3df2e32b04842939001df6aedc79399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883828754
+status: 3
+tags: []
+user_id: klimbelousov

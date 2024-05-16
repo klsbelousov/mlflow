@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/95079f389bd740d08a24f765e52e4468/artifacts
+end_time: 1715883661780
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 95079f389bd740d08a24f765e52e4468
+run_name: exultant-roo-968
+run_uuid: 95079f389bd740d08a24f765e52e4468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883661685
+status: 3
+tags: []
+user_id: klimbelousov

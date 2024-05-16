@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b45e7c0de3194656a470a9df8267fad3/artifacts
+end_time: 1715883919763
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b45e7c0de3194656a470a9df8267fad3
+run_name: auspicious-bird-940
+run_uuid: b45e7c0de3194656a470a9df8267fad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883919644
+status: 3
+tags: []
+user_id: klimbelousov

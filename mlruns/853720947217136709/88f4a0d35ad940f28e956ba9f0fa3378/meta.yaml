@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/88f4a0d35ad940f28e956ba9f0fa3378/artifacts
+end_time: 1715883831483
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 88f4a0d35ad940f28e956ba9f0fa3378
+run_name: thundering-hawk-134
+run_uuid: 88f4a0d35ad940f28e956ba9f0fa3378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883831377
+status: 3
+tags: []
+user_id: klimbelousov

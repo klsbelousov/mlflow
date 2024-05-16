@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fa92632aa2b94892b84e68af1e1ca4f0/artifacts
+end_time: 1715883666554
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fa92632aa2b94892b84e68af1e1ca4f0
+run_name: caring-seal-563
+run_uuid: fa92632aa2b94892b84e68af1e1ca4f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883666439
+status: 3
+tags: []
+user_id: klimbelousov

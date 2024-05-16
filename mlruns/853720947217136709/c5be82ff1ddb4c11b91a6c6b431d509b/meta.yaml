@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c5be82ff1ddb4c11b91a6c6b431d509b/artifacts
+end_time: 1715883627828
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c5be82ff1ddb4c11b91a6c6b431d509b
+run_name: receptive-hawk-908
+run_uuid: c5be82ff1ddb4c11b91a6c6b431d509b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883627654
+status: 3
+tags: []
+user_id: klimbelousov

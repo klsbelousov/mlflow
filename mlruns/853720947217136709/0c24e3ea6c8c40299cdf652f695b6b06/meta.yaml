@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0c24e3ea6c8c40299cdf652f695b6b06/artifacts
+end_time: 1715883660709
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0c24e3ea6c8c40299cdf652f695b6b06
+run_name: funny-moth-113
+run_uuid: 0c24e3ea6c8c40299cdf652f695b6b06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883660631
+status: 3
+tags: []
+user_id: klimbelousov

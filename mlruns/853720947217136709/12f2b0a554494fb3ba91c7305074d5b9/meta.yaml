@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/12f2b0a554494fb3ba91c7305074d5b9/artifacts
+end_time: 1715883954844
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 12f2b0a554494fb3ba91c7305074d5b9
+run_name: nimble-fish-982
+run_uuid: 12f2b0a554494fb3ba91c7305074d5b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883954749
+status: 3
+tags: []
+user_id: klimbelousov

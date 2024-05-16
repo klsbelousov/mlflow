@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0b89351c64854b99b6268a0c50d940f2/artifacts
+end_time: 1715883649585
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0b89351c64854b99b6268a0c50d940f2
+run_name: marvelous-croc-430
+run_uuid: 0b89351c64854b99b6268a0c50d940f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883649477
+status: 3
+tags: []
+user_id: klimbelousov

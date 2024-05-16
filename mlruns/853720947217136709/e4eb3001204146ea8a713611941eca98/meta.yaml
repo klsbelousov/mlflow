@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e4eb3001204146ea8a713611941eca98/artifacts
+end_time: 1715884374380
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e4eb3001204146ea8a713611941eca98
+run_name: judicious-mink-520
+run_uuid: e4eb3001204146ea8a713611941eca98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884374282
+status: 3
+tags: []
+user_id: klimbelousov

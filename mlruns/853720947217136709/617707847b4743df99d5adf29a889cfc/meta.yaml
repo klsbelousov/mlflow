@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/617707847b4743df99d5adf29a889cfc/artifacts
+end_time: 1715883815714
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 617707847b4743df99d5adf29a889cfc
+run_name: rogue-tern-413
+run_uuid: 617707847b4743df99d5adf29a889cfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883815656
+status: 3
+tags: []
+user_id: klimbelousov

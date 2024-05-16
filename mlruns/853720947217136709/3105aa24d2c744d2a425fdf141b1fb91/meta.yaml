@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/3105aa24d2c744d2a425fdf141b1fb91/artifacts
+end_time: 1715884366041
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 3105aa24d2c744d2a425fdf141b1fb91
+run_name: victorious-donkey-11
+run_uuid: 3105aa24d2c744d2a425fdf141b1fb91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884365942
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2c38bfc2e8ed464aa51af22462fb0e26/artifacts
+end_time: 1715883853714
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2c38bfc2e8ed464aa51af22462fb0e26
+run_name: melodic-finch-595
+run_uuid: 2c38bfc2e8ed464aa51af22462fb0e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883853581
+status: 3
+tags: []
+user_id: klimbelousov

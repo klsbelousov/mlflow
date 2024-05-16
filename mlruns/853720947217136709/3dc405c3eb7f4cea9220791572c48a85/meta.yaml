@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/3dc405c3eb7f4cea9220791572c48a85/artifacts
+end_time: 1715883837559
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 3dc405c3eb7f4cea9220791572c48a85
+run_name: redolent-dove-25
+run_uuid: 3dc405c3eb7f4cea9220791572c48a85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883837479
+status: 3
+tags: []
+user_id: klimbelousov

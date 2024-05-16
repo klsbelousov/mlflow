@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ed1145a15a8541f99fdf9f4a2087edc2/artifacts
+end_time: 1715884361225
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ed1145a15a8541f99fdf9f4a2087edc2
+run_name: dazzling-robin-406
+run_uuid: ed1145a15a8541f99fdf9f4a2087edc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884360996
+status: 3
+tags: []
+user_id: klimbelousov

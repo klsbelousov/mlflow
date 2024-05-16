@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/572cf186e14d4ef0a6e49f74abe710a7/artifacts
+end_time: 1715883929717
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 572cf186e14d4ef0a6e49f74abe710a7
+run_name: unequaled-trout-41
+run_uuid: 572cf186e14d4ef0a6e49f74abe710a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883929594
+status: 3
+tags: []
+user_id: klimbelousov

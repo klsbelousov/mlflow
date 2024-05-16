@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/796a5c82df3148b6ad86fb1ceefc242e/artifacts
+end_time: 1715883937027
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 796a5c82df3148b6ad86fb1ceefc242e
+run_name: exultant-cow-63
+run_uuid: 796a5c82df3148b6ad86fb1ceefc242e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883936938
+status: 3
+tags: []
+user_id: klimbelousov

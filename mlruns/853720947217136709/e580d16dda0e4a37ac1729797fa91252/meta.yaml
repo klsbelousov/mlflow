@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e580d16dda0e4a37ac1729797fa91252/artifacts
+end_time: 1715883639790
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e580d16dda0e4a37ac1729797fa91252
+run_name: inquisitive-shad-104
+run_uuid: e580d16dda0e4a37ac1729797fa91252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883639639
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/24d7f36035674b3eada5d18ea290b75e/artifacts
+end_time: 1715883860828
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 24d7f36035674b3eada5d18ea290b75e
+run_name: intelligent-moth-416
+run_uuid: 24d7f36035674b3eada5d18ea290b75e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883860688
+status: 3
+tags: []
+user_id: klimbelousov

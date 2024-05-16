@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/34e4ac609dd54423ad6538c5d9b73ad8/artifacts
+end_time: 1715883914352
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 34e4ac609dd54423ad6538c5d9b73ad8
+run_name: redolent-midge-23
+run_uuid: 34e4ac609dd54423ad6538c5d9b73ad8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883914264
+status: 3
+tags: []
+user_id: klimbelousov

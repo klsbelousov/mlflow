@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e5b64f35b888444e8e5767283028ae14/artifacts
+end_time: 1715883641846
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e5b64f35b888444e8e5767283028ae14
+run_name: salty-wolf-1
+run_uuid: e5b64f35b888444e8e5767283028ae14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883641720
+status: 3
+tags: []
+user_id: klimbelousov

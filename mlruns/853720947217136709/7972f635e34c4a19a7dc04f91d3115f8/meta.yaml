@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7972f635e34c4a19a7dc04f91d3115f8/artifacts
+end_time: 1715884356506
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7972f635e34c4a19a7dc04f91d3115f8
+run_name: victorious-moth-63
+run_uuid: 7972f635e34c4a19a7dc04f91d3115f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884356412
+status: 3
+tags: []
+user_id: klimbelousov

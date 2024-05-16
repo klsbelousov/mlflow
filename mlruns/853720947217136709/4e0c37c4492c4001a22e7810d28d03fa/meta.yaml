@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4e0c37c4492c4001a22e7810d28d03fa/artifacts
+end_time: 1715883868198
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4e0c37c4492c4001a22e7810d28d03fa
+run_name: thundering-smelt-790
+run_uuid: 4e0c37c4492c4001a22e7810d28d03fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883868108
+status: 3
+tags: []
+user_id: klimbelousov

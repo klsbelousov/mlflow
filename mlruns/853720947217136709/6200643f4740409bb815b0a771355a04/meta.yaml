@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/6200643f4740409bb815b0a771355a04/artifacts
+end_time: 1715883617493
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 6200643f4740409bb815b0a771355a04
+run_name: gentle-perch-195
+run_uuid: 6200643f4740409bb815b0a771355a04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883617399
+status: 3
+tags: []
+user_id: klimbelousov

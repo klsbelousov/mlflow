@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8efe01fdb43b46379a6ed091fc3e636b/artifacts
+end_time: 1715883944621
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8efe01fdb43b46379a6ed091fc3e636b
+run_name: exultant-trout-396
+run_uuid: 8efe01fdb43b46379a6ed091fc3e636b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883944502
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/88c05bf1e27c4d4eb39c53bdfcd4ff71/artifacts
+end_time: 1715883952224
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 88c05bf1e27c4d4eb39c53bdfcd4ff71
+run_name: capable-croc-247
+run_uuid: 88c05bf1e27c4d4eb39c53bdfcd4ff71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883952119
+status: 3
+tags: []
+user_id: klimbelousov

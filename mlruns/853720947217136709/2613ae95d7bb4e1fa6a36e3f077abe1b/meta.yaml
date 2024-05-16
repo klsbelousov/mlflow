@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2613ae95d7bb4e1fa6a36e3f077abe1b/artifacts
+end_time: 1715883944720
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2613ae95d7bb4e1fa6a36e3f077abe1b
+run_name: placid-hawk-968
+run_uuid: 2613ae95d7bb4e1fa6a36e3f077abe1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883944630
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d5a70d8f18e8487d83e2bac38b78ca4d/artifacts
+end_time: 1715884342138
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d5a70d8f18e8487d83e2bac38b78ca4d
+run_name: handsome-perch-241
+run_uuid: d5a70d8f18e8487d83e2bac38b78ca4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884342026
+status: 3
+tags: []
+user_id: klimbelousov

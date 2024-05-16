@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/449624603c0f417981221b847b4a5029/artifacts
+end_time: 1715883818802
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 449624603c0f417981221b847b4a5029
+run_name: awesome-goose-402
+run_uuid: 449624603c0f417981221b847b4a5029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883818662
+status: 3
+tags: []
+user_id: klimbelousov

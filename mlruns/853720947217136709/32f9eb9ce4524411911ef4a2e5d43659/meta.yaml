@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/32f9eb9ce4524411911ef4a2e5d43659/artifacts
+end_time: 1715884361399
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 32f9eb9ce4524411911ef4a2e5d43659
+run_name: valuable-sheep-652
+run_uuid: 32f9eb9ce4524411911ef4a2e5d43659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884361324
+status: 3
+tags: []
+user_id: klimbelousov

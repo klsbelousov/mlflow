@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2de44b00fd0148449f6653d827c7a54f/artifacts
+end_time: 1715884373597
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2de44b00fd0148449f6653d827c7a54f
+run_name: marvelous-mole-563
+run_uuid: 2de44b00fd0148449f6653d827c7a54f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884373505
+status: 3
+tags: []
+user_id: klimbelousov

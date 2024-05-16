@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/616f149997c042d2bb2f00bf33b8ce02/artifacts
+end_time: 1715883939857
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 616f149997c042d2bb2f00bf33b8ce02
+run_name: spiffy-conch-653
+run_uuid: 616f149997c042d2bb2f00bf33b8ce02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883939712
+status: 3
+tags: []
+user_id: klimbelousov

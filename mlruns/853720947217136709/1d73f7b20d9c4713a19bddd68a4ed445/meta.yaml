@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1d73f7b20d9c4713a19bddd68a4ed445/artifacts
+end_time: 1715884334106
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1d73f7b20d9c4713a19bddd68a4ed445
+run_name: clean-stork-804
+run_uuid: 1d73f7b20d9c4713a19bddd68a4ed445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884334011
+status: 3
+tags: []
+user_id: klimbelousov

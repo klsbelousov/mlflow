@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/aac8e2a129614dad86d5d78a2c69a84d/artifacts
+end_time: 1715883898839
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: aac8e2a129614dad86d5d78a2c69a84d
+run_name: overjoyed-bat-679
+run_uuid: aac8e2a129614dad86d5d78a2c69a84d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883898731
+status: 3
+tags: []
+user_id: klimbelousov

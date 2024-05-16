@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/03fb84df59b84861a134b3f2eb3b28fe/artifacts
+end_time: 1715884358778
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 03fb84df59b84861a134b3f2eb3b28fe
+run_name: glamorous-boar-169
+run_uuid: 03fb84df59b84861a134b3f2eb3b28fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884358703
+status: 3
+tags: []
+user_id: klimbelousov

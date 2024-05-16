@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/297da0dacb1e477694dd5a1df6e2ad85/artifacts
+end_time: 1715884377775
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 297da0dacb1e477694dd5a1df6e2ad85
+run_name: merciful-crab-899
+run_uuid: 297da0dacb1e477694dd5a1df6e2ad85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884377667
+status: 3
+tags: []
+user_id: klimbelousov

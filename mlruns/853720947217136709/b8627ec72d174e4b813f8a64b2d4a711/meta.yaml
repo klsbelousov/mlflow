@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b8627ec72d174e4b813f8a64b2d4a711/artifacts
+end_time: 1715883674979
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b8627ec72d174e4b813f8a64b2d4a711
+run_name: vaunted-fish-833
+run_uuid: b8627ec72d174e4b813f8a64b2d4a711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883674886
+status: 3
+tags: []
+user_id: klimbelousov

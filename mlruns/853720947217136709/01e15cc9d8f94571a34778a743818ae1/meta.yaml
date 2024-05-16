@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/01e15cc9d8f94571a34778a743818ae1/artifacts
+end_time: 1715884365335
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 01e15cc9d8f94571a34778a743818ae1
+run_name: resilient-dove-964
+run_uuid: 01e15cc9d8f94571a34778a743818ae1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884365250
+status: 3
+tags: []
+user_id: klimbelousov

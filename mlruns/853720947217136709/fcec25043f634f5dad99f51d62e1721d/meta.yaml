@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fcec25043f634f5dad99f51d62e1721d/artifacts
+end_time: 1715883901350
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fcec25043f634f5dad99f51d62e1721d
+run_name: upbeat-vole-730
+run_uuid: fcec25043f634f5dad99f51d62e1721d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883901240
+status: 3
+tags: []
+user_id: klimbelousov

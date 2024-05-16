@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/571de5a9ce3b4a319f8c706a3574a6e7/artifacts
+end_time: 1715883918646
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 571de5a9ce3b4a319f8c706a3574a6e7
+run_name: redolent-dog-205
+run_uuid: 571de5a9ce3b4a319f8c706a3574a6e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883918516
+status: 3
+tags: []
+user_id: klimbelousov

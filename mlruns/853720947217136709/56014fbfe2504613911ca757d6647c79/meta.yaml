@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/56014fbfe2504613911ca757d6647c79/artifacts
+end_time: 1715884376430
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 56014fbfe2504613911ca757d6647c79
+run_name: agreeable-stoat-813
+run_uuid: 56014fbfe2504613911ca757d6647c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884376324
+status: 3
+tags: []
+user_id: klimbelousov

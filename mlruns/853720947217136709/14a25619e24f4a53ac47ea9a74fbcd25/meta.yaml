@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/14a25619e24f4a53ac47ea9a74fbcd25/artifacts
+end_time: 1715884347438
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 14a25619e24f4a53ac47ea9a74fbcd25
+run_name: amusing-gnat-531
+run_uuid: 14a25619e24f4a53ac47ea9a74fbcd25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884347355
+status: 3
+tags: []
+user_id: klimbelousov

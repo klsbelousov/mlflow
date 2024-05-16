@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/eb2e699e37fa49e5ae65556564d4ccf1/artifacts
+end_time: 1715884337593
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: eb2e699e37fa49e5ae65556564d4ccf1
+run_name: treasured-pig-153
+run_uuid: eb2e699e37fa49e5ae65556564d4ccf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884337486
+status: 3
+tags: []
+user_id: klimbelousov

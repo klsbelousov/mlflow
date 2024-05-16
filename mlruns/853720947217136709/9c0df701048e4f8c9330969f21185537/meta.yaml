@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9c0df701048e4f8c9330969f21185537/artifacts
+end_time: 1715883826291
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9c0df701048e4f8c9330969f21185537
+run_name: chill-bug-882
+run_uuid: 9c0df701048e4f8c9330969f21185537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883826216
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ea3fea700f274912bda08fe43b0cef83/artifacts
+end_time: 1715884346320
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ea3fea700f274912bda08fe43b0cef83
+run_name: enchanting-boar-807
+run_uuid: ea3fea700f274912bda08fe43b0cef83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884346231
+status: 3
+tags: []
+user_id: klimbelousov

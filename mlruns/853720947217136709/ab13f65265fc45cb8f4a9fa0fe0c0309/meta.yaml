@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ab13f65265fc45cb8f4a9fa0fe0c0309/artifacts
+end_time: 1715883674876
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ab13f65265fc45cb8f4a9fa0fe0c0309
+run_name: efficient-fish-506
+run_uuid: ab13f65265fc45cb8f4a9fa0fe0c0309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883674771
+status: 3
+tags: []
+user_id: klimbelousov

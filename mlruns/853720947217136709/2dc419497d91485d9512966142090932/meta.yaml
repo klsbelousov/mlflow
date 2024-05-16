@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2dc419497d91485d9512966142090932/artifacts
+end_time: 1715883837222
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2dc419497d91485d9512966142090932
+run_name: nervous-quail-385
+run_uuid: 2dc419497d91485d9512966142090932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883837135
+status: 3
+tags: []
+user_id: klimbelousov

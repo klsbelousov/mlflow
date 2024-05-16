@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/303500085be145ffabef6f15e6b8af0e/artifacts
+end_time: 1715884358941
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 303500085be145ffabef6f15e6b8af0e
+run_name: thundering-croc-490
+run_uuid: 303500085be145ffabef6f15e6b8af0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884358867
+status: 3
+tags: []
+user_id: klimbelousov

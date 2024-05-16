@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4cf87d542a4745b584af8bb64b88d91c/artifacts
+end_time: 1715883926456
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4cf87d542a4745b584af8bb64b88d91c
+run_name: mercurial-wren-603
+run_uuid: 4cf87d542a4745b584af8bb64b88d91c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883926348
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e401747bbdbc428a925b275d1feb589a/artifacts
+end_time: 1715883848096
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e401747bbdbc428a925b275d1feb589a
+run_name: useful-goat-568
+run_uuid: e401747bbdbc428a925b275d1feb589a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883847942
+status: 3
+tags: []
+user_id: klimbelousov

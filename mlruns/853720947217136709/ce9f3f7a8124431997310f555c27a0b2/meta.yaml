@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ce9f3f7a8124431997310f555c27a0b2/artifacts
+end_time: 1715883913004
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ce9f3f7a8124431997310f555c27a0b2
+run_name: dapper-croc-427
+run_uuid: ce9f3f7a8124431997310f555c27a0b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883912924
+status: 3
+tags: []
+user_id: klimbelousov

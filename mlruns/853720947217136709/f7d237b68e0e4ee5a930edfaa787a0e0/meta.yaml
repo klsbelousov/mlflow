@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f7d237b68e0e4ee5a930edfaa787a0e0/artifacts
+end_time: 1715883948479
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f7d237b68e0e4ee5a930edfaa787a0e0
+run_name: valuable-shark-939
+run_uuid: f7d237b68e0e4ee5a930edfaa787a0e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883948377
+status: 3
+tags: []
+user_id: klimbelousov

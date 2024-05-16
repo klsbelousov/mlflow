@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ca38a8a0424c49b9ac10234ce2a37996/artifacts
+end_time: 1715883660126
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ca38a8a0424c49b9ac10234ce2a37996
+run_name: puzzled-shrew-495
+run_uuid: ca38a8a0424c49b9ac10234ce2a37996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883659989
+status: 3
+tags: []
+user_id: klimbelousov

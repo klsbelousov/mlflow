@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/15619f086682464c9d9377061ae9c1b2/artifacts
+end_time: 1715884368723
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 15619f086682464c9d9377061ae9c1b2
+run_name: angry-mink-233
+run_uuid: 15619f086682464c9d9377061ae9c1b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884368615
+status: 3
+tags: []
+user_id: klimbelousov

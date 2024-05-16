@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7970032f520e4bb4b8136a8f705df224/artifacts
+end_time: 1715883921013
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7970032f520e4bb4b8136a8f705df224
+run_name: worried-wolf-915
+run_uuid: 7970032f520e4bb4b8136a8f705df224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883920898
+status: 3
+tags: []
+user_id: klimbelousov

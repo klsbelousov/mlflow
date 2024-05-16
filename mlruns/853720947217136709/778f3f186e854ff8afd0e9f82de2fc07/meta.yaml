@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/778f3f186e854ff8afd0e9f82de2fc07/artifacts
+end_time: 1715883632956
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 778f3f186e854ff8afd0e9f82de2fc07
+run_name: popular-sheep-520
+run_uuid: 778f3f186e854ff8afd0e9f82de2fc07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883632807
+status: 3
+tags: []
+user_id: klimbelousov

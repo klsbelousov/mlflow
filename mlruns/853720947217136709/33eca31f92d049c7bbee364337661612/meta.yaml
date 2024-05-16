@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/33eca31f92d049c7bbee364337661612/artifacts
+end_time: 1715883939156
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 33eca31f92d049c7bbee364337661612
+run_name: polite-midge-35
+run_uuid: 33eca31f92d049c7bbee364337661612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883938986
+status: 3
+tags: []
+user_id: klimbelousov

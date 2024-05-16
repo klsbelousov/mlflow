@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d832b2bc172242bdb340b42f1a7477fd/artifacts
+end_time: 1715883552264
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d832b2bc172242bdb340b42f1a7477fd
+run_name: dazzling-loon-769
+run_uuid: d832b2bc172242bdb340b42f1a7477fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883552119
+status: 3
+tags: []
+user_id: klimbelousov

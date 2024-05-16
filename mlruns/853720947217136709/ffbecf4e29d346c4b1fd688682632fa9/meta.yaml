@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ffbecf4e29d346c4b1fd688682632fa9/artifacts
+end_time: 1715883919232
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ffbecf4e29d346c4b1fd688682632fa9
+run_name: amusing-hound-921
+run_uuid: ffbecf4e29d346c4b1fd688682632fa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883919151
+status: 3
+tags: []
+user_id: klimbelousov

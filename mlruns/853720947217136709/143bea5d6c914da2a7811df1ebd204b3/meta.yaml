@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/143bea5d6c914da2a7811df1ebd204b3/artifacts
+end_time: 1715883901123
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 143bea5d6c914da2a7811df1ebd204b3
+run_name: rogue-smelt-919
+run_uuid: 143bea5d6c914da2a7811df1ebd204b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883900996
+status: 3
+tags: []
+user_id: klimbelousov

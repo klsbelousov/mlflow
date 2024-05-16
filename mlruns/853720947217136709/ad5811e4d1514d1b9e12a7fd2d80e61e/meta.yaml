@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ad5811e4d1514d1b9e12a7fd2d80e61e/artifacts
+end_time: 1715883842231
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ad5811e4d1514d1b9e12a7fd2d80e61e
+run_name: unleashed-jay-453
+run_uuid: ad5811e4d1514d1b9e12a7fd2d80e61e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883842132
+status: 3
+tags: []
+user_id: klimbelousov

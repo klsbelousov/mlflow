@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a917ea2ec56c4ec0b13ae1f6e39c049d/artifacts
+end_time: 1715883825027
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a917ea2ec56c4ec0b13ae1f6e39c049d
+run_name: judicious-ray-347
+run_uuid: a917ea2ec56c4ec0b13ae1f6e39c049d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883824946
+status: 3
+tags: []
+user_id: klimbelousov

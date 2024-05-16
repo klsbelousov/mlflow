@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/278bb075520249e9ba5988701e42326b/artifacts
+end_time: 1715883638546
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 278bb075520249e9ba5988701e42326b
+run_name: selective-wren-814
+run_uuid: 278bb075520249e9ba5988701e42326b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883638401
+status: 3
+tags: []
+user_id: klimbelousov

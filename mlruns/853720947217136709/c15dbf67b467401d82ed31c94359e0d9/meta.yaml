@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c15dbf67b467401d82ed31c94359e0d9/artifacts
+end_time: 1715884355134
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c15dbf67b467401d82ed31c94359e0d9
+run_name: popular-stoat-266
+run_uuid: c15dbf67b467401d82ed31c94359e0d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884355044
+status: 3
+tags: []
+user_id: klimbelousov

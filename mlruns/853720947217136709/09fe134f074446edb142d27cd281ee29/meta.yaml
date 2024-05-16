@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/09fe134f074446edb142d27cd281ee29/artifacts
+end_time: 1715884360874
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 09fe134f074446edb142d27cd281ee29
+run_name: smiling-foal-743
+run_uuid: 09fe134f074446edb142d27cd281ee29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884360778
+status: 3
+tags: []
+user_id: klimbelousov

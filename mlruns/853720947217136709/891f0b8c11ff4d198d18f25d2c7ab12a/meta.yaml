@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/891f0b8c11ff4d198d18f25d2c7ab12a/artifacts
+end_time: 1715883866551
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 891f0b8c11ff4d198d18f25d2c7ab12a
+run_name: nimble-shad-110
+run_uuid: 891f0b8c11ff4d198d18f25d2c7ab12a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883866470
+status: 3
+tags: []
+user_id: klimbelousov

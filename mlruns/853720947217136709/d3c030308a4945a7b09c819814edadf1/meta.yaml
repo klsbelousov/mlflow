@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d3c030308a4945a7b09c819814edadf1/artifacts
+end_time: 1715883668168
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d3c030308a4945a7b09c819814edadf1
+run_name: grandiose-frog-411
+run_uuid: d3c030308a4945a7b09c819814edadf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883668071
+status: 3
+tags: []
+user_id: klimbelousov

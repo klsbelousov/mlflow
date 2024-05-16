@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e493602f13e641af9a8f135b6cf782bb/artifacts
+end_time: 1715883665568
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e493602f13e641af9a8f135b6cf782bb
+run_name: angry-wolf-86
+run_uuid: e493602f13e641af9a8f135b6cf782bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883665479
+status: 3
+tags: []
+user_id: klimbelousov

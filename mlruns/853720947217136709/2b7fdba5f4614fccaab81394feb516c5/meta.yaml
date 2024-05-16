@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2b7fdba5f4614fccaab81394feb516c5/artifacts
+end_time: 1715884355953
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2b7fdba5f4614fccaab81394feb516c5
+run_name: fearless-doe-59
+run_uuid: 2b7fdba5f4614fccaab81394feb516c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884355873
+status: 3
+tags: []
+user_id: klimbelousov

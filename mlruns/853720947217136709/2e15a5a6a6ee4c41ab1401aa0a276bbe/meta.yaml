@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2e15a5a6a6ee4c41ab1401aa0a276bbe/artifacts
+end_time: 1715883552388
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2e15a5a6a6ee4c41ab1401aa0a276bbe
+run_name: victorious-stoat-925
+run_uuid: 2e15a5a6a6ee4c41ab1401aa0a276bbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883552281
+status: 3
+tags: []
+user_id: klimbelousov

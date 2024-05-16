@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2e0f6b2ec67d4ba1866737dbea158b80/artifacts
+end_time: 1715883942032
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2e0f6b2ec67d4ba1866737dbea158b80
+run_name: serious-grub-906
+run_uuid: 2e0f6b2ec67d4ba1866737dbea158b80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883941923
+status: 3
+tags: []
+user_id: klimbelousov

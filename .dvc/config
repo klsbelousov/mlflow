@@ -1,0 +1,7 @@
+[core]
+    remote = myminioswag
+['remote "myminioswag"']
+    url = s3://mlflow-test
+    endpointurl = http://192.168.0.129:9000
+    access_key_id = jtbOCSGjElyDj23k94xu
+    secret_access_key = pFoIQm2CleIb2PTzi1o2GkApNdTVvADVtKyiOu4e

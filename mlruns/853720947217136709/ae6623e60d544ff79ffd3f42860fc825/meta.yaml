@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ae6623e60d544ff79ffd3f42860fc825/artifacts
+end_time: 1715883640256
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ae6623e60d544ff79ffd3f42860fc825
+run_name: calm-pug-388
+run_uuid: ae6623e60d544ff79ffd3f42860fc825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883640137
+status: 3
+tags: []
+user_id: klimbelousov

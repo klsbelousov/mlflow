@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a25c139a0efd49a3baf752ffc1b04559/artifacts
+end_time: 1715883912829
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a25c139a0efd49a3baf752ffc1b04559
+run_name: overjoyed-cub-14
+run_uuid: a25c139a0efd49a3baf752ffc1b04559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883912748
+status: 3
+tags: []
+user_id: klimbelousov

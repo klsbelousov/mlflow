@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/bf35bfb684814bd99bde38e50db4df68/artifacts
+end_time: 1715883854041
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: bf35bfb684814bd99bde38e50db4df68
+run_name: bittersweet-crab-520
+run_uuid: bf35bfb684814bd99bde38e50db4df68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883853938
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4ac2258366a743df8524215225cdb2ca/artifacts
+end_time: 1715883848582
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4ac2258366a743df8524215225cdb2ca
+run_name: salty-hen-10
+run_uuid: 4ac2258366a743df8524215225cdb2ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883848434
+status: 3
+tags: []
+user_id: klimbelousov

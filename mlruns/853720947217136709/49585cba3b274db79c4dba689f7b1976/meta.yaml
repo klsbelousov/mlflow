@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/49585cba3b274db79c4dba689f7b1976/artifacts
+end_time: 1715883930366
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 49585cba3b274db79c4dba689f7b1976
+run_name: omniscient-jay-424
+run_uuid: 49585cba3b274db79c4dba689f7b1976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883930265
+status: 3
+tags: []
+user_id: klimbelousov

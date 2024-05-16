@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/28645e1f42e742aba871a52792e3706d/artifacts
+end_time: 1715884364380
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 28645e1f42e742aba871a52792e3706d
+run_name: defiant-wasp-583
+run_uuid: 28645e1f42e742aba871a52792e3706d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884364291
+status: 3
+tags: []
+user_id: klimbelousov

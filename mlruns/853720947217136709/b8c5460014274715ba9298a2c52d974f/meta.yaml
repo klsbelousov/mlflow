@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b8c5460014274715ba9298a2c52d974f/artifacts
+end_time: 1715883916626
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b8c5460014274715ba9298a2c52d974f
+run_name: big-dove-161
+run_uuid: b8c5460014274715ba9298a2c52d974f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883916543
+status: 3
+tags: []
+user_id: klimbelousov

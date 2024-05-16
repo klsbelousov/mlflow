@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2c44985e40ed4c9ebbd34610429a7295/artifacts
+end_time: 1715884356817
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2c44985e40ed4c9ebbd34610429a7295
+run_name: serious-crane-376
+run_uuid: 2c44985e40ed4c9ebbd34610429a7295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884356733
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e070c1355b67423fb82594235b989b33/artifacts
+end_time: 1715883819702
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e070c1355b67423fb82594235b989b33
+run_name: unruly-fish-612
+run_uuid: e070c1355b67423fb82594235b989b33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883819566
+status: 3
+tags: []
+user_id: klimbelousov

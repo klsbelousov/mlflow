@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/6704367046a149b19df4b5f2bdc69414/artifacts
+end_time: 1715883849845
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 6704367046a149b19df4b5f2bdc69414
+run_name: treasured-moth-190
+run_uuid: 6704367046a149b19df4b5f2bdc69414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883849692
+status: 3
+tags: []
+user_id: klimbelousov

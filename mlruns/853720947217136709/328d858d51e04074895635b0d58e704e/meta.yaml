@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/328d858d51e04074895635b0d58e704e/artifacts
+end_time: 1715883948588
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 328d858d51e04074895635b0d58e704e
+run_name: classy-shrew-892
+run_uuid: 328d858d51e04074895635b0d58e704e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883948487
+status: 3
+tags: []
+user_id: klimbelousov

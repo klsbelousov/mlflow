@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/cd8c49965e3e4f4b91bcea2450670574/artifacts
+end_time: 1715883818503
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: cd8c49965e3e4f4b91bcea2450670574
+run_name: bouncy-shrike-494
+run_uuid: cd8c49965e3e4f4b91bcea2450670574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883818392
+status: 3
+tags: []
+user_id: klimbelousov

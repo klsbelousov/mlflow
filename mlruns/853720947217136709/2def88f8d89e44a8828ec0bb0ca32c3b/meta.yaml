@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2def88f8d89e44a8828ec0bb0ca32c3b/artifacts
+end_time: 1715883926060
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2def88f8d89e44a8828ec0bb0ca32c3b
+run_name: agreeable-fish-379
+run_uuid: 2def88f8d89e44a8828ec0bb0ca32c3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883925939
+status: 3
+tags: []
+user_id: klimbelousov

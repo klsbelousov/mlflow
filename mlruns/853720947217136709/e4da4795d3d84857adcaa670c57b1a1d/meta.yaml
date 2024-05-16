@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e4da4795d3d84857adcaa670c57b1a1d/artifacts
+end_time: 1715884344986
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e4da4795d3d84857adcaa670c57b1a1d
+run_name: tasteful-frog-318
+run_uuid: e4da4795d3d84857adcaa670c57b1a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884344879
+status: 3
+tags: []
+user_id: klimbelousov

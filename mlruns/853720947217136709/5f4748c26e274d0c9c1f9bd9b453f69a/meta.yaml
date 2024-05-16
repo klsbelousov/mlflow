@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5f4748c26e274d0c9c1f9bd9b453f69a/artifacts
+end_time: 1715883640657
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5f4748c26e274d0c9c1f9bd9b453f69a
+run_name: enthused-rook-461
+run_uuid: 5f4748c26e274d0c9c1f9bd9b453f69a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883640559
+status: 3
+tags: []
+user_id: klimbelousov

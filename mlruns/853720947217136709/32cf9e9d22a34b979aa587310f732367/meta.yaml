@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/32cf9e9d22a34b979aa587310f732367/artifacts
+end_time: 1715883899115
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 32cf9e9d22a34b979aa587310f732367
+run_name: fun-skink-798
+run_uuid: 32cf9e9d22a34b979aa587310f732367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883898979
+status: 3
+tags: []
+user_id: klimbelousov

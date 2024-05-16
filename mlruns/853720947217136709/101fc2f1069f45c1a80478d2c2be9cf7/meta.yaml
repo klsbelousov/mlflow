@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/101fc2f1069f45c1a80478d2c2be9cf7/artifacts
+end_time: 1715884354106
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 101fc2f1069f45c1a80478d2c2be9cf7
+run_name: suave-shrike-474
+run_uuid: 101fc2f1069f45c1a80478d2c2be9cf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884354016
+status: 3
+tags: []
+user_id: klimbelousov

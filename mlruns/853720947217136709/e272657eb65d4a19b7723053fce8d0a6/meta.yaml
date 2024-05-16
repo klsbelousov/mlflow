@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e272657eb65d4a19b7723053fce8d0a6/artifacts
+end_time: 1715883926856
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e272657eb65d4a19b7723053fce8d0a6
+run_name: fearless-yak-72
+run_uuid: e272657eb65d4a19b7723053fce8d0a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883926766
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/dc2cebc0b4eb4d94ad9c0071b263b82c/artifacts
+end_time: 1715883841511
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: dc2cebc0b4eb4d94ad9c0071b263b82c
+run_name: resilient-quail-141
+run_uuid: dc2cebc0b4eb4d94ad9c0071b263b82c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883841387
+status: 3
+tags: []
+user_id: klimbelousov

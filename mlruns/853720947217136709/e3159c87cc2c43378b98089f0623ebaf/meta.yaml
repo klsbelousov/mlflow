@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e3159c87cc2c43378b98089f0623ebaf/artifacts
+end_time: 1715883852570
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e3159c87cc2c43378b98089f0623ebaf
+run_name: unleashed-stork-181
+run_uuid: e3159c87cc2c43378b98089f0623ebaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883852437
+status: 3
+tags: []
+user_id: klimbelousov

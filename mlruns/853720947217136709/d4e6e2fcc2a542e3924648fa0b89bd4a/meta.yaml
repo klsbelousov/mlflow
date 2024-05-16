@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d4e6e2fcc2a542e3924648fa0b89bd4a/artifacts
+end_time: 1715883663574
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d4e6e2fcc2a542e3924648fa0b89bd4a
+run_name: placid-cow-866
+run_uuid: d4e6e2fcc2a542e3924648fa0b89bd4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883663438
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/33715d918b01442a8a8e4417881e0f20/artifacts
+end_time: 1715883859112
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 33715d918b01442a8a8e4417881e0f20
+run_name: charming-cub-912
+run_uuid: 33715d918b01442a8a8e4417881e0f20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883859031
+status: 3
+tags: []
+user_id: klimbelousov

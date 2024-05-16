@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/12e2079799a3463dbaf6d672912ebc59/artifacts
+end_time: 1715883828594
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 12e2079799a3463dbaf6d672912ebc59
+run_name: delightful-fish-876
+run_uuid: 12e2079799a3463dbaf6d672912ebc59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883828496
+status: 3
+tags: []
+user_id: klimbelousov

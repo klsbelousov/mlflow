@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/cf2d9eb2e3274575b71445bd995038ab/artifacts
+end_time: 1715884357431
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: cf2d9eb2e3274575b71445bd995038ab
+run_name: nebulous-steed-665
+run_uuid: cf2d9eb2e3274575b71445bd995038ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884357343
+status: 3
+tags: []
+user_id: klimbelousov

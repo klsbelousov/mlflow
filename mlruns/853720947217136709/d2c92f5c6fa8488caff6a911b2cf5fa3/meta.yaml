@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d2c92f5c6fa8488caff6a911b2cf5fa3/artifacts
+end_time: 1715883910632
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d2c92f5c6fa8488caff6a911b2cf5fa3
+run_name: thundering-hen-91
+run_uuid: d2c92f5c6fa8488caff6a911b2cf5fa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883910521
+status: 3
+tags: []
+user_id: klimbelousov

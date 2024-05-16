@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e696ffb37db04483af8fa2047992a536/artifacts
+end_time: 1715883949681
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e696ffb37db04483af8fa2047992a536
+run_name: big-elk-125
+run_uuid: e696ffb37db04483af8fa2047992a536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883949564
+status: 3
+tags: []
+user_id: klimbelousov

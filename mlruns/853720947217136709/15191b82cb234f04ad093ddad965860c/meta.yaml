@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/15191b82cb234f04ad093ddad965860c/artifacts
+end_time: 1715883634948
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 15191b82cb234f04ad093ddad965860c
+run_name: beautiful-fowl-53
+run_uuid: 15191b82cb234f04ad093ddad965860c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883634851
+status: 3
+tags: []
+user_id: klimbelousov

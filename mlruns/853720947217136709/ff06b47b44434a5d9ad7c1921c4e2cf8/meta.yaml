@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ff06b47b44434a5d9ad7c1921c4e2cf8/artifacts
+end_time: 1715883613498
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ff06b47b44434a5d9ad7c1921c4e2cf8
+run_name: polite-penguin-414
+run_uuid: ff06b47b44434a5d9ad7c1921c4e2cf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883613393
+status: 3
+tags: []
+user_id: klimbelousov

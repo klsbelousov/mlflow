@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/98c4b2a16b2b4c17b32280a147c8a408/artifacts
+end_time: 1715883821339
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 98c4b2a16b2b4c17b32280a147c8a408
+run_name: suave-fawn-577
+run_uuid: 98c4b2a16b2b4c17b32280a147c8a408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883821146
+status: 3
+tags: []
+user_id: klimbelousov

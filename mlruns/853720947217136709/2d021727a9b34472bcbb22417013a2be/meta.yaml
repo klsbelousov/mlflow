@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2d021727a9b34472bcbb22417013a2be/artifacts
+end_time: 1715884338813
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2d021727a9b34472bcbb22417013a2be
+run_name: nebulous-elk-243
+run_uuid: 2d021727a9b34472bcbb22417013a2be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884338716
+status: 3
+tags: []
+user_id: klimbelousov

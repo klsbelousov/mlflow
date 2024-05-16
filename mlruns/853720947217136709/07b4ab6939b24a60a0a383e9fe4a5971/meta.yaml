@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/07b4ab6939b24a60a0a383e9fe4a5971/artifacts
+end_time: 1715883844729
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 07b4ab6939b24a60a0a383e9fe4a5971
+run_name: brawny-bass-256
+run_uuid: 07b4ab6939b24a60a0a383e9fe4a5971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883844573
+status: 3
+tags: []
+user_id: klimbelousov

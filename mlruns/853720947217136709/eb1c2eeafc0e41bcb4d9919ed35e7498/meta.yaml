@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/eb1c2eeafc0e41bcb4d9919ed35e7498/artifacts
+end_time: 1715884351393
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: eb1c2eeafc0e41bcb4d9919ed35e7498
+run_name: skittish-vole-360
+run_uuid: eb1c2eeafc0e41bcb4d9919ed35e7498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884351299
+status: 3
+tags: []
+user_id: klimbelousov

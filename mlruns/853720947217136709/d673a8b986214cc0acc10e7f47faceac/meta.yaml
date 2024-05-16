@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d673a8b986214cc0acc10e7f47faceac/artifacts
+end_time: 1715883855821
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d673a8b986214cc0acc10e7f47faceac
+run_name: luminous-ray-158
+run_uuid: d673a8b986214cc0acc10e7f47faceac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883855675
+status: 3
+tags: []
+user_id: klimbelousov

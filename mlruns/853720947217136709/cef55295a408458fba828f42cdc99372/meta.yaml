@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/cef55295a408458fba828f42cdc99372/artifacts
+end_time: 1715884371590
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: cef55295a408458fba828f42cdc99372
+run_name: bustling-finch-313
+run_uuid: cef55295a408458fba828f42cdc99372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884371482
+status: 3
+tags: []
+user_id: klimbelousov

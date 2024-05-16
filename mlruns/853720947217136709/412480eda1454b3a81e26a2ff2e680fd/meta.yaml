@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/412480eda1454b3a81e26a2ff2e680fd/artifacts
+end_time: 1715883612560
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 412480eda1454b3a81e26a2ff2e680fd
+run_name: flawless-colt-805
+run_uuid: 412480eda1454b3a81e26a2ff2e680fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883612427
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/be0d4c28bc174abeabaae782ef92eb67/artifacts
+end_time: 1715884344611
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: be0d4c28bc174abeabaae782ef92eb67
+run_name: upbeat-pig-257
+run_uuid: be0d4c28bc174abeabaae782ef92eb67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884344538
+status: 3
+tags: []
+user_id: klimbelousov

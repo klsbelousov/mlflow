@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1e5c5a8b6c71401db3f2b86e51453227/artifacts
+end_time: 1715884341354
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1e5c5a8b6c71401db3f2b86e51453227
+run_name: bustling-chimp-11
+run_uuid: 1e5c5a8b6c71401db3f2b86e51453227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884341284
+status: 3
+tags: []
+user_id: klimbelousov

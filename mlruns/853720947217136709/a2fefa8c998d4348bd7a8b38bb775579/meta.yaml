@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a2fefa8c998d4348bd7a8b38bb775579/artifacts
+end_time: 1715884359441
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a2fefa8c998d4348bd7a8b38bb775579
+run_name: silent-wasp-100
+run_uuid: a2fefa8c998d4348bd7a8b38bb775579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884359344
+status: 3
+tags: []
+user_id: klimbelousov

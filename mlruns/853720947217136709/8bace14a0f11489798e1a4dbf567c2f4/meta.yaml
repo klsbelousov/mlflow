@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8bace14a0f11489798e1a4dbf567c2f4/artifacts
+end_time: 1715884349057
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8bace14a0f11489798e1a4dbf567c2f4
+run_name: colorful-rat-831
+run_uuid: 8bace14a0f11489798e1a4dbf567c2f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884348963
+status: 3
+tags: []
+user_id: klimbelousov

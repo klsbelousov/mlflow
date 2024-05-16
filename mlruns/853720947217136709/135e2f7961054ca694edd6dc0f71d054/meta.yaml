@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/135e2f7961054ca694edd6dc0f71d054/artifacts
+end_time: 1715883620511
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 135e2f7961054ca694edd6dc0f71d054
+run_name: delicate-seal-409
+run_uuid: 135e2f7961054ca694edd6dc0f71d054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883620402
+status: 3
+tags: []
+user_id: klimbelousov

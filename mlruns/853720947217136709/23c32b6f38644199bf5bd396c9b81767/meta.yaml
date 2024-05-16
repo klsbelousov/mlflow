@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/23c32b6f38644199bf5bd396c9b81767/artifacts
+end_time: 1715883906976
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 23c32b6f38644199bf5bd396c9b81767
+run_name: persistent-pug-110
+run_uuid: 23c32b6f38644199bf5bd396c9b81767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883906799
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/620fa60e43ab4bf89d1c7090ded682c3/artifacts
+end_time: 1715883813005
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 620fa60e43ab4bf89d1c7090ded682c3
+run_name: chill-shoat-413
+run_uuid: 620fa60e43ab4bf89d1c7090ded682c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883812877
+status: 3
+tags: []
+user_id: klimbelousov

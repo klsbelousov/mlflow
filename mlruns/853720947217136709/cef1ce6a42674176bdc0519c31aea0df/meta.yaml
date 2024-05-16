@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/cef1ce6a42674176bdc0519c31aea0df/artifacts
+end_time: 1715884342015
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: cef1ce6a42674176bdc0519c31aea0df
+run_name: adorable-kit-865
+run_uuid: cef1ce6a42674176bdc0519c31aea0df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884341922
+status: 3
+tags: []
+user_id: klimbelousov

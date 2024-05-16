@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/871f3bc35f4d409ab2824e0ad3fcd39c/artifacts
+end_time: 1715883653202
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 871f3bc35f4d409ab2824e0ad3fcd39c
+run_name: peaceful-donkey-630
+run_uuid: 871f3bc35f4d409ab2824e0ad3fcd39c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883653069
+status: 3
+tags: []
+user_id: klimbelousov

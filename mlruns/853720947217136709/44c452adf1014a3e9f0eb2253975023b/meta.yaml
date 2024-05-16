@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/44c452adf1014a3e9f0eb2253975023b/artifacts
+end_time: 1715883868969
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 44c452adf1014a3e9f0eb2253975023b
+run_name: unequaled-asp-570
+run_uuid: 44c452adf1014a3e9f0eb2253975023b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883868858
+status: 3
+tags: []
+user_id: klimbelousov

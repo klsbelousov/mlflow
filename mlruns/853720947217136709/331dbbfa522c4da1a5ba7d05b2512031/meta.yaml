@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/331dbbfa522c4da1a5ba7d05b2512031/artifacts
+end_time: 1715883864333
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 331dbbfa522c4da1a5ba7d05b2512031
+run_name: rumbling-sow-521
+run_uuid: 331dbbfa522c4da1a5ba7d05b2512031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883864230
+status: 3
+tags: []
+user_id: klimbelousov

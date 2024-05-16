@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/58482a887f2d4f3b97aeb4fc9b54a1fb/artifacts
+end_time: 1715884368109
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 58482a887f2d4f3b97aeb4fc9b54a1fb
+run_name: flawless-foal-385
+run_uuid: 58482a887f2d4f3b97aeb4fc9b54a1fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884368031
+status: 3
+tags: []
+user_id: klimbelousov

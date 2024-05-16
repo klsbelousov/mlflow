@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1972cec5addb4d79a8e0a532a9166fa3/artifacts
+end_time: 1715883817436
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1972cec5addb4d79a8e0a532a9166fa3
+run_name: puzzled-colt-184
+run_uuid: 1972cec5addb4d79a8e0a532a9166fa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883817321
+status: 3
+tags: []
+user_id: klimbelousov

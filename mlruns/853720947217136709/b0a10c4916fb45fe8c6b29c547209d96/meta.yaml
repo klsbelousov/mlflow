@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b0a10c4916fb45fe8c6b29c547209d96/artifacts
+end_time: 1715883934536
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b0a10c4916fb45fe8c6b29c547209d96
+run_name: funny-swan-633
+run_uuid: b0a10c4916fb45fe8c6b29c547209d96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883934445
+status: 3
+tags: []
+user_id: klimbelousov

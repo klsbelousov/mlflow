@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5bd53a62e7ca4de9a27ef4e9fc58081a/artifacts
+end_time: 1715883660526
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5bd53a62e7ca4de9a27ef4e9fc58081a
+run_name: capable-horse-180
+run_uuid: 5bd53a62e7ca4de9a27ef4e9fc58081a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883660411
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/68c251c0fc3345ff8999ebbd3a6c4f4c/artifacts
+end_time: 1715884375937
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 68c251c0fc3345ff8999ebbd3a6c4f4c
+run_name: able-hen-765
+run_uuid: 68c251c0fc3345ff8999ebbd3a6c4f4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884375847
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ee8e0fb4303b4cc3a4568ae13d0b4fc8/artifacts
+end_time: 1715883818644
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ee8e0fb4303b4cc3a4568ae13d0b4fc8
+run_name: shivering-moth-638
+run_uuid: ee8e0fb4303b4cc3a4568ae13d0b4fc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883818516
+status: 3
+tags: []
+user_id: klimbelousov

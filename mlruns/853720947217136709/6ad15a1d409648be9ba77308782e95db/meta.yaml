@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/6ad15a1d409648be9ba77308782e95db/artifacts
+end_time: 1715883631190
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 6ad15a1d409648be9ba77308782e95db
+run_name: sincere-penguin-440
+run_uuid: 6ad15a1d409648be9ba77308782e95db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883631054
+status: 3
+tags: []
+user_id: klimbelousov

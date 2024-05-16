@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/510585e82f034ea080b584d07da431f0/artifacts
+end_time: 1715883812381
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 510585e82f034ea080b584d07da431f0
+run_name: bright-kite-254
+run_uuid: 510585e82f034ea080b584d07da431f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883812265
+status: 3
+tags: []
+user_id: klimbelousov

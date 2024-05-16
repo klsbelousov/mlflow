@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/042abf6830854e77ae00feb0346f9e57/artifacts
+end_time: 1715884332619
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 042abf6830854e77ae00feb0346f9e57
+run_name: carefree-tern-900
+run_uuid: 042abf6830854e77ae00feb0346f9e57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884332540
+status: 3
+tags: []
+user_id: klimbelousov

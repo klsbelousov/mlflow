@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/885190c1865747d3a0a89b23b71ae50c/artifacts
+end_time: 1715883612069
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 885190c1865747d3a0a89b23b71ae50c
+run_name: sedate-robin-105
+run_uuid: 885190c1865747d3a0a89b23b71ae50c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883611913
+status: 3
+tags: []
+user_id: klimbelousov

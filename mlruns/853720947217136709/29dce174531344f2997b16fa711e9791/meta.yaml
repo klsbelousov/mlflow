@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/29dce174531344f2997b16fa711e9791/artifacts
+end_time: 1715883656802
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 29dce174531344f2997b16fa711e9791
+run_name: delightful-lynx-627
+run_uuid: 29dce174531344f2997b16fa711e9791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883656664
+status: 3
+tags: []
+user_id: klimbelousov

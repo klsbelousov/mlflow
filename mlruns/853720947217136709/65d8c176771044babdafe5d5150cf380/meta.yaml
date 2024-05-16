@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/65d8c176771044babdafe5d5150cf380/artifacts
+end_time: 1715883665466
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 65d8c176771044babdafe5d5150cf380
+run_name: worried-steed-939
+run_uuid: 65d8c176771044babdafe5d5150cf380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883665363
+status: 3
+tags: []
+user_id: klimbelousov

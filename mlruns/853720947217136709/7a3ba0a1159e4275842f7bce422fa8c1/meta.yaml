@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7a3ba0a1159e4275842f7bce422fa8c1/artifacts
+end_time: 1715884338440
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7a3ba0a1159e4275842f7bce422fa8c1
+run_name: puzzled-smelt-67
+run_uuid: 7a3ba0a1159e4275842f7bce422fa8c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884338370
+status: 3
+tags: []
+user_id: klimbelousov

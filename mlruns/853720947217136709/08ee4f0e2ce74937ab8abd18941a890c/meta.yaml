@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/08ee4f0e2ce74937ab8abd18941a890c/artifacts
+end_time: 1715883947287
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 08ee4f0e2ce74937ab8abd18941a890c
+run_name: invincible-snail-824
+run_uuid: 08ee4f0e2ce74937ab8abd18941a890c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883947215
+status: 3
+tags: []
+user_id: klimbelousov

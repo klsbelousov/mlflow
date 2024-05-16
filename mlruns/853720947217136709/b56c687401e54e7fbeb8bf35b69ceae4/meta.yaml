@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b56c687401e54e7fbeb8bf35b69ceae4/artifacts
+end_time: 1715883943644
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b56c687401e54e7fbeb8bf35b69ceae4
+run_name: rebellious-chimp-446
+run_uuid: b56c687401e54e7fbeb8bf35b69ceae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883943555
+status: 3
+tags: []
+user_id: klimbelousov

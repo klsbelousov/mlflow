@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/41f84c2d8380412db75ad56476fae65e/artifacts
+end_time: 1715883824938
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 41f84c2d8380412db75ad56476fae65e
+run_name: able-skink-563
+run_uuid: 41f84c2d8380412db75ad56476fae65e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883824852
+status: 3
+tags: []
+user_id: klimbelousov

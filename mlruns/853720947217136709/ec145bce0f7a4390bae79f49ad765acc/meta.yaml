@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ec145bce0f7a4390bae79f49ad765acc/artifacts
+end_time: 1715883852767
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ec145bce0f7a4390bae79f49ad765acc
+run_name: bedecked-stoat-546
+run_uuid: ec145bce0f7a4390bae79f49ad765acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883852681
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/04ea201f7b224d5c9beeb868301c9378/artifacts
+end_time: 1715883934638
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 04ea201f7b224d5c9beeb868301c9378
+run_name: treasured-kite-871
+run_uuid: 04ea201f7b224d5c9beeb868301c9378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883934546
+status: 3
+tags: []
+user_id: klimbelousov

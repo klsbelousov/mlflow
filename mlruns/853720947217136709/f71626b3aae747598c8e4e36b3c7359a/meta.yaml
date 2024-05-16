@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f71626b3aae747598c8e4e36b3c7359a/artifacts
+end_time: 1715884356611
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f71626b3aae747598c8e4e36b3c7359a
+run_name: selective-asp-372
+run_uuid: f71626b3aae747598c8e4e36b3c7359a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884356515
+status: 3
+tags: []
+user_id: klimbelousov

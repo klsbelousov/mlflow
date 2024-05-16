@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ff8ef47422d04c52aca73169737b536c/artifacts
+end_time: 1715883820952
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ff8ef47422d04c52aca73169737b536c
+run_name: aged-moth-662
+run_uuid: ff8ef47422d04c52aca73169737b536c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883820824
+status: 3
+tags: []
+user_id: klimbelousov

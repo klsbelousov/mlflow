@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/48c8fc0d57e14e7a89fff7512c514aae/artifacts
+end_time: 1715883656910
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 48c8fc0d57e14e7a89fff7512c514aae
+run_name: adaptable-calf-684
+run_uuid: 48c8fc0d57e14e7a89fff7512c514aae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883656814
+status: 3
+tags: []
+user_id: klimbelousov

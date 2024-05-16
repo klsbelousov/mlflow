@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/89514d7d539d46c284df0056d09310d3/artifacts
+end_time: 1715884368937
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 89514d7d539d46c284df0056d09310d3
+run_name: defiant-roo-215
+run_uuid: 89514d7d539d46c284df0056d09310d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884368833
+status: 3
+tags: []
+user_id: klimbelousov

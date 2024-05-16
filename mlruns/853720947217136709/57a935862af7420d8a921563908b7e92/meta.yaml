@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/57a935862af7420d8a921563908b7e92/artifacts
+end_time: 1715883615913
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 57a935862af7420d8a921563908b7e92
+run_name: orderly-hen-583
+run_uuid: 57a935862af7420d8a921563908b7e92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883615745
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ed391fd3e9194e3da71ff236f21dd5d8/artifacts
+end_time: 1715883618977
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ed391fd3e9194e3da71ff236f21dd5d8
+run_name: stylish-gnat-674
+run_uuid: ed391fd3e9194e3da71ff236f21dd5d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883618808
+status: 3
+tags: []
+user_id: klimbelousov

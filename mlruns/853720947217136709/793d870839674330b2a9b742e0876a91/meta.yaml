@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/793d870839674330b2a9b742e0876a91/artifacts
+end_time: 1715883814675
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 793d870839674330b2a9b742e0876a91
+run_name: bold-mule-355
+run_uuid: 793d870839674330b2a9b742e0876a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883814540
+status: 3
+tags: []
+user_id: klimbelousov

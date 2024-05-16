@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1011095094db473dba64b511fcdc1563/artifacts
+end_time: 1715883853102
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1011095094db473dba64b511fcdc1563
+run_name: dazzling-newt-497
+run_uuid: 1011095094db473dba64b511fcdc1563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883852961
+status: 3
+tags: []
+user_id: klimbelousov

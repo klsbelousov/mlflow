@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b670c410747a4e08957bc8514b89311a/artifacts
+end_time: 1715883910767
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b670c410747a4e08957bc8514b89311a
+run_name: overjoyed-quail-471
+run_uuid: b670c410747a4e08957bc8514b89311a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883910648
+status: 3
+tags: []
+user_id: klimbelousov

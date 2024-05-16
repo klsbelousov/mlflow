@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/38c27da9d27e4aeb93b81400d7ee65cd/artifacts
+end_time: 1715883822799
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 38c27da9d27e4aeb93b81400d7ee65cd
+run_name: bittersweet-shad-740
+run_uuid: 38c27da9d27e4aeb93b81400d7ee65cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883822675
+status: 3
+tags: []
+user_id: klimbelousov

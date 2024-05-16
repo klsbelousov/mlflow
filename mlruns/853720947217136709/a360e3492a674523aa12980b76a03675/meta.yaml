@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a360e3492a674523aa12980b76a03675/artifacts
+end_time: 1715883825765
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a360e3492a674523aa12980b76a03675
+run_name: omniscient-steed-984
+run_uuid: a360e3492a674523aa12980b76a03675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883825650
+status: 3
+tags: []
+user_id: klimbelousov

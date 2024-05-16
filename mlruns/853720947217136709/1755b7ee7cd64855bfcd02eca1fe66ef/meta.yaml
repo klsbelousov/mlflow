@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/1755b7ee7cd64855bfcd02eca1fe66ef/artifacts
+end_time: 1715883952341
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 1755b7ee7cd64855bfcd02eca1fe66ef
+run_name: skillful-grouse-528
+run_uuid: 1755b7ee7cd64855bfcd02eca1fe66ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883952236
+status: 3
+tags: []
+user_id: klimbelousov

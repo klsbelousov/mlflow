@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fe5ee4da64644da98a87da9a5ea21416/artifacts
+end_time: 1715884367354
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fe5ee4da64644da98a87da9a5ea21416
+run_name: burly-stoat-180
+run_uuid: fe5ee4da64644da98a87da9a5ea21416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884367260
+status: 3
+tags: []
+user_id: klimbelousov

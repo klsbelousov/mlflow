@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/83f8b3aabf274954b9d40c1971191575/artifacts
+end_time: 1715883951983
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 83f8b3aabf274954b9d40c1971191575
+run_name: wistful-crow-691
+run_uuid: 83f8b3aabf274954b9d40c1971191575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883951857
+status: 3
+tags: []
+user_id: klimbelousov

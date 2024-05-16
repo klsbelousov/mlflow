@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/39fdc8270b264a83af9d3d6679a84865/artifacts
+end_time: 1715883828748
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 39fdc8270b264a83af9d3d6679a84865
+run_name: sedate-crow-866
+run_uuid: 39fdc8270b264a83af9d3d6679a84865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883828682
+status: 3
+tags: []
+user_id: klimbelousov

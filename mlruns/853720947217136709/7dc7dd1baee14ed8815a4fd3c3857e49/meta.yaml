@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7dc7dd1baee14ed8815a4fd3c3857e49/artifacts
+end_time: 1715884330561
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7dc7dd1baee14ed8815a4fd3c3857e49
+run_name: industrious-wren-723
+run_uuid: 7dc7dd1baee14ed8815a4fd3c3857e49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884330478
+status: 3
+tags: []
+user_id: klimbelousov

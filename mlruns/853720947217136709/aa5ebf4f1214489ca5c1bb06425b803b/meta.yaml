@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/aa5ebf4f1214489ca5c1bb06425b803b/artifacts
+end_time: 1715883953199
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: aa5ebf4f1214489ca5c1bb06425b803b
+run_name: gifted-panda-340
+run_uuid: aa5ebf4f1214489ca5c1bb06425b803b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883953070
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fb60fe46d48e4703b864973d7c8fc9ad/artifacts
+end_time: 1715883839154
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fb60fe46d48e4703b864973d7c8fc9ad
+run_name: placid-conch-399
+run_uuid: fb60fe46d48e4703b864973d7c8fc9ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883839010
+status: 3
+tags: []
+user_id: klimbelousov

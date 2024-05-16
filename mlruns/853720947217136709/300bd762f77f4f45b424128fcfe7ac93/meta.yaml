@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/300bd762f77f4f45b424128fcfe7ac93/artifacts
+end_time: 1715884352540
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 300bd762f77f4f45b424128fcfe7ac93
+run_name: serious-skunk-181
+run_uuid: 300bd762f77f4f45b424128fcfe7ac93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884352453
+status: 3
+tags: []
+user_id: klimbelousov

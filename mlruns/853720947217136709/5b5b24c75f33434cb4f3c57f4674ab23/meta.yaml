@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5b5b24c75f33434cb4f3c57f4674ab23/artifacts
+end_time: 1715883817845
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5b5b24c75f33434cb4f3c57f4674ab23
+run_name: peaceful-carp-81
+run_uuid: 5b5b24c75f33434cb4f3c57f4674ab23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883817723
+status: 3
+tags: []
+user_id: klimbelousov

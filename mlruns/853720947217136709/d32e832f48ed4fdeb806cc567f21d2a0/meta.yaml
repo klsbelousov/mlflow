@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d32e832f48ed4fdeb806cc567f21d2a0/artifacts
+end_time: 1715883616204
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d32e832f48ed4fdeb806cc567f21d2a0
+run_name: wistful-shrew-800
+run_uuid: d32e832f48ed4fdeb806cc567f21d2a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883616067
+status: 3
+tags: []
+user_id: klimbelousov

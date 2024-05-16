@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/744ff9841e7940efbcc9f7753b550a5c/artifacts
+end_time: 1715883918869
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 744ff9841e7940efbcc9f7753b550a5c
+run_name: indecisive-auk-154
+run_uuid: 744ff9841e7940efbcc9f7753b550a5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883918784
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2198ebf12e314c09a25c8b203a216085/artifacts
+end_time: 1715883656212
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2198ebf12e314c09a25c8b203a216085
+run_name: resilient-dog-236
+run_uuid: 2198ebf12e314c09a25c8b203a216085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883656102
+status: 3
+tags: []
+user_id: klimbelousov

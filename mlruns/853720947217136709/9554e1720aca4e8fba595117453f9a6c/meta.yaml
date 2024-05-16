@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9554e1720aca4e8fba595117453f9a6c/artifacts
+end_time: 1715883957602
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9554e1720aca4e8fba595117453f9a6c
+run_name: unleashed-hog-315
+run_uuid: 9554e1720aca4e8fba595117453f9a6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883957484
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/42248ee29f3e4b7aa21012ddd68dfa02/artifacts
+end_time: 1715883629736
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 42248ee29f3e4b7aa21012ddd68dfa02
+run_name: unequaled-horse-989
+run_uuid: 42248ee29f3e4b7aa21012ddd68dfa02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883629592
+status: 3
+tags: []
+user_id: klimbelousov

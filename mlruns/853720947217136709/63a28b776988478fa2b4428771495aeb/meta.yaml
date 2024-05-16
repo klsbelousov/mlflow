@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/63a28b776988478fa2b4428771495aeb/artifacts
+end_time: 1715883917536
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 63a28b776988478fa2b4428771495aeb
+run_name: fearless-auk-299
+run_uuid: 63a28b776988478fa2b4428771495aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883917442
+status: 3
+tags: []
+user_id: klimbelousov

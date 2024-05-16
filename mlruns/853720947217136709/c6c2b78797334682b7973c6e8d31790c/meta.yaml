@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c6c2b78797334682b7973c6e8d31790c/artifacts
+end_time: 1715883627147
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c6c2b78797334682b7973c6e8d31790c
+run_name: fortunate-bear-61
+run_uuid: c6c2b78797334682b7973c6e8d31790c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883626936
+status: 3
+tags: []
+user_id: klimbelousov

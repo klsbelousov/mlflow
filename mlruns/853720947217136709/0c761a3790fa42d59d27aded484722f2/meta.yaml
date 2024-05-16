@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0c761a3790fa42d59d27aded484722f2/artifacts
+end_time: 1715883835969
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0c761a3790fa42d59d27aded484722f2
+run_name: resilient-moth-214
+run_uuid: 0c761a3790fa42d59d27aded484722f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883835890
+status: 3
+tags: []
+user_id: klimbelousov

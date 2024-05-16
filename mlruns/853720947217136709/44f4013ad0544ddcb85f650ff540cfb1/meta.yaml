@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/44f4013ad0544ddcb85f650ff540cfb1/artifacts
+end_time: 1715884338362
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 44f4013ad0544ddcb85f650ff540cfb1
+run_name: thoughtful-crane-699
+run_uuid: 44f4013ad0544ddcb85f650ff540cfb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884338299
+status: 3
+tags: []
+user_id: klimbelousov

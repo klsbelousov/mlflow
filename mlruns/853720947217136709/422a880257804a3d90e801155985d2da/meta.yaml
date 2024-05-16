@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/422a880257804a3d90e801155985d2da/artifacts
+end_time: 1715883899662
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 422a880257804a3d90e801155985d2da
+run_name: carefree-foal-483
+run_uuid: 422a880257804a3d90e801155985d2da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883899551
+status: 3
+tags: []
+user_id: klimbelousov

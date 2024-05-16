@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5a9faa56403f4d7ba03b8d8d1cead7bc/artifacts
+end_time: 1715883656090
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5a9faa56403f4d7ba03b8d8d1cead7bc
+run_name: skillful-swan-375
+run_uuid: 5a9faa56403f4d7ba03b8d8d1cead7bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883656007
+status: 3
+tags: []
+user_id: klimbelousov

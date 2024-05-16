@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/31981f55246744629685306dce55cdfe/artifacts
+end_time: 1715883613864
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 31981f55246744629685306dce55cdfe
+run_name: righteous-vole-354
+run_uuid: 31981f55246744629685306dce55cdfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883613749
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c47510a955374fb2981fa0d0ee18951f/artifacts
+end_time: 1715883919053
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c47510a955374fb2981fa0d0ee18951f
+run_name: abundant-stoat-764
+run_uuid: c47510a955374fb2981fa0d0ee18951f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883918967
+status: 3
+tags: []
+user_id: klimbelousov

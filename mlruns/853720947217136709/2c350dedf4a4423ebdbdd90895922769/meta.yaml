@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2c350dedf4a4423ebdbdd90895922769/artifacts
+end_time: 1715883916817
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2c350dedf4a4423ebdbdd90895922769
+run_name: popular-rat-438
+run_uuid: 2c350dedf4a4423ebdbdd90895922769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883916725
+status: 3
+tags: []
+user_id: klimbelousov

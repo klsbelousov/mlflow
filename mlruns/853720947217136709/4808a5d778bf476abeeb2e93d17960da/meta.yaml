@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4808a5d778bf476abeeb2e93d17960da/artifacts
+end_time: 1715883844841
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4808a5d778bf476abeeb2e93d17960da
+run_name: redolent-rook-361
+run_uuid: 4808a5d778bf476abeeb2e93d17960da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883844742
+status: 3
+tags: []
+user_id: klimbelousov

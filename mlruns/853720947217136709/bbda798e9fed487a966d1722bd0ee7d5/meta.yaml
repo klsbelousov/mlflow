@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/bbda798e9fed487a966d1722bd0ee7d5/artifacts
+end_time: 1715883949403
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: bbda798e9fed487a966d1722bd0ee7d5
+run_name: able-ray-506
+run_uuid: bbda798e9fed487a966d1722bd0ee7d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883949269
+status: 3
+tags: []
+user_id: klimbelousov

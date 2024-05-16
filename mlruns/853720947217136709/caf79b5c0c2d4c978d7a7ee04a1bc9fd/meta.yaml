@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/caf79b5c0c2d4c978d7a7ee04a1bc9fd/artifacts
+end_time: 1715883638891
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: caf79b5c0c2d4c978d7a7ee04a1bc9fd
+run_name: luxuriant-midge-661
+run_uuid: caf79b5c0c2d4c978d7a7ee04a1bc9fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883638732
+status: 3
+tags: []
+user_id: klimbelousov

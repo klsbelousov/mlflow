@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b18669c560fb49ebb7aca750b38e0422/artifacts
+end_time: 1715883838640
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b18669c560fb49ebb7aca750b38e0422
+run_name: beautiful-fly-52
+run_uuid: b18669c560fb49ebb7aca750b38e0422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883838557
+status: 3
+tags: []
+user_id: klimbelousov

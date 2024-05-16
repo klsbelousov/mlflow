@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/29afb6b73b7b4ceaba339dbe6e78436a/artifacts
+end_time: 1715884329991
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 29afb6b73b7b4ceaba339dbe6e78436a
+run_name: mercurial-fowl-175
+run_uuid: 29afb6b73b7b4ceaba339dbe6e78436a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884329865
+status: 3
+tags: []
+user_id: klimbelousov

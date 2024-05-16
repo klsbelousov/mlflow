@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/cfc79a16d3ee4ea49078d408b088327f/artifacts
+end_time: 1715883914254
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: cfc79a16d3ee4ea49078d408b088327f
+run_name: abrasive-hawk-672
+run_uuid: cfc79a16d3ee4ea49078d408b088327f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883914184
+status: 3
+tags: []
+user_id: klimbelousov

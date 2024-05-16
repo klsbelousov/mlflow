@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a1979a985ec04a77abd16a1adbc80b33/artifacts
+end_time: 1715883810715
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a1979a985ec04a77abd16a1adbc80b33
+run_name: powerful-shoat-258
+run_uuid: a1979a985ec04a77abd16a1adbc80b33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883810616
+status: 3
+tags: []
+user_id: klimbelousov

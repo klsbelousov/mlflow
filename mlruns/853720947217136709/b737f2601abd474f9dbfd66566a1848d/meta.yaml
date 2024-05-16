@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b737f2601abd474f9dbfd66566a1848d/artifacts
+end_time: 1715883909599
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b737f2601abd474f9dbfd66566a1848d
+run_name: overjoyed-horse-30
+run_uuid: b737f2601abd474f9dbfd66566a1848d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883909499
+status: 3
+tags: []
+user_id: klimbelousov

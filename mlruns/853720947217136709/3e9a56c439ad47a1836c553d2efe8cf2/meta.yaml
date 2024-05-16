@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/3e9a56c439ad47a1836c553d2efe8cf2/artifacts
+end_time: 1715883932939
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 3e9a56c439ad47a1836c553d2efe8cf2
+run_name: likeable-shrike-858
+run_uuid: 3e9a56c439ad47a1836c553d2efe8cf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883932840
+status: 3
+tags: []
+user_id: klimbelousov

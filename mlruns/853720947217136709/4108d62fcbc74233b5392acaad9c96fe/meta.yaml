@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4108d62fcbc74233b5392acaad9c96fe/artifacts
+end_time: 1715883830349
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4108d62fcbc74233b5392acaad9c96fe
+run_name: polite-wolf-438
+run_uuid: 4108d62fcbc74233b5392acaad9c96fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883830233
+status: 3
+tags: []
+user_id: klimbelousov

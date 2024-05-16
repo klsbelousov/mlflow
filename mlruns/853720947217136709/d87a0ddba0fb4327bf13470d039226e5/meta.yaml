@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d87a0ddba0fb4327bf13470d039226e5/artifacts
+end_time: 1715883858554
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d87a0ddba0fb4327bf13470d039226e5
+run_name: classy-lynx-186
+run_uuid: d87a0ddba0fb4327bf13470d039226e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883858409
+status: 3
+tags: []
+user_id: klimbelousov

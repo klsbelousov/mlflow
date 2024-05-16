@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f79ac2567ad2432aa91c22fba13325c3/artifacts
+end_time: 1715883666427
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f79ac2567ad2432aa91c22fba13325c3
+run_name: tasteful-skink-437
+run_uuid: f79ac2567ad2432aa91c22fba13325c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883666283
+status: 3
+tags: []
+user_id: klimbelousov

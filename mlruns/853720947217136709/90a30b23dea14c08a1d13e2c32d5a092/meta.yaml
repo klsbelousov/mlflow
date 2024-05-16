@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/90a30b23dea14c08a1d13e2c32d5a092/artifacts
+end_time: 1715884349264
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 90a30b23dea14c08a1d13e2c32d5a092
+run_name: bustling-skunk-41
+run_uuid: 90a30b23dea14c08a1d13e2c32d5a092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884349169
+status: 3
+tags: []
+user_id: klimbelousov

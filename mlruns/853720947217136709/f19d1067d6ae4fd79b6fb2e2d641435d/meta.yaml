@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f19d1067d6ae4fd79b6fb2e2d641435d/artifacts
+end_time: 1715883827316
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f19d1067d6ae4fd79b6fb2e2d641435d
+run_name: colorful-ape-316
+run_uuid: f19d1067d6ae4fd79b6fb2e2d641435d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883827227
+status: 3
+tags: []
+user_id: klimbelousov

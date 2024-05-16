@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/990cf6e7ccf240fba30601291a0e5f7a/artifacts
+end_time: 1715883859198
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 990cf6e7ccf240fba30601291a0e5f7a
+run_name: bustling-tern-406
+run_uuid: 990cf6e7ccf240fba30601291a0e5f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883859121
+status: 3
+tags: []
+user_id: klimbelousov

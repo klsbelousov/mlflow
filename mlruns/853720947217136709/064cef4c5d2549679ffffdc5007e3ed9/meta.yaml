@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/064cef4c5d2549679ffffdc5007e3ed9/artifacts
+end_time: 1715884350661
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 064cef4c5d2549679ffffdc5007e3ed9
+run_name: rogue-auk-840
+run_uuid: 064cef4c5d2549679ffffdc5007e3ed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884350564
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e5c36d469224467cb2f300e7b6728d58/artifacts
+end_time: 1715883858392
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e5c36d469224467cb2f300e7b6728d58
+run_name: likeable-hound-820
+run_uuid: e5c36d469224467cb2f300e7b6728d58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883858258
+status: 3
+tags: []
+user_id: klimbelousov

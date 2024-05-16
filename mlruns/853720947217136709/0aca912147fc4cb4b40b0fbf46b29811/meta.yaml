@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0aca912147fc4cb4b40b0fbf46b29811/artifacts
+end_time: 1715883649792
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0aca912147fc4cb4b40b0fbf46b29811
+run_name: fortunate-crow-892
+run_uuid: 0aca912147fc4cb4b40b0fbf46b29811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883649702
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/72e56e2c8c184257a4e13452dd6231b6/artifacts
+end_time: 1715884375233
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 72e56e2c8c184257a4e13452dd6231b6
+run_name: valuable-panda-62
+run_uuid: 72e56e2c8c184257a4e13452dd6231b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884375122
+status: 3
+tags: []
+user_id: klimbelousov

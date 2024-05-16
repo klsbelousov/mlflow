@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/774f6200f2744779af67856d9a919461/artifacts
+end_time: 1715883864607
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 774f6200f2744779af67856d9a919461
+run_name: entertaining-pug-234
+run_uuid: 774f6200f2744779af67856d9a919461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883864480
+status: 3
+tags: []
+user_id: klimbelousov

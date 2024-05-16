@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b4ffe5027fc741d4abc2b157dad1247d/artifacts
+end_time: 1715884379980
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b4ffe5027fc741d4abc2b157dad1247d
+run_name: bedecked-lamb-517
+run_uuid: b4ffe5027fc741d4abc2b157dad1247d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884379893
+status: 3
+tags: []
+user_id: klimbelousov

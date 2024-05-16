@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e0699ff6d5c34472a6d9edcd67aedd50/artifacts
+end_time: 1715883951518
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e0699ff6d5c34472a6d9edcd67aedd50
+run_name: silent-dog-300
+run_uuid: e0699ff6d5c34472a6d9edcd67aedd50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883951373
+status: 3
+tags: []
+user_id: klimbelousov

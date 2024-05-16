@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f168f23f85f744eeb76bb4b65d6cdb07/artifacts
+end_time: 1715883864466
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f168f23f85f744eeb76bb4b65d6cdb07
+run_name: persistent-skunk-575
+run_uuid: f168f23f85f744eeb76bb4b65d6cdb07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883864346
+status: 3
+tags: []
+user_id: klimbelousov

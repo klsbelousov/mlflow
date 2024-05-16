@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/eaaa85f43e634a47b7276db2c31d76ae/artifacts
+end_time: 1715883552513
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: eaaa85f43e634a47b7276db2c31d76ae
+run_name: bedecked-crane-910
+run_uuid: eaaa85f43e634a47b7276db2c31d76ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883552404
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/62d6f66414af4c95ab481d52270461db/artifacts
+end_time: 1715884343338
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 62d6f66414af4c95ab481d52270461db
+run_name: unleashed-squid-654
+run_uuid: 62d6f66414af4c95ab481d52270461db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884343264
+status: 3
+tags: []
+user_id: klimbelousov

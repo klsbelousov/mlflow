@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ede1969171ed43f4a154097c52f40987/artifacts
+end_time: 1715883907660
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ede1969171ed43f4a154097c52f40987
+run_name: merciful-shrimp-85
+run_uuid: ede1969171ed43f4a154097c52f40987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883907549
+status: 3
+tags: []
+user_id: klimbelousov

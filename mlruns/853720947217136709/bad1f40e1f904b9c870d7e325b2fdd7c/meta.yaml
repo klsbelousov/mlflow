@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/bad1f40e1f904b9c870d7e325b2fdd7c/artifacts
+end_time: 1715884375587
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: bad1f40e1f904b9c870d7e325b2fdd7c
+run_name: intelligent-bee-244
+run_uuid: bad1f40e1f904b9c870d7e325b2fdd7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884375480
+status: 3
+tags: []
+user_id: klimbelousov

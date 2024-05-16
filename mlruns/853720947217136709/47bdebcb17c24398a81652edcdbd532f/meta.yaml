@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/47bdebcb17c24398a81652edcdbd532f/artifacts
+end_time: 1715883934777
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 47bdebcb17c24398a81652edcdbd532f
+run_name: capable-dog-337
+run_uuid: 47bdebcb17c24398a81652edcdbd532f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883934649
+status: 3
+tags: []
+user_id: klimbelousov

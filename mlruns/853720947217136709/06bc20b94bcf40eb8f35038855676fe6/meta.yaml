@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/06bc20b94bcf40eb8f35038855676fe6/artifacts
+end_time: 1715883668746
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 06bc20b94bcf40eb8f35038855676fe6
+run_name: unruly-hare-610
+run_uuid: 06bc20b94bcf40eb8f35038855676fe6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883668598
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9ec5d783b027481393a67d9b21da76fe/artifacts
+end_time: 1715883920120
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9ec5d783b027481393a67d9b21da76fe
+run_name: delicate-carp-875
+run_uuid: 9ec5d783b027481393a67d9b21da76fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883920027
+status: 3
+tags: []
+user_id: klimbelousov

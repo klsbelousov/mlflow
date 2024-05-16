@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c8dccfa791f2488696e8ac7acf17cb6b/artifacts
+end_time: 1715883644100
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c8dccfa791f2488696e8ac7acf17cb6b
+run_name: salty-kite-866
+run_uuid: c8dccfa791f2488696e8ac7acf17cb6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883643996
+status: 3
+tags: []
+user_id: klimbelousov

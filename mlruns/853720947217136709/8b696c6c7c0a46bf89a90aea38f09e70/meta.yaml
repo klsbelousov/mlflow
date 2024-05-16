@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/8b696c6c7c0a46bf89a90aea38f09e70/artifacts
+end_time: 1715883657418
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 8b696c6c7c0a46bf89a90aea38f09e70
+run_name: languid-seal-513
+run_uuid: 8b696c6c7c0a46bf89a90aea38f09e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883657297
+status: 3
+tags: []
+user_id: klimbelousov

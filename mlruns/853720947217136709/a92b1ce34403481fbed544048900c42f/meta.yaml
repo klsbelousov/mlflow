@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/a92b1ce34403481fbed544048900c42f/artifacts
+end_time: 1715883646152
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: a92b1ce34403481fbed544048900c42f
+run_name: wistful-kite-737
+run_uuid: a92b1ce34403481fbed544048900c42f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883646045
+status: 3
+tags: []
+user_id: klimbelousov

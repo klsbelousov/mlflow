@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/3c4c78fa0597419db86d4a784b85ee58/artifacts
+end_time: 1715883650273
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 3c4c78fa0597419db86d4a784b85ee58
+run_name: funny-stork-655
+run_uuid: 3c4c78fa0597419db86d4a784b85ee58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883650147
+status: 3
+tags: []
+user_id: klimbelousov

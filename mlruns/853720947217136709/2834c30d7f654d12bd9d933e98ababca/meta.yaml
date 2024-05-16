@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/2834c30d7f654d12bd9d933e98ababca/artifacts
+end_time: 1715883866625
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 2834c30d7f654d12bd9d933e98ababca
+run_name: suave-gnu-933
+run_uuid: 2834c30d7f654d12bd9d933e98ababca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883866560
+status: 3
+tags: []
+user_id: klimbelousov

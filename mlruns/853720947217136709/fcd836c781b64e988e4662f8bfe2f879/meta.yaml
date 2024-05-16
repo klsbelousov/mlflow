@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fcd836c781b64e988e4662f8bfe2f879/artifacts
+end_time: 1715883871660
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fcd836c781b64e988e4662f8bfe2f879
+run_name: puzzled-ram-140
+run_uuid: fcd836c781b64e988e4662f8bfe2f879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883871518
+status: 3
+tags: []
+user_id: klimbelousov

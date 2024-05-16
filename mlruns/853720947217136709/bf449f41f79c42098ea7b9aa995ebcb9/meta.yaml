@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/bf449f41f79c42098ea7b9aa995ebcb9/artifacts
+end_time: 1715883825377
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: bf449f41f79c42098ea7b9aa995ebcb9
+run_name: brawny-whale-75
+run_uuid: bf449f41f79c42098ea7b9aa995ebcb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883825271
+status: 3
+tags: []
+user_id: klimbelousov

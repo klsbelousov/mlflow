@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ad29568861d548e9a028bc8375f80286/artifacts
+end_time: 1715883852954
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ad29568861d548e9a028bc8375f80286
+run_name: intrigued-crane-163
+run_uuid: ad29568861d548e9a028bc8375f80286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883852868
+status: 3
+tags: []
+user_id: klimbelousov

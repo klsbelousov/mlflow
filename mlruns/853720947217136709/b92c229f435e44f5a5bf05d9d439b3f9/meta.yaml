@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b92c229f435e44f5a5bf05d9d439b3f9/artifacts
+end_time: 1715883920883
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b92c229f435e44f5a5bf05d9d439b3f9
+run_name: polite-conch-430
+run_uuid: b92c229f435e44f5a5bf05d9d439b3f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883920772
+status: 3
+tags: []
+user_id: klimbelousov

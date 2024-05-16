@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/83190edd29ef4c29863ec3e4f2e0fc19/artifacts
+end_time: 1715883923142
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 83190edd29ef4c29863ec3e4f2e0fc19
+run_name: skillful-lamb-80
+run_uuid: 83190edd29ef4c29863ec3e4f2e0fc19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883923027
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/32ca7667dbb94a4b937733fc2cf8d5cd/artifacts
+end_time: 1715884341592
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 32ca7667dbb94a4b937733fc2cf8d5cd
+run_name: bittersweet-yak-477
+run_uuid: 32ca7667dbb94a4b937733fc2cf8d5cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884341507
+status: 3
+tags: []
+user_id: klimbelousov

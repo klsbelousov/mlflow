@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/0920d31bf9034fb2be8fc13e18c66d80/artifacts
+end_time: 1715883929576
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 0920d31bf9034fb2be8fc13e18c66d80
+run_name: ambitious-tern-687
+run_uuid: 0920d31bf9034fb2be8fc13e18c66d80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883929464
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5be6527802bc40649d9fbfe8e0c362dd/artifacts
+end_time: 1715884354006
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5be6527802bc40649d9fbfe8e0c362dd
+run_name: fun-sponge-986
+run_uuid: 5be6527802bc40649d9fbfe8e0c362dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884353902
+status: 3
+tags: []
+user_id: klimbelousov

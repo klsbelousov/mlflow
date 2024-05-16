@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b16499570bc240fc8fbd7f408d04711c/artifacts
+end_time: 1715883834368
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b16499570bc240fc8fbd7f408d04711c
+run_name: sedate-cub-148
+run_uuid: b16499570bc240fc8fbd7f408d04711c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883834185
+status: 3
+tags: []
+user_id: klimbelousov

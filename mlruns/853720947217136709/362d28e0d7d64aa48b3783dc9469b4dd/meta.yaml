@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/362d28e0d7d64aa48b3783dc9469b4dd/artifacts
+end_time: 1715884377894
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 362d28e0d7d64aa48b3783dc9469b4dd
+run_name: vaunted-lamb-875
+run_uuid: 362d28e0d7d64aa48b3783dc9469b4dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884377786
+status: 3
+tags: []
+user_id: klimbelousov

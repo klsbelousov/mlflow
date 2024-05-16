@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/e24ec401f3c4404ab3e416b4bfd5a41d/artifacts
+end_time: 1715883812144
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: e24ec401f3c4404ab3e416b4bfd5a41d
+run_name: gregarious-auk-891
+run_uuid: e24ec401f3c4404ab3e416b4bfd5a41d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883812049
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/dccb80e7321141c9abf6f9977c2a0f73/artifacts
+end_time: 1715883905022
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: dccb80e7321141c9abf6f9977c2a0f73
+run_name: peaceful-fish-506
+run_uuid: dccb80e7321141c9abf6f9977c2a0f73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883904904
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d8402f31e0fe48a8a45d0a94b9440c65/artifacts
+end_time: 1715884347749
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d8402f31e0fe48a8a45d0a94b9440c65
+run_name: glamorous-bat-601
+run_uuid: d8402f31e0fe48a8a45d0a94b9440c65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884347658
+status: 3
+tags: []
+user_id: klimbelousov

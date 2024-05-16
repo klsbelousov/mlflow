@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5cd8717b7ec740c785c656addd9d8503/artifacts
+end_time: 1715883642486
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5cd8717b7ec740c785c656addd9d8503
+run_name: dashing-hawk-554
+run_uuid: 5cd8717b7ec740c785c656addd9d8503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883642353
+status: 3
+tags: []
+user_id: klimbelousov

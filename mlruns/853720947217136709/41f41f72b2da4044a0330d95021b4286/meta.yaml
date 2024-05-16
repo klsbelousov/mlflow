@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/41f41f72b2da4044a0330d95021b4286/artifacts
+end_time: 1715884366390
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 41f41f72b2da4044a0330d95021b4286
+run_name: gentle-snake-886
+run_uuid: 41f41f72b2da4044a0330d95021b4286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884366278
+status: 3
+tags: []
+user_id: klimbelousov

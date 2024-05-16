@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/35564ce141bb43fb8d8ab09c8474bab4/artifacts
+end_time: 1715883820324
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 35564ce141bb43fb8d8ab09c8474bab4
+run_name: victorious-ape-741
+run_uuid: 35564ce141bb43fb8d8ab09c8474bab4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883820172
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9347e8a66b92499e82a28074f56bf3f7/artifacts
+end_time: 1715883822178
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9347e8a66b92499e82a28074f56bf3f7
+run_name: mysterious-trout-218
+run_uuid: 9347e8a66b92499e82a28074f56bf3f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883822000
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ed0bc8ac5c6b41f999a223c5e397926b/artifacts
+end_time: 1715883913573
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ed0bc8ac5c6b41f999a223c5e397926b
+run_name: victorious-shad-929
+run_uuid: ed0bc8ac5c6b41f999a223c5e397926b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883913451
+status: 3
+tags: []
+user_id: klimbelousov

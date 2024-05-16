@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fe80c56cc1fd42b4bc65daf7ba195b89/artifacts
+end_time: 1715883938123
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fe80c56cc1fd42b4bc65daf7ba195b89
+run_name: wise-lynx-747
+run_uuid: fe80c56cc1fd42b4bc65daf7ba195b89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883938017
+status: 3
+tags: []
+user_id: klimbelousov

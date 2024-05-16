@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7c946706be5e42a1990e564ff2d649a9/artifacts
+end_time: 1715883953656
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7c946706be5e42a1990e564ff2d649a9
+run_name: calm-tern-869
+run_uuid: 7c946706be5e42a1990e564ff2d649a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883953566
+status: 3
+tags: []
+user_id: klimbelousov

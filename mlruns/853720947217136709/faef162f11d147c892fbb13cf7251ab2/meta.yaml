@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/faef162f11d147c892fbb13cf7251ab2/artifacts
+end_time: 1715883815404
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: faef162f11d147c892fbb13cf7251ab2
+run_name: entertaining-dove-39
+run_uuid: faef162f11d147c892fbb13cf7251ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883815258
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7cb3836a5b7c45a284eb513659185bcd/artifacts
+end_time: 1715884337942
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7cb3836a5b7c45a284eb513659185bcd
+run_name: rumbling-kite-777
+run_uuid: 7cb3836a5b7c45a284eb513659185bcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884337862
+status: 3
+tags: []
+user_id: klimbelousov

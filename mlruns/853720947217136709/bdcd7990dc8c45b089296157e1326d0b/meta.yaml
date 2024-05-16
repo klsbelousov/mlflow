@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/bdcd7990dc8c45b089296157e1326d0b/artifacts
+end_time: 1715884369427
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: bdcd7990dc8c45b089296157e1326d0b
+run_name: smiling-elk-668
+run_uuid: bdcd7990dc8c45b089296157e1326d0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884369343
+status: 3
+tags: []
+user_id: klimbelousov

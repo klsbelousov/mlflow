@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/6cc419d0597241ab843b651d13e2bd4b/artifacts
+end_time: 1715883923871
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 6cc419d0597241ab843b651d13e2bd4b
+run_name: polite-deer-378
+run_uuid: 6cc419d0597241ab843b651d13e2bd4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883923776
+status: 3
+tags: []
+user_id: klimbelousov

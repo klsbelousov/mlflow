@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/68fd0bf8548e4c309fb2ef826a9dcc8e/artifacts
+end_time: 1715883835419
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 68fd0bf8548e4c309fb2ef826a9dcc8e
+run_name: peaceful-stoat-873
+run_uuid: 68fd0bf8548e4c309fb2ef826a9dcc8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883835270
+status: 3
+tags: []
+user_id: klimbelousov

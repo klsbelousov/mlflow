@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/90007422bda74f8faace59a1ac2d59bb/artifacts
+end_time: 1715883868100
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 90007422bda74f8faace59a1ac2d59bb
+run_name: indecisive-dove-866
+run_uuid: 90007422bda74f8faace59a1ac2d59bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883868005
+status: 3
+tags: []
+user_id: klimbelousov

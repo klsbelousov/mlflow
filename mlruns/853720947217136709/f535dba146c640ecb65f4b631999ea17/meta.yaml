@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/f535dba146c640ecb65f4b631999ea17/artifacts
+end_time: 1715883822361
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: f535dba146c640ecb65f4b631999ea17
+run_name: capricious-ram-188
+run_uuid: f535dba146c640ecb65f4b631999ea17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883822196
+status: 3
+tags: []
+user_id: klimbelousov

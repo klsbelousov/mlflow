@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/cd945b2c9a9d4a2792725a1b6e89a0fa/artifacts
+end_time: 1715883817711
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: cd945b2c9a9d4a2792725a1b6e89a0fa
+run_name: magnificent-boar-801
+run_uuid: cd945b2c9a9d4a2792725a1b6e89a0fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883817595
+status: 3
+tags: []
+user_id: klimbelousov

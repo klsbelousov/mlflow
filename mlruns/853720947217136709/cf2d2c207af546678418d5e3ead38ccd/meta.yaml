@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/cf2d2c207af546678418d5e3ead38ccd/artifacts
+end_time: 1715883670815
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: cf2d2c207af546678418d5e3ead38ccd
+run_name: stylish-frog-462
+run_uuid: cf2d2c207af546678418d5e3ead38ccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883670729
+status: 3
+tags: []
+user_id: klimbelousov

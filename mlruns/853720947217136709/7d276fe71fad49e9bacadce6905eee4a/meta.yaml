@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7d276fe71fad49e9bacadce6905eee4a/artifacts
+end_time: 1715883627999
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7d276fe71fad49e9bacadce6905eee4a
+run_name: burly-robin-897
+run_uuid: 7d276fe71fad49e9bacadce6905eee4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883627842
+status: 3
+tags: []
+user_id: klimbelousov

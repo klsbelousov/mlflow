@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/7b8abd8c232449aaa40e4f47d5960a85/artifacts
+end_time: 1715883899996
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 7b8abd8c232449aaa40e4f47d5960a85
+run_name: awesome-stag-13
+run_uuid: 7b8abd8c232449aaa40e4f47d5960a85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883899832
+status: 3
+tags: []
+user_id: klimbelousov

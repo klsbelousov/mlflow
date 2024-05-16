@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b1601f887cbd44e68a664f25e9d4e099/artifacts
+end_time: 1715884366267
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b1601f887cbd44e68a664f25e9d4e099
+run_name: delightful-sloth-873
+run_uuid: b1601f887cbd44e68a664f25e9d4e099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884366164
+status: 3
+tags: []
+user_id: klimbelousov

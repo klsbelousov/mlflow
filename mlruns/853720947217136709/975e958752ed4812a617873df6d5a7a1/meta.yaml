@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/975e958752ed4812a617873df6d5a7a1/artifacts
+end_time: 1715883669462
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 975e958752ed4812a617873df6d5a7a1
+run_name: serious-boar-818
+run_uuid: 975e958752ed4812a617873df6d5a7a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883669362
+status: 3
+tags: []
+user_id: klimbelousov

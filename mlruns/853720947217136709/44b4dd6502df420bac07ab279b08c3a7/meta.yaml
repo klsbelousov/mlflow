@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/44b4dd6502df420bac07ab279b08c3a7/artifacts
+end_time: 1715883872506
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 44b4dd6502df420bac07ab279b08c3a7
+run_name: sneaky-foal-34
+run_uuid: 44b4dd6502df420bac07ab279b08c3a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883872402
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/98c23692dec94e8096d0a9e56d3bfdac/artifacts
+end_time: 1715883935929
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 98c23692dec94e8096d0a9e56d3bfdac
+run_name: grandiose-zebra-985
+run_uuid: 98c23692dec94e8096d0a9e56d3bfdac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883935835
+status: 3
+tags: []
+user_id: klimbelousov

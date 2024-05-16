@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d993d19845bb46c28180aa1f2b384ba2/artifacts
+end_time: 1715884367141
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d993d19845bb46c28180aa1f2b384ba2
+run_name: upbeat-gnat-724
+run_uuid: d993d19845bb46c28180aa1f2b384ba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884367044
+status: 3
+tags: []
+user_id: klimbelousov

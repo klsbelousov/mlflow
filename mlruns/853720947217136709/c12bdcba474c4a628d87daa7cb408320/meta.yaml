@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/c12bdcba474c4a628d87daa7cb408320/artifacts
+end_time: 1715883931892
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: c12bdcba474c4a628d87daa7cb408320
+run_name: gentle-ox-429
+run_uuid: c12bdcba474c4a628d87daa7cb408320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883931800
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/35e0166d73c543f09844cf648a289e1c/artifacts
+end_time: 1715884332173
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 35e0166d73c543f09844cf648a289e1c
+run_name: big-crab-630
+run_uuid: 35e0166d73c543f09844cf648a289e1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884332075
+status: 3
+tags: []
+user_id: klimbelousov

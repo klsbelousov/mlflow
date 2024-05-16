@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/203447650d3d4371b6964fc4d1bf8f7d/artifacts
+end_time: 1715884341431
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 203447650d3d4371b6964fc4d1bf8f7d
+run_name: bald-mare-737
+run_uuid: 203447650d3d4371b6964fc4d1bf8f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884341361
+status: 3
+tags: []
+user_id: klimbelousov

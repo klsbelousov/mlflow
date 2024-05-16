@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ec54e89318314043b38f1d420e08b87c/artifacts
+end_time: 1715884349365
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ec54e89318314043b38f1d420e08b87c
+run_name: capricious-pig-751
+run_uuid: ec54e89318314043b38f1d420e08b87c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884349274
+status: 3
+tags: []
+user_id: klimbelousov

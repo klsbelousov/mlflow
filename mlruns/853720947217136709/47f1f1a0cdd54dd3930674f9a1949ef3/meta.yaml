@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/47f1f1a0cdd54dd3930674f9a1949ef3/artifacts
+end_time: 1715884373926
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 47f1f1a0cdd54dd3930674f9a1949ef3
+run_name: bustling-loon-883
+run_uuid: 47f1f1a0cdd54dd3930674f9a1949ef3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884373821
+status: 3
+tags: []
+user_id: klimbelousov

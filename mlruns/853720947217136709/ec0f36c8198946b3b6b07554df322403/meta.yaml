@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/ec0f36c8198946b3b6b07554df322403/artifacts
+end_time: 1715884354861
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: ec0f36c8198946b3b6b07554df322403
+run_name: clumsy-ant-442
+run_uuid: ec0f36c8198946b3b6b07554df322403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884354785
+status: 3
+tags: []
+user_id: klimbelousov

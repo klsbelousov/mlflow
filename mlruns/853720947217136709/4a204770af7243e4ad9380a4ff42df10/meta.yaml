@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4a204770af7243e4ad9380a4ff42df10/artifacts
+end_time: 1715883869619
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4a204770af7243e4ad9380a4ff42df10
+run_name: funny-shrew-982
+run_uuid: 4a204770af7243e4ad9380a4ff42df10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883869446
+status: 3
+tags: []
+user_id: klimbelousov

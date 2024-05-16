@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/5914b146a09549f3a43c68f7daac5bc1/artifacts
+end_time: 1715883653678
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 5914b146a09549f3a43c68f7daac5bc1
+run_name: abundant-bee-390
+run_uuid: 5914b146a09549f3a43c68f7daac5bc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883653606
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/bae03c3516094608bc13308f22d02c4c/artifacts
+end_time: 1715884376791
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: bae03c3516094608bc13308f22d02c4c
+run_name: fun-mare-693
+run_uuid: bae03c3516094608bc13308f22d02c4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884376686
+status: 3
+tags: []
+user_id: klimbelousov

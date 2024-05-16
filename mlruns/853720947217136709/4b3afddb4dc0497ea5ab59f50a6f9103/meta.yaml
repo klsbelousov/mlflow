@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/4b3afddb4dc0497ea5ab59f50a6f9103/artifacts
+end_time: 1715883920647
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 4b3afddb4dc0497ea5ab59f50a6f9103
+run_name: shivering-goat-523
+run_uuid: 4b3afddb4dc0497ea5ab59f50a6f9103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883920554
+status: 3
+tags: []
+user_id: klimbelousov

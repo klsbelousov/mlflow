@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/d80d8a1780304dbd88377e80bcd4627b/artifacts
+end_time: 1715883846230
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: d80d8a1780304dbd88377e80bcd4627b
+run_name: selective-hound-685
+run_uuid: d80d8a1780304dbd88377e80bcd4627b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883846131
+status: 3
+tags: []
+user_id: klimbelousov

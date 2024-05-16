@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/b068d711d1a14e8a98a0caa81ff39c33/artifacts
+end_time: 1715883946776
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: b068d711d1a14e8a98a0caa81ff39c33
+run_name: abundant-carp-693
+run_uuid: b068d711d1a14e8a98a0caa81ff39c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883946601
+status: 3
+tags: []
+user_id: klimbelousov

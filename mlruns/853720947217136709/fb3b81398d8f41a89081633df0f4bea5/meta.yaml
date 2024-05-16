@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/fb3b81398d8f41a89081633df0f4bea5/artifacts
+end_time: 1715883839772
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: fb3b81398d8f41a89081633df0f4bea5
+run_name: calm-ape-114
+run_uuid: fb3b81398d8f41a89081633df0f4bea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715883839680
+status: 3
+tags: []
+user_id: klimbelousov

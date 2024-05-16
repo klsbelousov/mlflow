@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853720947217136709/9e2b5f5b62c545f09c1cd3d9182a250f/artifacts
+end_time: 1715884364094
+entry_point_name: ''
+experiment_id: '853720947217136709'
+lifecycle_stage: active
+run_id: 9e2b5f5b62c545f09c1cd3d9182a250f
+run_name: resilient-gnat-167
+run_uuid: 9e2b5f5b62c545f09c1cd3d9182a250f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715884364015
+status: 3
+tags: []
+user_id: klimbelousov
